@@ -36,7 +36,7 @@ capas = [
     ("Capa de\nmodelado", GRIS, 34, ["Partición\ntemporal 80/20\n(73 / 18)",
                                      "Validación\ncruzada temporal\n(4 pliegues)",
                                      "Entrenamiento\nXGBoost +\nartefacto"]),
-    ("Capa de\noperación", GRIS, 13, ["Predicción\nsemanal por\nzona",
+    ("Capa de\noperación", GRIS, 13, ["Predicción\nsemanal\nagregada",
                                       "Monitoreo de\nderiva y\ndesempeño",
                                       "Reentrenamiento\ntrimestral"]),
 ]
