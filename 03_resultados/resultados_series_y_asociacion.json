@@ -1,0 +1,355 @@
+{
+ "n_semanas": 104,
+ "media_semanal": 840.8,
+ "sd_semanal": 52.5,
+ "cv_semanal": 6.2,
+ "min_semanal": 737,
+ "max_semanal": 978,
+ "fecha_min": "2024-01-07",
+ "fecha_max": "2025-12-28",
+ "adf_stat": -2.629,
+ "adf_p": 0.0872,
+ "adf_lags": 13,
+ "ljungbox": {
+  "4": [
+   94.96,
+   0.0
+  ],
+  "8": [
+   111.45,
+   0.0
+  ],
+  "12": [
+   126.92,
+   0.0
+  ],
+  "26": [
+   164.45,
+   0.0
+  ]
+ },
+ "fuerza_estacional": 0.881508,
+ "fuerza_tendencia": 0.328354,
+ "var_explicada_stl": 0.887919,
+ "n_dias": 731,
+ "media_diaria": 120.2,
+ "dia_semana_media": {
+  "0": 137.2,
+  "1": 136.7,
+  "2": 134.7,
+  "3": 135.5,
+  "4": 137.1,
+  "5": 80.5,
+  "6": 78.9
+ },
+ "adf_diff_stat": -3.717,
+ "adf_diff_p": 0.003883,
+ "acf_lag1": 0.544,
+ "acf_lag4": 0.435,
+ "acf_lag52": -0.361,
+ "pacf_lag1": 0.544,
+ "pacf_lag2": 0.189,
+ "banda_ic": 0.192,
+ "acf_sig": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  11,
+  12,
+  13,
+  15,
+  16,
+  17,
+  31,
+  33,
+  34,
+  35
+ ],
+ "pacf_sig": [
+  1,
+  3,
+  9,
+  11,
+  14
+ ],
+ "estabilidad": {
+  "servicio": {
+   "chi2": 3.26,
+   "gl": 10,
+   "p": 0.975,
+   "v": 0.006,
+   "tvd": 0.0,
+   "categorias": 11
+  },
+  "diagnostico_categoria": {
+   "chi2": 4.03,
+   "gl": 10,
+   "p": 0.946,
+   "v": 0.007,
+   "tvd": 0.0,
+   "categorias": 11
+  },
+  "localidad_residencia": {
+   "chi2": 0.38,
+   "gl": 3,
+   "p": 0.945,
+   "v": 0.002,
+   "tvd": 0.0,
+   "categorias": 4
+  },
+  "regimen": {
+   "chi2": 1.74,
+   "gl": 1,
+   "p": 0.188,
+   "v": 0.004,
+   "tvd": 0.0,
+   "categorias": 2
+  },
+  "prioridad": {
+   "chi2": 0.26,
+   "gl": 1,
+   "p": 0.611,
+   "v": 0.002,
+   "tvd": 0.0,
+   "categorias": 2
+  },
+  "tipo_orden": {
+   "chi2": 3.96,
+   "gl": 5,
+   "p": 0.556,
+   "v": 0.007,
+   "tvd": 0.0,
+   "categorias": 6
+  }
+ },
+ "servicio_top_2024": {
+  "Medicina general": 34.7,
+  "Enfermería": 12.0,
+  "Odontología": 9.9
+ },
+ "servicio_top_2025": {
+  "Medicina general": 34.5,
+  "Enfermería": 11.8,
+  "Odontología": 10.0
+ },
+ "cie_top_2024": {
+  "Infección aguda de las vías respiratorias superiores, no especificada": 9.1,
+  "Hipertensión esencial (primaria)": 8.2,
+  "Examen médico general": 8.1
+ },
+ "cie_top_2025": {
+  "Infección aguda de las vías respiratorias superiores, no especificada": 9.1,
+  "Hipertensión esencial (primaria)": 8.2,
+  "Examen médico general": 8.1
+ },
+ "n_2024": 43793,
+ "n_2025": 44037,
+ "semanas_2024": 52,
+ "semanas_2025": 52,
+ "media_2024": 826.3,
+ "media_2025": 830.9,
+ "vif_inicial": [
+  [
+   "edad_media",
+   2.64
+  ],
+  [
+   "prop_mayor_60",
+   2.59
+  ],
+  [
+   "medicina_general",
+   1.37
+  ],
+  [
+   "enfermeria",
+   1.33
+  ],
+  [
+   "apoyo_diagnostico",
+   1.3
+  ],
+  [
+   "odontologia",
+   1.24
+  ],
+  [
+   "pediatria",
+   1.23
+  ],
+  [
+   "espera_media",
+   1.2
+  ],
+  [
+   "prop_contributivo",
+   1.17
+  ],
+  [
+   "prop_prioridad_pref",
+   1.14
+  ],
+  [
+   "prop_remision",
+   1.11
+  ],
+  [
+   "prop_femenino",
+   1.04
+  ]
+ ],
+ "vif_eliminadas": [],
+ "vif_final": [
+  [
+   "edad_media",
+   2.64
+  ],
+  [
+   "prop_mayor_60",
+   2.59
+  ],
+  [
+   "medicina_general",
+   1.37
+  ],
+  [
+   "enfermeria",
+   1.33
+  ],
+  [
+   "apoyo_diagnostico",
+   1.3
+  ],
+  [
+   "odontologia",
+   1.24
+  ],
+  [
+   "pediatria",
+   1.23
+  ],
+  [
+   "espera_media",
+   1.2
+  ],
+  [
+   "prop_contributivo",
+   1.17
+  ],
+  [
+   "prop_prioridad_pref",
+   1.14
+  ],
+  [
+   "prop_remision",
+   1.11
+  ],
+  [
+   "prop_femenino",
+   1.04
+  ]
+ ],
+ "vif_n_obs": 104,
+ "vif_vars_final": [
+  "medicina_general",
+  "enfermeria",
+  "odontologia",
+  "pediatria",
+  "apoyo_diagnostico",
+  "edad_media",
+  "prop_femenino",
+  "prop_mayor_60",
+  "prop_contributivo",
+  "prop_prioridad_pref",
+  "prop_remision",
+  "espera_media"
+ ],
+ "oe2_n_prof": 180,
+ "oe2_n_comb": 220,
+ "oe2_n_celdas": 39600,
+ "oe2_densidad": 73.63,
+ "oe2_mediana_comb_prof": 162,
+ "oe2_max_comb_prof": 175,
+ "oe2_min_comb_prof": 148,
+ "oe2_top_comb": [
+  [
+   "Medicina general | Infección aguda de las vías respiratorias superiores, no especificada",
+   2788,
+   3.17
+  ],
+  [
+   "Medicina general | Examen médico general",
+   2500,
+   2.85
+  ],
+  [
+   "Medicina general | Hipertensión esencial (primaria)",
+   2398,
+   2.73
+  ],
+  [
+   "Medicina general | Dolor lumbar",
+   1956,
+   2.23
+  ],
+  [
+   "Medicina general | Diabetes mellitus tipo 2 sin complicaciones",
+   1946,
+   2.22
+  ],
+  [
+   "Medicina general | Enfermedad por reflujo gastroesofágico sin esofagitis",
+   1665,
+   1.9
+  ],
+  [
+   "Medicina general | Infección de vías urinarias, sitio no especificado",
+   1649,
+   1.88
+  ],
+  [
+   "Medicina general | Cefalea, no especificada",
+   1623,
+   1.85
+  ],
+  [
+   "Medicina general | Caries dental, no especificada",
+   1622,
+   1.85
+  ],
+  [
+   "Medicina general | Necesidad de inmunización contra enfermedades infecciosas",
+   1407,
+   1.6
+  ]
+ ],
+ "oe2_comb_80pct": 111,
+ "oe2_comb_50pct": 41,
+ "oe2_n_comb_obs": 220,
+ "oe2_comb_teoricas": 220,
+ "asoc_servicio_cie": {
+  "chi2": 171.7,
+  "gl": 190,
+  "p": 0.825,
+  "v": 0.014
+ },
+ "asoc_servicio_orden": {
+  "chi2": 82.5,
+  "gl": 50,
+  "p": 0.00258,
+  "v": 0.014
+ },
+ "asoc_cie_orden": {
+  "chi2": 90.9,
+  "gl": 95,
+  "p": 0.601,
+  "v": 0.014
+ },
+ "reglas_servicio_orden": [],
+ "reglas_cie_servicio": [],
+ "servicios_especialidad_1a1": false,
+ "n_train": 83,
+ "n_test": 21
+}

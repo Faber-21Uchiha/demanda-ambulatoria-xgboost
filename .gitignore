@@ -1,0 +1,17 @@
+# Entornos y caché
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Registros y temporales
+*.log
+~$*
+
+# Artefactos pesados que se regeneran con los scripts
+03_resultados/figuras/*.pdf

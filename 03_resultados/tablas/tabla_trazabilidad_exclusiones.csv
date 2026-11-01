@@ -1,0 +1,7 @@
+﻿paso,criterio,registros_excluidos,registros_restantes,pct_excluidos
+C1,Fecha fuera del periodo enero 2024 - diciembre 2025 (o fecha invalida),500,99500,0.5
+C2,Registro duplicado exacto de otro registro (se conserva la primera aparicion),536,98964,0.54
+C3,Edad ausente o fuera del rango 0-120 anos,2779,96185,2.78
+C4,Diagnostico CIE-10 ausente o no perteneciente al catalogo de referencia,1829,94356,1.83
+C5,"Ausencia de al menos un campo critico (servicio, localidad, EPS, tipo de orden, profesional o sexo)",6524,87832,6.52
+C6,Duplicados residuales identificados tras los tratamientos T1-T3,2,87830,0.0

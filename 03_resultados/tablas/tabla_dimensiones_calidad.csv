@@ -1,0 +1,18 @@
+﻿dimension,indicador,resultado,criterio_referencia
+Completitud,Porcentaje de celdas completas,99.57%,>= 90% por variable
+Completitud,Registros sin ningun valor nulo,"84,397 (84.40%)",Informativo
+Unicidad,Duplicados exactos,536 (0.54%),0 duplicados
+Unicidad,Registros con identificador repetido,"1,600",Identificador unico
+Validez,Codigos CIE-10 validos,"98,108 (98.11%)",100% validos
+Validez,Edades dentro de rango (0-120),97.20%,100% en rango
+Validez,Tiempos de espera atipicos,250,Dentro de rango plausible
+Consistencia,Fechas dentro del periodo 2024-2025,99.50%,100% en periodo
+Consistencia,Anio incoherente con la fecha,0,Coherencia total
+Consistencia,Mes incoherente con la fecha,0,Coherencia total
+Consistencia,Categorias de servicio fuera de dominio,600,100% en dominio
+Integridad,Registros sin algun campo critico,"10,304",Campos criticos completos
+Temporalidad,Meses con registros (de 24 esperados),24,24 meses
+Temporalidad,Rango de fechas observado,2022-01-02 a 2025-12-31,2024-01-01 a 2025-12-31
+Representatividad,Localidades representadas,4 de 4,4 localidades
+Representatividad,Codigos CIE-10 distintos,25,Diversidad diagnostica
+Representatividad,Profesionales con registros,180,Variedad prescriptiva

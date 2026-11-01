@@ -1,0 +1,172 @@
+{
+  "n_registros": 100000,
+  "n_variables": 39,
+  "celdas_totales": 3900000,
+  "celdas_nulas": 16827,
+  "pct_celdas_completas": 99.57,
+  "registros_completos": 84397,
+  "pct_registros_completos": 84.4,
+  "n_variables_con_nulos": 10,
+  "variables_con_nulos": {
+    "estrato_socioeconomico": 3.5,
+    "edad": 2.5,
+    "tiempo_espera_min": 2.49,
+    "localidad_residencia": 1.8,
+    "eps": 1.5,
+    "tipo_orden": 1.4,
+    "sexo": 1.2,
+    "codigo_cie10": 1.19,
+    "servicio": 1.0,
+    "id_profesional": 0.25
+  },
+  "duplicados_exactos": 536,
+  "pct_duplicados_exactos": 0.54,
+  "registros_con_id_repetido": 1600,
+  "cie_nulos": 1192,
+  "cie_invalidos": 700,
+  "cie_validos": 98108,
+  "pct_cie_validos": 98.11,
+  "edad_nula": 2498,
+  "edad_invalida": 300,
+  "pct_edad_valida": 97.2,
+  "espera_atipica": 250,
+  "fuera_periodo": 500,
+  "pct_en_periodo": 99.5,
+  "inconsistente_anio": 0,
+  "inconsistente_mes": 0,
+  "servicio_inconsistente": 600,
+  "servicio_nulos": 997,
+  "campos_criticos_faltantes": {
+    "fecha_atencion": 0,
+    "servicio": 997,
+    "codigo_cie10": 1192,
+    "localidad_residencia": 1799,
+    "eps": 1500,
+    "tipo_orden": 1400,
+    "id_profesional": 250,
+    "sexo": 1200,
+    "edad": 2498
+  },
+  "profesional_nulo": 250,
+  "registros_sin_algun_campo_critico": 10304,
+  "fecha_min": "2022-01-02",
+  "fecha_max": "2025-12-31",
+  "meses_cubiertos": 24,
+  "registros_2024": 49500,
+  "registros_2025": 50000,
+  "representatividad": {
+    "localidades": {
+      "Kennedy": 37425,
+      "Bosa": 30184,
+      "Fontibón": 17941,
+      "Puente Aranda": 12651,
+      "NaN": 1799
+    },
+    "servicios_top": {
+      "Medicina general": 33650,
+      "Enfermería": 11792,
+      "Odontología": 9866,
+      "Pediatría": 8959,
+      "Medicina interna": 7861,
+      "Medicina familiar": 6843,
+      "Ginecología": 5741,
+      "Psicología": 4931,
+      "Laboratorio": 3879,
+      "Nutrición": 3000,
+      "Imágenes diagnósticas": 1881
+    },
+    "cie_top": {
+      "J06.9": 8989,
+      "I10": 8005,
+      "Z00.0": 7990,
+      "E11.9": 6265,
+      "M54.5": 6226,
+      "K21.9": 5376,
+      "N39.0": 5370,
+      "R51.9": 5368,
+      "K02.9": 5262,
+      "Z23": 4553
+    },
+    "n_profesionales": 180,
+    "n_usuarios": 40126,
+    "n_eps": 5,
+    "n_cie_unicos": 25
+  },
+  "n_servicios_canonicos_presentes": 98403,
+  "limpieza": {
+    "n_inicial": 100000,
+    "n_final": 87830,
+    "n_excluidos_total": 12170,
+    "pct_excluidos": 12.17,
+    "pct_conservados": 87.83,
+    "trazabilidad": [
+      {
+        "paso": "C1",
+        "criterio": "Fecha fuera del periodo enero 2024 - diciembre 2025 (o fecha invalida)",
+        "registros_excluidos": 500,
+        "registros_restantes": 99500,
+        "pct_excluidos": 0.5
+      },
+      {
+        "paso": "C2",
+        "criterio": "Registro duplicado exacto de otro registro (se conserva la primera aparicion)",
+        "registros_excluidos": 536,
+        "registros_restantes": 98964,
+        "pct_excluidos": 0.54
+      },
+      {
+        "paso": "C3",
+        "criterio": "Edad ausente o fuera del rango 0-120 anos",
+        "registros_excluidos": 2779,
+        "registros_restantes": 96185,
+        "pct_excluidos": 2.78
+      },
+      {
+        "paso": "C4",
+        "criterio": "Diagnostico CIE-10 ausente o no perteneciente al catalogo de referencia",
+        "registros_excluidos": 1829,
+        "registros_restantes": 94356,
+        "pct_excluidos": 1.83
+      },
+      {
+        "paso": "C5",
+        "criterio": "Ausencia de al menos un campo critico (servicio, localidad, EPS, tipo de orden, profesional o sexo)",
+        "registros_excluidos": 6524,
+        "registros_restantes": 87832,
+        "pct_excluidos": 6.52
+      },
+      {
+        "paso": "C6",
+        "criterio": "Duplicados residuales identificados tras los tratamientos T1-T3",
+        "registros_excluidos": 2,
+        "registros_restantes": 87830,
+        "pct_excluidos": 0.0
+      }
+    ],
+    "n_homologados_servicio": 538,
+    "n_espera_anulados": 219,
+    "celdas_nulas_final": 5527,
+    "duplicados_final": 0
+  },
+  "eda": {
+    "demanda_semanal_media": 836.5,
+    "demanda_semanal_min": 386,
+    "demanda_semanal_max": 978,
+    "n_semanas": 105,
+    "mes_pico": "2024-10",
+    "mes_pico_registros": 4060,
+    "mes_valle": "2025-02",
+    "mes_valle_registros": 3097,
+    "localidad_top": "Kennedy",
+    "localidad_top_pct": 38.2,
+    "servicio_top": "Medicina general",
+    "servicio_top_pct": 34.6,
+    "cie_top": "J06.9",
+    "cie_top_n": 8025,
+    "edad_media": 42.5,
+    "pct_mayores_60": 25.3,
+    "pct_pediatria_menor_18": 14.1,
+    "pct_cronicos_hta_dm": 14.5,
+    "n_registros_final": 87830
+  }
+}
