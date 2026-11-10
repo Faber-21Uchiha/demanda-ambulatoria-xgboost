@@ -1,0 +1,31 @@
+{
+ "semilla": 20261109,
+ "mapa_localidad_zona": {
+  "Kennedy": "Norte",
+  "Bosa": "Sur",
+  "Fontibón": "Centro",
+  "Puente Aranda": "Occidente"
+ },
+ "factor_capacidad_por_zona": {
+  "Norte": 0.985,
+  "Sur": 0.972,
+  "Centro": 0.958,
+  "Occidente": 0.945
+ },
+ "regla_capacidad": "capacidad nominal = demanda media de 2024 de la zona x factor x estacionalidad mensual atenuada x (1 + ruido AR(1) sd 1,2 %)",
+ "p_pqrs_por_cita_no_atendida": 0.28,
+ "pqrs_administrativas_por_1000_atenciones": 2.1,
+ "n_semanas": 104,
+ "n_zonas": 4,
+ "n_observaciones_panel": 416,
+ "demanda_total": 87444,
+ "capacidad_total": 84317,
+ "no_atendidas_total": 4292,
+ "tasa_no_atencion_global": 4.91,
+ "pqrs_total": 1404,
+ "pqrs_oportunidad": 1224,
+ "semanas": [
+  "2024-01-01",
+  "2025-12-22"
+ ]
+}

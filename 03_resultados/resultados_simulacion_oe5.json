@@ -1,0 +1,150 @@
+{
+ "ventana": {
+  "semanas": 18,
+  "ini": "2025-08-25",
+  "fin": "2025-12-22",
+  "observaciones": 72
+ },
+ "modelo_pqrs": {
+  "familia": "OLS",
+  "errores": "HC1",
+  "forma": "pqrs_op = a + b*no_atendidas + efectos_zona",
+  "coef_no_atendidas": 0.2727,
+  "ic95": [
+   0.2569,
+   0.2885
+  ],
+  "r2": 0.795,
+  "n": 416,
+  "coef_generador": 0.28,
+  "pqrs_observadas_ventana": 251
+ },
+ "base": {
+  "no_atendidas": 941.0,
+  "pqrs_esperadas": 266.1,
+  "ic95": [
+   253.5,
+   279.8
+  ]
+ },
+ "reasignacion": {
+  "limite": 0.1,
+  "no_atendidas": 936.0,
+  "pqrs_esperadas": 265.3,
+  "ic95": [
+   252.7,
+   279.4
+  ],
+  "reduccion_pct": 0.28
+ },
+ "dirigido": {
+  "presupuesto": 0.03,
+  "no_atendidas": 638.0,
+  "pqrs_esperadas": 184.2,
+  "ic95": [
+   175.3,
+   194.3
+  ],
+  "reduccion_pct": 30.77
+ },
+ "proporcional": {
+  "presupuesto": 0.03,
+  "no_atendidas": 634.0,
+  "pqrs_esperadas": 182.6,
+  "ic95": [
+   174.2,
+   193.1
+  ],
+  "reduccion_pct": 31.36
+ },
+ "comparacion": {
+  "diferencia_pp": -0.59,
+  "pqrs_evitadas_extra": -1.6
+ },
+ "oraculo": {
+  "reasignacion_pqrs": 239.6,
+  "reasignacion_reduccion_pct": 9.94,
+  "dirigido_pqrs": 156.3,
+  "dirigido_reduccion_pct": 41.27
+ },
+ "error_participacion_l1": {
+  "pronostico": 0.0435,
+  "capacidad_actual": 0.042
+ },
+ "sensibilidad": {
+  "reasignacion": {
+   "0.1": {
+    "no_atendidas": 936.0,
+    "pqrs_esperadas": 265.3,
+    "reduccion_pct": 0.28
+   },
+   "0.25": {
+    "no_atendidas": 946.0,
+    "pqrs_esperadas": 268.2,
+    "reduccion_pct": -0.79
+   },
+   "0.5": {
+    "no_atendidas": 946.0,
+    "pqrs_esperadas": 268.2,
+    "reduccion_pct": -0.79
+   },
+   "1.0": {
+    "no_atendidas": 946.0,
+    "pqrs_esperadas": 268.2,
+    "reduccion_pct": -0.79
+   }
+  },
+  "presupuesto": {
+   "0.01": {
+    "cupos_extra": 148,
+    "no_atendidas": 823.0,
+    "pqrs_esperadas": 234.0,
+    "reduccion_pct": 12.07
+   },
+   "0.02": {
+    "cupos_extra": 295,
+    "no_atendidas": 721.0,
+    "pqrs_esperadas": 206.7,
+    "reduccion_pct": 22.32
+   },
+   "0.03": {
+    "cupos_extra": 443,
+    "no_atendidas": 638.0,
+    "pqrs_esperadas": 184.2,
+    "reduccion_pct": 30.77
+   },
+   "0.05": {
+    "cupos_extra": 738,
+    "no_atendidas": 500.0,
+    "pqrs_esperadas": 147.0,
+    "reduccion_pct": 44.76
+   }
+  },
+  "error_pronostico": {
+   "0.5x": {
+    "sigma": 8.29,
+    "no_atendidas": 649.0,
+    "pqrs_esperadas": 187.2,
+    "reduccion_pct": 29.64
+   },
+   "1x": {
+    "sigma": 16.57,
+    "no_atendidas": 644.0,
+    "pqrs_esperadas": 185.8,
+    "reduccion_pct": 30.19
+   },
+   "1.5x": {
+    "sigma": 24.86,
+    "no_atendidas": 680.0,
+    "pqrs_esperadas": 195.4,
+    "reduccion_pct": 26.57
+   },
+   "2x": {
+    "sigma": 33.15,
+    "no_atendidas": 677.0,
+    "pqrs_esperadas": 194.6,
+    "reduccion_pct": 26.87
+   }
+  }
+ }
+}

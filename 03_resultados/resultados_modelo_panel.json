@@ -1,0 +1,107 @@
+{
+ "n_obs_panel": 364,
+ "n_semanas": 91,
+ "n_train": 292,
+ "n_test": 72,
+ "train_ini": "2024-04-01",
+ "train_fin": "2025-08-18",
+ "test_ini": "2025-08-25",
+ "test_fin": "2025-12-22",
+ "n_predictores": 38,
+ "xgboost": {
+  "MAE": 13.7,
+  "RMSE": 16.6,
+  "MAPE": 6.93,
+  "R2": 0.965
+ },
+ "regresion": {
+  "MAE": 14.2,
+  "RMSE": 18.1,
+  "MAPE": 6.97,
+  "R2": 0.958
+ },
+ "media_historica": {
+  "MAE": 16.4,
+  "RMSE": 20.0,
+  "MAPE": 7.83,
+  "R2": 0.949
+ },
+ "naive_1": {
+  "MAE": 17.5,
+  "RMSE": 22.3,
+  "MAPE": 8.65,
+  "R2": 0.936
+ },
+ "naive_52": {
+  "MAE": 16.2,
+  "RMSE": 20.7,
+  "MAPE": 7.91,
+  "R2": 0.945
+ },
+ "por_zona": {
+  "Centro": {
+   "n": 18,
+   "xgboost": {
+    "MAE": 12.2,
+    "RMSE": 13.7,
+    "MAPE": 7.81,
+    "R2": -0.183
+   },
+   "naive_52": {
+    "MAE": 15.7,
+    "RMSE": 20.6,
+    "MAPE": 10.01,
+    "R2": -1.662
+   }
+  },
+  "Norte": {
+   "n": 18,
+   "xgboost": {
+    "MAE": 18.4,
+    "RMSE": 22.7,
+    "MAPE": 5.45,
+    "R2": 0.166
+   },
+   "naive_52": {
+    "MAE": 20.4,
+    "RMSE": 24.2,
+    "MAPE": 6.03,
+    "R2": 0.048
+   }
+  },
+  "Occidente": {
+   "n": 18,
+   "xgboost": {
+    "MAE": 10.7,
+    "RMSE": 12.3,
+    "MAPE": 9.28,
+    "R2": 0.131
+   },
+   "naive_52": {
+    "MAE": 9.6,
+    "RMSE": 12.9,
+    "MAPE": 8.34,
+    "R2": 0.034
+   }
+  },
+  "Sur": {
+   "n": 18,
+   "xgboost": {
+    "MAE": 13.3,
+    "RMSE": 15.8,
+    "MAPE": 5.18,
+    "R2": 0.352
+   },
+   "naive_52": {
+    "MAE": 19.2,
+    "RMSE": 23.0,
+    "MAPE": 7.24,
+    "R2": -0.379
+   }
+  }
+ },
+ "mejora_vs_naive52_pct": {
+  "MAE": 15.4,
+  "MAPE": 12.4
+ }
+}

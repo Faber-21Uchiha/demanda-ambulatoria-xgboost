@@ -1,0 +1,321 @@
+{
+ "modelo": {
+  "algoritmo": "XGBoost regresion",
+  "version_xgboost": "3.4.1",
+  "python": "3.14.0",
+  "n_estimadores": 400,
+  "profundidad_maxima": 3,
+  "semilla": 2026,
+  "n_predictores": 38,
+  "predictores": [
+   "medicina_general",
+   "enfermeria",
+   "odontologia",
+   "pediatria",
+   "apoyo_diagnostico",
+   "edad_media",
+   "prop_femenino",
+   "prop_mayor_60",
+   "prop_contributivo",
+   "prop_prioritaria",
+   "prop_remision",
+   "espera_media",
+   "lag1",
+   "lag2",
+   "lag3",
+   "lag4",
+   "roll4",
+   "roll8",
+   "roll13",
+   "roll_std8",
+   "medicina_general_lag1",
+   "enfermeria_lag1",
+   "odontologia_lag1",
+   "pediatria_lag1",
+   "apoyo_diagnostico_lag1",
+   "edad_media_lag1",
+   "prop_femenino_lag1",
+   "prop_mayor_60_lag1",
+   "prop_contributivo_lag1",
+   "prop_prioritaria_lag1",
+   "prop_remision_lag1",
+   "espera_media_lag1",
+   "woy_sin",
+   "woy_cos",
+   "t",
+   "zona_Norte",
+   "zona_Occidente",
+   "zona_Sur"
+  ],
+  "n_arboles": 400,
+  "n_nodos_internos": 2632,
+  "tamano_ubj_bytes": 458607,
+  "tamano_ubj_kb": 447.9,
+  "sha256_ubj": "80ff9fc084e38a124214db5a4e137f1c87566db940a0158b2ea0c9461c5f88c0"
+ },
+ "latencia_inferencia": {
+  "4": {
+   "p50_ms": 1.0447,
+   "p95_ms": 1.1328,
+   "max_ms": 1.7606,
+   "us_por_registro": 261.17
+  },
+  "52": {
+   "p50_ms": 1.1644,
+   "p95_ms": 1.6114,
+   "max_ms": 2.0957,
+   "us_por_registro": 22.39
+  },
+  "400": {
+   "p50_ms": 1.7088,
+   "p95_ms": 2.1769,
+   "max_ms": 2.6613,
+   "us_por_registro": 4.27
+  },
+  "5000": {
+   "p50_ms": 7.8634,
+   "p95_ms": 8.3686,
+   "max_ms": 10.464,
+   "us_por_registro": 1.57
+  }
+ },
+ "volumen_datos": {
+  "crudo_registros": 100000,
+  "crudo_mb": 32.7,
+  "depurado_registros": 87830,
+  "depurado_mb": 28.9,
+  "panel_registros": 416,
+  "pqrs_registros": 1404,
+  "semanas_panel": 104,
+  "demanda_semanal_media": 841,
+  "demanda_semanal_sd": 52,
+  "registros_nuevos_por_semana": 841,
+  "observaciones_entrenamiento": 364,
+  "memoria_modelo_kb": 447.8
+ },
+ "deriva_psi": {
+  "metodo": "PSI con 10 bins por cuantiles de la referencia 2024",
+  "excluidas": [
+   "t",
+   "woy_cos",
+   "woy_sin"
+  ],
+  "umbral_alerta": 0.1,
+  "umbral_reentrenar": 0.25,
+  "n_variables_evaluadas": 35,
+  "n_alerta": 12,
+  "n_reentrenar": 2,
+  "variables_alerta": [
+   "prop_prioritaria_lag1",
+   "prop_remision_lag1",
+   "prop_remision",
+   "pediatria",
+   "prop_contributivo_lag1",
+   "enfermeria_lag1",
+   "edad_media",
+   "edad_media_lag1",
+   "prop_contributivo",
+   "enfermeria",
+   "pediatria_lag1",
+   "roll8"
+  ],
+  "variables_reentrenar": [
+   "roll_std8",
+   "prop_prioritaria"
+  ],
+  "psi_maximo": 0.4896,
+  "psi_mediana": 0.0808,
+  "detalle": [
+   {
+    "variable": "roll_std8",
+    "psi": 0.4896,
+    "estado": "reentrenar"
+   },
+   {
+    "variable": "prop_prioritaria",
+    "psi": 0.2613,
+    "estado": "reentrenar"
+   },
+   {
+    "variable": "prop_prioritaria_lag1",
+    "psi": 0.2012,
+    "estado": "alerta"
+   },
+   {
+    "variable": "prop_remision_lag1",
+    "psi": 0.1892,
+    "estado": "alerta"
+   },
+   {
+    "variable": "prop_remision",
+    "psi": 0.1761,
+    "estado": "alerta"
+   },
+   {
+    "variable": "pediatria",
+    "psi": 0.1472,
+    "estado": "alerta"
+   },
+   {
+    "variable": "prop_contributivo_lag1",
+    "psi": 0.1346,
+    "estado": "alerta"
+   },
+   {
+    "variable": "enfermeria_lag1",
+    "psi": 0.1278,
+    "estado": "alerta"
+   },
+   {
+    "variable": "edad_media",
+    "psi": 0.127,
+    "estado": "alerta"
+   },
+   {
+    "variable": "edad_media_lag1",
+    "psi": 0.1261,
+    "estado": "alerta"
+   },
+   {
+    "variable": "prop_contributivo",
+    "psi": 0.1224,
+    "estado": "alerta"
+   },
+   {
+    "variable": "enfermeria",
+    "psi": 0.1186,
+    "estado": "alerta"
+   },
+   {
+    "variable": "pediatria_lag1",
+    "psi": 0.1152,
+    "estado": "alerta"
+   },
+   {
+    "variable": "roll8",
+    "psi": 0.104,
+    "estado": "alerta"
+   },
+   {
+    "variable": "prop_femenino_lag1",
+    "psi": 0.0865,
+    "estado": "estable"
+   },
+   {
+    "variable": "espera_media_lag1",
+    "psi": 0.0863,
+    "estado": "estable"
+   },
+   {
+    "variable": "roll4",
+    "psi": 0.0841,
+    "estado": "estable"
+   },
+   {
+    "variable": "espera_media",
+    "psi": 0.0808,
+    "estado": "estable"
+   },
+   {
+    "variable": "apoyo_diagnostico_lag1",
+    "psi": 0.0785,
+    "estado": "estable"
+   },
+   {
+    "variable": "prop_femenino",
+    "psi": 0.077,
+    "estado": "estable"
+   },
+   {
+    "variable": "apoyo_diagnostico",
+    "psi": 0.0669,
+    "estado": "estable"
+   },
+   {
+    "variable": "prop_mayor_60_lag1",
+    "psi": 0.0656,
+    "estado": "estable"
+   },
+   {
+    "variable": "roll13",
+    "psi": 0.0654,
+    "estado": "estable"
+   },
+   {
+    "variable": "prop_mayor_60",
+    "psi": 0.0618,
+    "estado": "estable"
+   },
+   {
+    "variable": "medicina_general",
+    "psi": 0.0565,
+    "estado": "estable"
+   },
+   {
+    "variable": "odontologia",
+    "psi": 0.0432,
+    "estado": "estable"
+   },
+   {
+    "variable": "odontologia_lag1",
+    "psi": 0.0373,
+    "estado": "estable"
+   },
+   {
+    "variable": "medicina_general_lag1",
+    "psi": 0.0364,
+    "estado": "estable"
+   },
+   {
+    "variable": "lag1",
+    "psi": 0.0312,
+    "estado": "estable"
+   },
+   {
+    "variable": "lag4",
+    "psi": 0.0291,
+    "estado": "estable"
+   },
+   {
+    "variable": "lag3",
+    "psi": 0.0276,
+    "estado": "estable"
+   },
+   {
+    "variable": "lag2",
+    "psi": 0.0216,
+    "estado": "estable"
+   },
+   {
+    "variable": "zona_Norte",
+    "psi": 0.0,
+    "estado": "estable"
+   },
+   {
+    "variable": "zona_Occidente",
+    "psi": 0.0,
+    "estado": "estable"
+   },
+   {
+    "variable": "zona_Sur",
+    "psi": 0.0,
+    "estado": "estable"
+   }
+  ]
+ },
+ "regla_reentrenamiento": {
+  "monitoreo_semanal": "calcular PSI de los predictores sustantivos y el error de la ultima semana contra el valor observado",
+  "alerta": "PSI >= 0.1 en cualquier predictor o MAPE mensual 20 % superior a la linea base",
+  "reentrenamiento_programado": "trimestral con ventana movil de 24 meses",
+  "reentrenamiento_extraordinario": "PSI >= 0.25 o cambio de politica de agenda",
+  "validacion": "comparar challenger contra champion en las 8 semanas previas; promover solo si reduce el MAE al menos 5 %",
+  "versionado": "registro de fecha, semilla, hash del modelo y del conjunto de datos",
+  "reversion": "conservar la version anterior del artefacto UBJ durante 6 meses"
+ },
+ "huellas_datos": {
+  "depurado_sha256": "a94d19d09be4a68e7381d83d664ef22086691defbc8391262414a7748da28ef9",
+  "panel_sha256": "78acccacf08a6a4ff19f9066a4439dc19deb871c1775ab57be8a05ffae1c043f",
+  "pqrs_sha256": "2e4ea56eb150febeeb0d8f67013e8076fc2b76a2823aaf4940f5f1c4d83a3f26",
+  "script_features_sha256": "cfd3b570aad20f4f01c22131dd0bf5c012403204f485a8b7249d611fa6e2ddd8"
+ }
+}

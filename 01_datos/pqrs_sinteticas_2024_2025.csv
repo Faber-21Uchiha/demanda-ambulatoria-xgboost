@@ -1,0 +1,1405 @@
+﻿id_pqrs,semana_hecho,fecha_radicacion,zona,servicio,motivo,dias_oportunidad,canal,estado,vinculada_falta_oportunidad
+PQRS000697,2024-01-01,2024-01-02,Occidente,Medicina interna,Información insuficiente sobre el trámite,12,Presencial,Resuelta,True
+PQRS000308,2024-01-01,2024-01-03,Norte,Enfermería,Falta de oportunidad en la asignación,31,Presencial,Resuelta,True
+PQRS000950,2024-01-01,2024-01-03,Sur,Medicina general,Cancelación de cita por el prestador,1,Telefónico,Resuelta,False
+PQRS000305,2024-01-01,2024-01-08,Norte,Medicina general,Falta de oportunidad en la asignación,14,Virtual,En trámite,True
+PQRS000698,2024-01-08,2024-01-09,Occidente,Odontología,Falta de oportunidad en la asignación,20,Presencial,Resuelta,True
+PQRS000306,2024-01-01,2024-01-14,Norte,Medicina general,Falta de oportunidad en la asignación,10,Virtual,Resuelta,True
+PQRS000307,2024-01-01,2024-01-16,Norte,Ginecología,Demora en la asignación de cita,33,Presencial,Resuelta,True
+PQRS000699,2024-01-08,2024-01-18,Occidente,Medicina interna,Información insuficiente sobre el trámite,6,Telefónico,En trámite,False
+PQRS000309,2024-01-15,2024-01-20,Norte,Medicina general,Cancelación de cita por el prestador,6,Virtual,Resuelta,False
+PQRS000001,2024-01-22,2024-01-23,Centro,Psicología,Falta de oportunidad en la asignación,19,Virtual,Resuelta,True
+PQRS000310,2024-01-22,2024-01-23,Norte,Medicina interna,Demora en la asignación de cita,2,Telefónico,Resuelta,False
+PQRS000952,2024-01-22,2024-01-23,Sur,Nutrición,Falta de oportunidad en la asignación,8,Telefónico,Resuelta,True
+PQRS000955,2024-01-22,2024-01-25,Sur,Imágenes diagnósticas,Demora en la asignación de cita,20,Presencial,Resuelta,True
+PQRS000956,2024-01-22,2024-01-29,Sur,Medicina general,Demora en la asignación de cita,43,Telefónico,Cerrada sin respuesta,True
+PQRS000958,2024-01-29,2024-01-30,Sur,Medicina general,Demora en la asignación de cita,10,Telefónico,Resuelta,False
+PQRS000951,2024-01-22,2024-02-01,Sur,Medicina general,Falta de oportunidad en la asignación,10,Presencial,Resuelta,True
+PQRS000957,2024-01-29,2024-02-03,Sur,Enfermería,Demora en la asignación de cita,2,Virtual,Resuelta,False
+PQRS000954,2024-01-22,2024-02-04,Sur,Ginecología,Falta de oportunidad en la asignación,10,Telefónico,En trámite,True
+PQRS000953,2024-01-22,2024-02-06,Sur,Odontología,Falta de oportunidad en la asignación,4,Presencial,Resuelta,True
+PQRS000003,2024-01-29,2024-02-09,Centro,Medicina familiar,Falta de oportunidad en la asignación,4,Virtual,Resuelta,True
+PQRS000002,2024-01-29,2024-02-10,Centro,Enfermería,Cancelación de cita por el prestador,2,Presencial,Resuelta,True
+PQRS000704,2024-02-05,2024-02-10,Occidente,Enfermería,Falta de oportunidad en la asignación,34,Presencial,Resuelta,True
+PQRS000311,2024-02-05,2024-02-11,Norte,Enfermería,Demora en la asignación de cita,1,Presencial,En trámite,False
+PQRS000701,2024-02-05,2024-02-12,Occidente,Medicina general,Falta de oportunidad en la asignación,24,Presencial,Resuelta,True
+PQRS000962,2024-02-12,2024-02-14,Sur,Pediatría,Información insuficiente sobre el trámite,5,Telefónico,En trámite,False
+PQRS000702,2024-02-05,2024-02-15,Occidente,Medicina general,Falta de oportunidad en la asignación,12,Telefónico,Resuelta,True
+PQRS000312,2024-02-12,2024-02-16,Norte,Medicina general,Demora en la asignación de cita,11,Presencial,Resuelta,False
+PQRS000960,2024-02-12,2024-02-16,Sur,Laboratorio,Falta de oportunidad en la asignación,15,Telefónico,Resuelta,True
+PQRS000700,2024-02-05,2024-02-18,Occidente,Laboratorio,Falta de oportunidad en la asignación,9,Telefónico,Resuelta,True
+PQRS000703,2024-02-05,2024-02-19,Occidente,Nutrición,Falta de oportunidad en la asignación,26,Presencial,Resuelta,True
+PQRS000959,2024-02-05,2024-02-19,Sur,Medicina general,Cancelación de cita por el prestador,8,Telefónico,Resuelta,False
+PQRS000961,2024-02-12,2024-02-19,Sur,Odontología,Falta de oportunidad en la asignación,18,Telefónico,Resuelta,True
+PQRS000317,2024-02-19,2024-02-21,Norte,Enfermería,Demora en la asignación de cita,19,Presencial,Resuelta,True
+PQRS000963,2024-02-19,2024-02-21,Sur,Laboratorio,Demora en la asignación de cita,8,Telefónico,Resuelta,False
+PQRS000314,2024-02-19,2024-02-23,Norte,Medicina general,Falta de oportunidad en la asignación,26,Presencial,En trámite,True
+PQRS000004,2024-02-19,2024-02-26,Centro,Nutrición,Demora en la asignación de cita,4,Telefónico,En trámite,True
+PQRS000320,2024-02-19,2024-02-26,Norte,Medicina familiar,Falta de oportunidad en la asignación,16,Presencial,Resuelta,True
+PQRS000705,2024-02-19,2024-02-26,Occidente,Enfermería,Falta de oportunidad en la asignación,36,Presencial,Resuelta,True
+PQRS000313,2024-02-19,2024-02-27,Norte,Ginecología,Falta de oportunidad en la asignación,6,Virtual,Resuelta,True
+PQRS000318,2024-02-19,2024-02-28,Norte,Pediatría,Falta de oportunidad en la asignación,35,Telefónico,Resuelta,True
+PQRS000315,2024-02-19,2024-03-01,Norte,Medicina general,Información insuficiente sobre el trámite,51,Virtual,Resuelta,True
+PQRS000005,2024-02-19,2024-03-03,Centro,Ginecología,Cancelación de cita por el prestador,29,Presencial,Resuelta,True
+PQRS000316,2024-02-19,2024-03-03,Norte,Ginecología,Falta de oportunidad en la asignación,8,Telefónico,Cerrada sin respuesta,True
+PQRS000319,2024-02-19,2024-03-04,Norte,Enfermería,Falta de oportunidad en la asignación,12,Virtual,Resuelta,True
+PQRS000322,2024-03-04,2024-03-05,Norte,Medicina interna,Falta de oportunidad en la asignación,32,Virtual,Resuelta,True
+PQRS000328,2024-03-04,2024-03-05,Norte,Laboratorio,Falta de oportunidad en la asignación,14,Virtual,Resuelta,True
+PQRS000706,2024-03-04,2024-03-05,Occidente,Ginecología,Falta de oportunidad en la asignación,24,Telefónico,Resuelta,True
+PQRS000964,2024-02-26,2024-03-05,Sur,Medicina general,Falta de oportunidad en la asignación,17,Telefónico,Resuelta,True
+PQRS000965,2024-03-04,2024-03-05,Sur,Odontología,Falta de oportunidad en la asignación,50,Presencial,Resuelta,True
+PQRS000967,2024-03-04,2024-03-05,Sur,Laboratorio,Falta de oportunidad en la asignación,39,Presencial,Resuelta,True
+PQRS000325,2024-03-04,2024-03-07,Norte,Odontología,Falta de oportunidad en la asignación,2,Virtual,Resuelta,True
+PQRS000006,2024-02-26,2024-03-09,Centro,Medicina general,Demora en la asignación de cita,1,Presencial,Resuelta,False
+PQRS000007,2024-02-26,2024-03-09,Centro,Pediatría,Demora en la asignación de cita,5,Telefónico,Resuelta,False
+PQRS000969,2024-03-04,2024-03-09,Sur,Enfermería,Falta de oportunidad en la asignación,9,Telefónico,En trámite,True
+PQRS000327,2024-03-04,2024-03-11,Norte,Odontología,Información insuficiente sobre el trámite,14,Virtual,Resuelta,True
+PQRS000008,2024-03-11,2024-03-12,Centro,Psicología,Falta de oportunidad en la asignación,38,Virtual,Resuelta,True
+PQRS000321,2024-02-26,2024-03-12,Norte,Enfermería,Demora en la asignación de cita,2,Telefónico,En trámite,False
+PQRS000968,2024-03-04,2024-03-12,Sur,Medicina general,Falta de oportunidad en la asignación,6,Telefónico,Resuelta,True
+PQRS000009,2024-03-11,2024-03-13,Centro,Pediatría,Falta de oportunidad en la asignación,16,Virtual,En trámite,True
+PQRS000323,2024-03-04,2024-03-13,Norte,Medicina general,Demora en la asignación de cita,22,Telefónico,Resuelta,True
+PQRS000970,2024-03-11,2024-03-13,Sur,Enfermería,Información insuficiente sobre el trámite,27,Telefónico,Resuelta,True
+PQRS000330,2024-03-04,2024-03-14,Norte,Medicina interna,Demora en la asignación de cita,5,Telefónico,Resuelta,False
+PQRS000707,2024-03-04,2024-03-14,Occidente,Nutrición,Falta de oportunidad en la asignación,12,Telefónico,Resuelta,True
+PQRS000326,2024-03-04,2024-03-15,Norte,Medicina interna,Falta de oportunidad en la asignación,30,Telefónico,Resuelta,True
+PQRS000331,2024-03-11,2024-03-15,Norte,Enfermería,Información insuficiente sobre el trámite,30,Telefónico,Resuelta,False
+PQRS000975,2024-03-11,2024-03-15,Sur,Odontología,Demora en la asignación de cita,22,Presencial,Cerrada sin respuesta,False
+PQRS000324,2024-03-04,2024-03-16,Norte,Medicina interna,Demora en la asignación de cita,17,Telefónico,Resuelta,True
+PQRS000966,2024-03-04,2024-03-16,Sur,Medicina interna,Falta de oportunidad en la asignación,18,Telefónico,Cerrada sin respuesta,True
+PQRS000972,2024-03-11,2024-03-18,Sur,Ginecología,Falta de oportunidad en la asignación,32,Virtual,Resuelta,True
+PQRS000973,2024-03-11,2024-03-18,Sur,Laboratorio,Demora en la asignación de cita,11,Virtual,En trámite,True
+PQRS000329,2024-03-04,2024-03-19,Norte,Medicina general,Falta de oportunidad en la asignación,37,Presencial,Resuelta,True
+PQRS000980,2024-03-18,2024-03-19,Sur,Medicina interna,Falta de oportunidad en la asignación,33,Presencial,En trámite,True
+PQRS000986,2024-03-18,2024-03-21,Sur,Ginecología,Cancelación de cita por el prestador,11,Presencial,Resuelta,True
+PQRS000010,2024-03-11,2024-03-22,Centro,Ginecología,Información insuficiente sobre el trámite,1,Telefónico,Cerrada sin respuesta,False
+PQRS000332,2024-03-18,2024-03-22,Norte,Nutrición,Demora en la asignación de cita,3,Telefónico,Resuelta,True
+PQRS000974,2024-03-11,2024-03-23,Sur,Odontología,Cancelación de cita por el prestador,14,Telefónico,Resuelta,True
+PQRS000976,2024-03-11,2024-03-23,Sur,Enfermería,Información insuficiente sobre el trámite,10,Telefónico,Resuelta,False
+PQRS000977,2024-03-18,2024-03-23,Sur,Enfermería,Cancelación de cita por el prestador,14,Presencial,En trámite,True
+PQRS000971,2024-03-11,2024-03-25,Sur,Psicología,Demora en la asignación de cita,34,Telefónico,Resuelta,True
+PQRS000982,2024-03-18,2024-03-25,Sur,Medicina general,Falta de oportunidad en la asignación,54,Presencial,Resuelta,True
+PQRS000988,2024-03-18,2024-03-26,Sur,Pediatría,Información insuficiente sobre el trámite,5,Presencial,En trámite,True
+PQRS000990,2024-03-18,2024-03-26,Sur,Medicina general,Demora en la asignación de cita,32,Telefónico,Resuelta,True
+PQRS000012,2024-03-18,2024-03-27,Centro,Medicina familiar,Falta de oportunidad en la asignación,22,Virtual,Resuelta,True
+PQRS000709,2024-03-18,2024-03-27,Occidente,Medicina interna,Falta de oportunidad en la asignación,12,Telefónico,Resuelta,True
+PQRS000987,2024-03-18,2024-03-28,Sur,Psicología,Falta de oportunidad en la asignación,42,Virtual,Resuelta,True
+PQRS000981,2024-03-18,2024-03-29,Sur,Odontología,Falta de oportunidad en la asignación,52,Presencial,Resuelta,True
+PQRS000989,2024-03-18,2024-03-29,Sur,Ginecología,Falta de oportunidad en la asignación,32,Telefónico,Resuelta,True
+PQRS000992,2024-03-18,2024-03-29,Sur,Medicina general,Información insuficiente sobre el trámite,6,Telefónico,En trámite,False
+PQRS000983,2024-03-18,2024-03-30,Sur,Medicina familiar,Falta de oportunidad en la asignación,9,Presencial,Resuelta,True
+PQRS000984,2024-03-18,2024-03-30,Sur,Medicina general,Falta de oportunidad en la asignación,54,Virtual,Resuelta,True
+PQRS000985,2024-03-18,2024-03-30,Sur,Ginecología,Falta de oportunidad en la asignación,21,Virtual,En trámite,True
+PQRS000011,2024-03-18,2024-03-31,Centro,Psicología,Falta de oportunidad en la asignación,31,Telefónico,En trámite,True
+PQRS000013,2024-03-25,2024-03-31,Centro,Medicina general,Falta de oportunidad en la asignación,8,Telefónico,Resuelta,True
+PQRS000333,2024-03-18,2024-03-31,Norte,Enfermería,Falta de oportunidad en la asignación,28,Telefónico,Resuelta,True
+PQRS000708,2024-03-18,2024-04-01,Occidente,Pediatría,Cancelación de cita por el prestador,31,Telefónico,Resuelta,True
+PQRS000710,2024-03-18,2024-04-01,Occidente,Pediatría,Falta de oportunidad en la asignación,8,Telefónico,Resuelta,True
+PQRS000978,2024-03-18,2024-04-01,Sur,Odontología,Falta de oportunidad en la asignación,7,Virtual,Resuelta,True
+PQRS000979,2024-03-18,2024-04-01,Sur,Enfermería,Falta de oportunidad en la asignación,9,Presencial,Resuelta,True
+PQRS000991,2024-03-18,2024-04-01,Sur,Pediatría,Falta de oportunidad en la asignación,26,Presencial,Resuelta,True
+PQRS000334,2024-03-25,2024-04-03,Norte,Enfermería,Información insuficiente sobre el trámite,1,Telefónico,Resuelta,False
+PQRS000994,2024-04-01,2024-04-05,Sur,Medicina general,Demora en la asignación de cita,3,Virtual,En trámite,False
+PQRS000014,2024-03-25,2024-04-08,Centro,Medicina general,Información insuficiente sobre el trámite,57,Presencial,Cerrada sin respuesta,True
+PQRS000015,2024-03-25,2024-04-08,Centro,Enfermería,Falta de oportunidad en la asignación,6,Telefónico,Resuelta,True
+PQRS000998,2024-04-08,2024-04-09,Sur,Medicina interna,Falta de oportunidad en la asignación,53,Presencial,Resuelta,True
+PQRS000336,2024-04-08,2024-04-10,Norte,Medicina general,Demora en la asignación de cita,6,Telefónico,Resuelta,True
+PQRS000340,2024-04-08,2024-04-10,Norte,Pediatría,Falta de oportunidad en la asignación,20,Telefónico,Resuelta,True
+PQRS000996,2024-04-08,2024-04-10,Sur,Medicina familiar,Falta de oportunidad en la asignación,19,Telefónico,Resuelta,True
+PQRS000997,2024-04-08,2024-04-10,Sur,Pediatría,Falta de oportunidad en la asignación,9,Virtual,Resuelta,True
+PQRS000017,2024-04-08,2024-04-11,Centro,Medicina general,Cancelación de cita por el prestador,9,Telefónico,En trámite,True
+PQRS000993,2024-04-01,2024-04-11,Sur,Enfermería,Cancelación de cita por el prestador,2,Telefónico,Resuelta,False
+PQRS001001,2024-04-08,2024-04-11,Sur,Medicina general,Falta de oportunidad en la asignación,4,Telefónico,Resuelta,True
+PQRS001002,2024-04-08,2024-04-11,Sur,Psicología,Información insuficiente sobre el trámite,6,Presencial,Resuelta,False
+PQRS000016,2024-04-01,2024-04-12,Centro,Medicina general,Demora en la asignación de cita,17,Virtual,Resuelta,False
+PQRS000339,2024-04-08,2024-04-12,Norte,Medicina general,Falta de oportunidad en la asignación,22,Telefónico,Cerrada sin respuesta,True
+PQRS000713,2024-04-08,2024-04-14,Occidente,Odontología,Demora en la asignación de cita,23,Telefónico,Resuelta,True
+PQRS000335,2024-04-08,2024-04-15,Norte,Psicología,Falta de oportunidad en la asignación,13,Telefónico,Resuelta,True
+PQRS000712,2024-04-08,2024-04-15,Occidente,Medicina general,Demora en la asignación de cita,18,Telefónico,Resuelta,True
+PQRS000019,2024-04-15,2024-04-16,Centro,Odontología,Demora en la asignación de cita,82,Telefónico,Resuelta,True
+PQRS000711,2024-04-01,2024-04-16,Occidente,Enfermería,Información insuficiente sobre el trámite,9,Telefónico,Resuelta,False
+PQRS000714,2024-04-08,2024-04-16,Occidente,Medicina general,Demora en la asignación de cita,9,Telefónico,Resuelta,True
+PQRS001003,2024-04-15,2024-04-16,Sur,Medicina general,Cancelación de cita por el prestador,24,Virtual,Resuelta,True
+PQRS001006,2024-04-15,2024-04-17,Sur,Laboratorio,Falta de oportunidad en la asignación,30,Virtual,En trámite,True
+PQRS000719,2024-04-15,2024-04-18,Occidente,Medicina general,Falta de oportunidad en la asignación,18,Virtual,Cerrada sin respuesta,True
+PQRS000995,2024-04-08,2024-04-18,Sur,Medicina general,Falta de oportunidad en la asignación,24,Telefónico,Resuelta,True
+PQRS000999,2024-04-08,2024-04-18,Sur,Psicología,Información insuficiente sobre el trámite,25,Telefónico,Resuelta,True
+PQRS000337,2024-04-08,2024-04-19,Norte,Odontología,Falta de oportunidad en la asignación,7,Telefónico,En trámite,True
+PQRS001000,2024-04-08,2024-04-19,Sur,Medicina familiar,Falta de oportunidad en la asignación,9,Presencial,Resuelta,True
+PQRS000338,2024-04-08,2024-04-21,Norte,Ginecología,Falta de oportunidad en la asignación,11,Virtual,Resuelta,True
+PQRS000341,2024-04-08,2024-04-21,Norte,Pediatría,Demora en la asignación de cita,2,Presencial,Resuelta,False
+PQRS000715,2024-04-15,2024-04-21,Occidente,Medicina general,Falta de oportunidad en la asignación,14,Telefónico,Resuelta,True
+PQRS000716,2024-04-15,2024-04-21,Occidente,Medicina general,Falta de oportunidad en la asignación,24,Presencial,Resuelta,True
+PQRS000023,2024-04-15,2024-04-22,Centro,Ginecología,Demora en la asignación de cita,12,Virtual,En trámite,True
+PQRS001011,2024-04-15,2024-04-22,Sur,Medicina general,Demora en la asignación de cita,6,Virtual,Resuelta,False
+PQRS000018,2024-04-08,2024-04-23,Centro,Pediatría,Cancelación de cita por el prestador,1,Telefónico,Resuelta,False
+PQRS000022,2024-04-15,2024-04-23,Centro,Enfermería,Información insuficiente sobre el trámite,26,Telefónico,En trámite,True
+PQRS000342,2024-04-15,2024-04-23,Norte,Medicina general,Falta de oportunidad en la asignación,8,Telefónico,Cerrada sin respuesta,True
+PQRS001005,2024-04-15,2024-04-23,Sur,Laboratorio,Cancelación de cita por el prestador,70,Telefónico,Resuelta,True
+PQRS000029,2024-04-22,2024-04-24,Centro,Medicina interna,Demora en la asignación de cita,12,Telefónico,Resuelta,True
+PQRS000030,2024-04-22,2024-04-24,Centro,Odontología,Falta de oportunidad en la asignación,31,Presencial,Resuelta,True
+PQRS000717,2024-04-15,2024-04-24,Occidente,Pediatría,Demora en la asignación de cita,60,Telefónico,En trámite,True
+PQRS000718,2024-04-15,2024-04-24,Occidente,Psicología,Falta de oportunidad en la asignación,4,Virtual,En trámite,True
+PQRS001004,2024-04-15,2024-04-24,Sur,Medicina general,Falta de oportunidad en la asignación,35,Presencial,Resuelta,True
+PQRS001009,2024-04-15,2024-04-24,Sur,Pediatría,Falta de oportunidad en la asignación,37,Telefónico,Cerrada sin respuesta,True
+PQRS000025,2024-04-22,2024-04-25,Centro,Enfermería,Información insuficiente sobre el trámite,13,Telefónico,Resuelta,True
+PQRS000021,2024-04-15,2024-04-27,Centro,Medicina general,Demora en la asignación de cita,14,Telefónico,Resuelta,True
+PQRS001007,2024-04-15,2024-04-27,Sur,Enfermería,Falta de oportunidad en la asignación,34,Presencial,Resuelta,True
+PQRS000020,2024-04-15,2024-04-29,Centro,Laboratorio,Falta de oportunidad en la asignación,40,Telefónico,Resuelta,True
+PQRS001010,2024-04-15,2024-04-29,Sur,Ginecología,Demora en la asignación de cita,29,Telefónico,Resuelta,True
+PQRS000026,2024-04-22,2024-04-30,Centro,Medicina general,Información insuficiente sobre el trámite,27,Telefónico,Resuelta,True
+PQRS001008,2024-04-15,2024-04-30,Sur,Odontología,Falta de oportunidad en la asignación,14,Telefónico,Resuelta,True
+PQRS000031,2024-04-29,2024-05-01,Centro,Medicina general,Demora en la asignación de cita,30,Virtual,Resuelta,True
+PQRS000344,2024-04-29,2024-05-01,Norte,Medicina general,Falta de oportunidad en la asignación,33,Presencial,Resuelta,True
+PQRS000346,2024-04-29,2024-05-01,Norte,Medicina general,Falta de oportunidad en la asignación,18,Telefónico,En trámite,True
+PQRS001022,2024-04-29,2024-05-01,Sur,Ginecología,Información insuficiente sobre el trámite,11,Virtual,Resuelta,True
+PQRS000024,2024-04-22,2024-05-02,Centro,Nutrición,Demora en la asignación de cita,70,Presencial,En trámite,True
+PQRS000721,2024-04-29,2024-05-02,Occidente,Enfermería,Cancelación de cita por el prestador,9,Telefónico,Resuelta,True
+PQRS001020,2024-04-29,2024-05-03,Sur,Medicina familiar,Falta de oportunidad en la asignación,17,Telefónico,Resuelta,True
+PQRS000032,2024-04-29,2024-05-04,Centro,Laboratorio,Información insuficiente sobre el trámite,38,Telefónico,En trámite,True
+PQRS001019,2024-04-29,2024-05-04,Sur,Pediatría,Demora en la asignación de cita,18,Presencial,Resuelta,True
+PQRS001021,2024-04-29,2024-05-04,Sur,Medicina general,Información insuficiente sobre el trámite,15,Presencial,Resuelta,True
+PQRS000028,2024-04-22,2024-05-06,Centro,Medicina general,Falta de oportunidad en la asignación,23,Telefónico,En trámite,True
+PQRS000027,2024-04-22,2024-05-07,Centro,Medicina general,Demora en la asignación de cita,26,Telefónico,Resuelta,True
+PQRS001012,2024-04-29,2024-05-07,Sur,Medicina general,Falta de oportunidad en la asignación,30,Virtual,Resuelta,True
+PQRS000720,2024-04-29,2024-05-08,Occidente,Medicina general,Cancelación de cita por el prestador,24,Telefónico,Cerrada sin respuesta,True
+PQRS000727,2024-05-06,2024-05-08,Occidente,Pediatría,Demora en la asignación de cita,11,Telefónico,Resuelta,True
+PQRS000343,2024-04-29,2024-05-09,Norte,Medicina general,Información insuficiente sobre el trámite,3,Virtual,En trámite,True
+PQRS000724,2024-05-06,2024-05-09,Occidente,Enfermería,Falta de oportunidad en la asignación,23,Virtual,Resuelta,True
+PQRS000725,2024-05-06,2024-05-09,Occidente,Medicina general,Demora en la asignación de cita,70,Presencial,Resuelta,True
+PQRS001013,2024-04-29,2024-05-09,Sur,Enfermería,Falta de oportunidad en la asignación,14,Virtual,Resuelta,True
+PQRS001015,2024-04-29,2024-05-09,Sur,Medicina familiar,Falta de oportunidad en la asignación,11,Presencial,En trámite,True
+PQRS000347,2024-04-29,2024-05-10,Norte,Enfermería,Falta de oportunidad en la asignación,22,Telefónico,En trámite,True
+PQRS000348,2024-05-06,2024-05-10,Norte,Ginecología,Demora en la asignación de cita,7,Telefónico,En trámite,True
+PQRS000350,2024-05-06,2024-05-10,Norte,Imágenes diagnósticas,Demora en la asignación de cita,4,Presencial,Resuelta,True
+PQRS001016,2024-04-29,2024-05-10,Sur,Enfermería,Demora en la asignación de cita,4,Telefónico,Resuelta,True
+PQRS001018,2024-04-29,2024-05-10,Sur,Laboratorio,Falta de oportunidad en la asignación,16,Telefónico,Resuelta,True
+PQRS000356,2024-05-06,2024-05-11,Norte,Medicina general,Demora en la asignación de cita,7,Telefónico,Resuelta,False
+PQRS001017,2024-04-29,2024-05-12,Sur,Enfermería,Falta de oportunidad en la asignación,24,Telefónico,Resuelta,True
+PQRS001025,2024-05-06,2024-05-12,Sur,Medicina general,Falta de oportunidad en la asignación,4,Telefónico,Resuelta,True
+PQRS000345,2024-04-29,2024-05-13,Norte,Pediatría,Falta de oportunidad en la asignación,37,Virtual,Resuelta,True
+PQRS000351,2024-05-06,2024-05-13,Norte,Medicina general,Falta de oportunidad en la asignación,15,Presencial,Resuelta,True
+PQRS000353,2024-05-06,2024-05-13,Norte,Psicología,Falta de oportunidad en la asignación,20,Virtual,Resuelta,True
+PQRS001014,2024-04-29,2024-05-13,Sur,Ginecología,Falta de oportunidad en la asignación,7,Virtual,Resuelta,True
+PQRS001024,2024-04-29,2024-05-13,Sur,Medicina general,Demora en la asignación de cita,7,Presencial,Resuelta,False
+PQRS000352,2024-05-06,2024-05-14,Norte,Nutrición,Falta de oportunidad en la asignación,32,Telefónico,Resuelta,True
+PQRS000358,2024-05-13,2024-05-14,Norte,Laboratorio,Falta de oportunidad en la asignación,9,Virtual,En trámite,True
+PQRS000722,2024-04-29,2024-05-14,Occidente,Odontología,Demora en la asignación de cita,4,Telefónico,Resuelta,True
+PQRS001023,2024-04-29,2024-05-14,Sur,Medicina general,Falta de oportunidad en la asignación,46,Presencial,Resuelta,True
+PQRS000349,2024-05-06,2024-05-17,Norte,Enfermería,Información insuficiente sobre el trámite,15,Presencial,En trámite,True
+PQRS000355,2024-05-06,2024-05-17,Norte,Psicología,Demora en la asignación de cita,27,Telefónico,Resuelta,True
+PQRS000359,2024-05-13,2024-05-17,Norte,Enfermería,Falta de oportunidad en la asignación,52,Virtual,En trámite,True
+PQRS000723,2024-05-06,2024-05-17,Occidente,Enfermería,Falta de oportunidad en la asignación,21,Presencial,Resuelta,True
+PQRS000726,2024-05-06,2024-05-17,Occidente,Medicina general,Falta de oportunidad en la asignación,77,Presencial,En trámite,True
+PQRS001026,2024-05-06,2024-05-17,Sur,Enfermería,Demora en la asignación de cita,16,Telefónico,Resuelta,True
+PQRS000033,2024-05-13,2024-05-19,Centro,Medicina general,Falta de oportunidad en la asignación,17,Telefónico,En trámite,True
+PQRS000036,2024-05-13,2024-05-19,Centro,Laboratorio,Falta de oportunidad en la asignación,20,Virtual,Resuelta,True
+PQRS000354,2024-05-06,2024-05-19,Norte,Imágenes diagnósticas,Falta de oportunidad en la asignación,4,Telefónico,Cerrada sin respuesta,True
+PQRS000361,2024-05-13,2024-05-21,Norte,Enfermería,Información insuficiente sobre el trámite,1,Presencial,Resuelta,False
+PQRS001030,2024-05-20,2024-05-21,Sur,Psicología,Falta de oportunidad en la asignación,38,Presencial,Resuelta,True
+PQRS001032,2024-05-20,2024-05-21,Sur,Medicina familiar,Cancelación de cita por el prestador,24,Virtual,Resuelta,True
+PQRS000035,2024-05-13,2024-05-22,Centro,Laboratorio,Falta de oportunidad en la asignación,14,Virtual,Resuelta,True
+PQRS001028,2024-05-20,2024-05-22,Sur,Nutrición,Falta de oportunidad en la asignación,20,Presencial,Resuelta,True
+PQRS000360,2024-05-13,2024-05-23,Norte,Medicina interna,Demora en la asignación de cita,8,Virtual,Cerrada sin respuesta,True
+PQRS001038,2024-05-20,2024-05-23,Sur,Psicología,Cancelación de cita por el prestador,38,Telefónico,Resuelta,True
+PQRS000042,2024-05-20,2024-05-25,Centro,Medicina general,Falta de oportunidad en la asignación,18,Virtual,Resuelta,True
+PQRS001031,2024-05-20,2024-05-25,Sur,Odontología,Falta de oportunidad en la asignación,3,Telefónico,Resuelta,True
+PQRS000034,2024-05-13,2024-05-26,Centro,Pediatría,Cancelación de cita por el prestador,37,Telefónico,Resuelta,True
+PQRS000038,2024-05-20,2024-05-27,Centro,Psicología,Falta de oportunidad en la asignación,29,Telefónico,Resuelta,True
+PQRS000041,2024-05-20,2024-05-27,Centro,Ginecología,Falta de oportunidad en la asignación,15,Telefónico,Resuelta,True
+PQRS001034,2024-05-20,2024-05-27,Sur,Medicina familiar,Demora en la asignación de cita,43,Presencial,Resuelta,True
+PQRS001039,2024-05-20,2024-05-27,Sur,Ginecología,Demora en la asignación de cita,2,Presencial,En trámite,False
+PQRS000357,2024-05-13,2024-05-28,Norte,Medicina general,Falta de oportunidad en la asignación,15,Presencial,Resuelta,True
+PQRS001035,2024-05-20,2024-05-29,Sur,Laboratorio,Falta de oportunidad en la asignación,40,Presencial,Resuelta,True
+PQRS000043,2024-05-20,2024-05-30,Centro,Medicina familiar,Información insuficiente sobre el trámite,2,Telefónico,Cerrada sin respuesta,True
+PQRS001037,2024-05-20,2024-05-30,Sur,Medicina general,Demora en la asignación de cita,46,Telefónico,Resuelta,True
+PQRS000047,2024-05-27,2024-05-31,Centro,Odontología,Información insuficiente sobre el trámite,1,Presencial,En trámite,False
+PQRS000363,2024-05-27,2024-05-31,Norte,Medicina familiar,Demora en la asignación de cita,23,Virtual,En trámite,True
+PQRS000371,2024-05-27,2024-05-31,Norte,Medicina general,Cancelación de cita por el prestador,22,Telefónico,Resuelta,True
+PQRS000728,2024-05-27,2024-05-31,Occidente,Odontología,Cancelación de cita por el prestador,7,Virtual,Resuelta,True
+PQRS001033,2024-05-20,2024-05-31,Sur,Medicina general,Información insuficiente sobre el trámite,12,Presencial,Resuelta,True
+PQRS000040,2024-05-20,2024-06-01,Centro,Pediatría,Demora en la asignación de cita,28,Virtual,Resuelta,True
+PQRS000044,2024-05-20,2024-06-01,Centro,Medicina familiar,Demora en la asignación de cita,23,Telefónico,Resuelta,True
+PQRS000045,2024-05-20,2024-06-01,Centro,Pediatría,Cancelación de cita por el prestador,2,Telefónico,Resuelta,False
+PQRS001027,2024-05-20,2024-06-01,Sur,Ginecología,Falta de oportunidad en la asignación,9,Virtual,Resuelta,True
+PQRS000037,2024-05-20,2024-06-02,Centro,Imágenes diagnósticas,Falta de oportunidad en la asignación,16,Telefónico,Cerrada sin respuesta,True
+PQRS000039,2024-05-20,2024-06-02,Centro,Medicina general,Cancelación de cita por el prestador,44,Telefónico,Resuelta,True
+PQRS000046,2024-05-27,2024-06-02,Centro,Enfermería,Demora en la asignación de cita,6,Virtual,Resuelta,True
+PQRS001036,2024-05-20,2024-06-02,Sur,Ginecología,Demora en la asignación de cita,23,Presencial,Resuelta,True
+PQRS000362,2024-05-20,2024-06-03,Norte,Medicina general,Información insuficiente sobre el trámite,4,Virtual,Resuelta,False
+PQRS000369,2024-05-27,2024-06-03,Norte,Medicina general,Información insuficiente sobre el trámite,14,Telefónico,Resuelta,True
+PQRS000372,2024-05-27,2024-06-03,Norte,Laboratorio,Demora en la asignación de cita,15,Presencial,Resuelta,True
+PQRS000368,2024-05-27,2024-06-04,Norte,Odontología,Falta de oportunidad en la asignación,11,Presencial,En trámite,True
+PQRS000373,2024-05-27,2024-06-04,Norte,Enfermería,Falta de oportunidad en la asignación,14,Telefónico,Resuelta,True
+PQRS001029,2024-05-20,2024-06-04,Sur,Odontología,Falta de oportunidad en la asignación,4,Telefónico,Cerrada sin respuesta,True
+PQRS000048,2024-06-03,2024-06-05,Centro,Medicina general,Demora en la asignación de cita,39,Presencial,Resuelta,True
+PQRS000052,2024-06-03,2024-06-06,Centro,Enfermería,Falta de oportunidad en la asignación,19,Telefónico,Resuelta,True
+PQRS000365,2024-05-27,2024-06-06,Norte,Psicología,Falta de oportunidad en la asignación,44,Presencial,Resuelta,True
+PQRS000370,2024-05-27,2024-06-06,Norte,Ginecología,Falta de oportunidad en la asignación,16,Virtual,En trámite,True
+PQRS000374,2024-05-27,2024-06-06,Norte,Medicina general,Cancelación de cita por el prestador,19,Presencial,En trámite,True
+PQRS000381,2024-06-03,2024-06-06,Norte,Medicina interna,Demora en la asignación de cita,2,Presencial,Resuelta,False
+PQRS000054,2024-06-03,2024-06-07,Centro,Ginecología,Demora en la asignación de cita,2,Presencial,Resuelta,False
+PQRS000367,2024-05-27,2024-06-07,Norte,Odontología,Falta de oportunidad en la asignación,28,Telefónico,Resuelta,True
+PQRS000380,2024-06-03,2024-06-07,Norte,Laboratorio,Falta de oportunidad en la asignación,8,Telefónico,Resuelta,True
+PQRS000729,2024-05-27,2024-06-08,Occidente,Medicina general,Cancelación de cita por el prestador,1,Virtual,Resuelta,False
+PQRS000366,2024-05-27,2024-06-09,Norte,Nutrición,Falta de oportunidad en la asignación,11,Telefónico,Resuelta,True
+PQRS000050,2024-06-03,2024-06-10,Centro,Nutrición,Cancelación de cita por el prestador,13,Telefónico,Resuelta,True
+PQRS000051,2024-06-03,2024-06-10,Centro,Enfermería,Falta de oportunidad en la asignación,15,Virtual,Resuelta,True
+PQRS000364,2024-05-27,2024-06-10,Norte,Medicina interna,Falta de oportunidad en la asignación,45,Virtual,En trámite,True
+PQRS000377,2024-06-03,2024-06-10,Norte,Enfermería,Falta de oportunidad en la asignación,15,Telefónico,Resuelta,True
+PQRS000049,2024-06-03,2024-06-11,Centro,Medicina general,Falta de oportunidad en la asignación,16,Telefónico,Resuelta,True
+PQRS001043,2024-06-10,2024-06-11,Sur,Medicina familiar,Falta de oportunidad en la asignación,21,Telefónico,Resuelta,True
+PQRS000056,2024-06-10,2024-06-12,Centro,Imágenes diagnósticas,Cancelación de cita por el prestador,15,Telefónico,Resuelta,True
+PQRS000058,2024-06-10,2024-06-12,Centro,Pediatría,Falta de oportunidad en la asignación,11,Presencial,Resuelta,True
+PQRS000062,2024-06-10,2024-06-12,Centro,Pediatría,Falta de oportunidad en la asignación,9,Presencial,Resuelta,True
+PQRS000376,2024-06-03,2024-06-12,Norte,Medicina general,Falta de oportunidad en la asignación,14,Telefónico,Resuelta,True
+PQRS001049,2024-06-10,2024-06-12,Sur,Ginecología,Cancelación de cita por el prestador,2,Telefónico,Resuelta,False
+PQRS000378,2024-06-03,2024-06-13,Norte,Ginecología,Demora en la asignación de cita,11,Virtual,Resuelta,True
+PQRS000735,2024-06-10,2024-06-13,Occidente,Pediatría,Falta de oportunidad en la asignación,42,Telefónico,Resuelta,True
+PQRS001040,2024-06-03,2024-06-13,Sur,Nutrición,Información insuficiente sobre el trámite,10,Presencial,Resuelta,False
+PQRS000061,2024-06-10,2024-06-14,Centro,Medicina interna,Falta de oportunidad en la asignación,14,Presencial,Resuelta,True
+PQRS000375,2024-06-03,2024-06-14,Norte,Medicina general,Falta de oportunidad en la asignación,17,Virtual,Resuelta,True
+PQRS000053,2024-06-03,2024-06-15,Centro,Imágenes diagnósticas,Falta de oportunidad en la asignación,20,Telefónico,Resuelta,True
+PQRS000379,2024-06-03,2024-06-15,Norte,Pediatría,Demora en la asignación de cita,16,Telefónico,Resuelta,True
+PQRS000734,2024-06-10,2024-06-16,Occidente,Enfermería,Información insuficiente sobre el trámite,14,Telefónico,En trámite,True
+PQRS001044,2024-06-10,2024-06-16,Sur,Imágenes diagnósticas,Falta de oportunidad en la asignación,18,Virtual,En trámite,True
+PQRS000055,2024-06-03,2024-06-17,Centro,Medicina interna,Demora en la asignación de cita,20,Telefónico,Resuelta,False
+PQRS001042,2024-06-10,2024-06-17,Sur,Odontología,Cancelación de cita por el prestador,20,Telefónico,Resuelta,True
+PQRS000057,2024-06-10,2024-06-18,Centro,Enfermería,Falta de oportunidad en la asignación,19,Virtual,En trámite,True
+PQRS000382,2024-06-10,2024-06-18,Norte,Ginecología,Cancelación de cita por el prestador,2,Virtual,Resuelta,False
+PQRS000730,2024-06-03,2024-06-18,Occidente,Medicina general,Demora en la asignación de cita,5,Telefónico,Resuelta,False
+PQRS000737,2024-06-17,2024-06-18,Occidente,Medicina general,Falta de oportunidad en la asignación,17,Telefónico,Cerrada sin respuesta,True
+PQRS001041,2024-06-10,2024-06-18,Sur,Odontología,Falta de oportunidad en la asignación,3,Virtual,En trámite,True
+PQRS001048,2024-06-10,2024-06-18,Sur,Psicología,Cancelación de cita por el prestador,22,Presencial,Resuelta,True
+PQRS001052,2024-06-17,2024-06-18,Sur,Laboratorio,Falta de oportunidad en la asignación,36,Telefónico,Resuelta,True
+PQRS000733,2024-06-10,2024-06-19,Occidente,Odontología,Falta de oportunidad en la asignación,20,Telefónico,Resuelta,True
+PQRS001056,2024-06-17,2024-06-20,Sur,Medicina general,Falta de oportunidad en la asignación,14,Telefónico,En trámite,True
+PQRS000060,2024-06-10,2024-06-21,Centro,Medicina familiar,Falta de oportunidad en la asignación,25,Virtual,Resuelta,True
+PQRS000736,2024-06-17,2024-06-22,Occidente,Medicina general,Falta de oportunidad en la asignación,17,Virtual,Resuelta,True
+PQRS000732,2024-06-10,2024-06-23,Occidente,Medicina general,Falta de oportunidad en la asignación,17,Presencial,Resuelta,True
+PQRS001046,2024-06-10,2024-06-23,Sur,Medicina general,Falta de oportunidad en la asignación,30,Presencial,Resuelta,True
+PQRS000059,2024-06-10,2024-06-24,Centro,Medicina general,Información insuficiente sobre el trámite,19,Presencial,Resuelta,True
+PQRS001047,2024-06-10,2024-06-24,Sur,Ginecología,Demora en la asignación de cita,8,Presencial,Resuelta,True
+PQRS001050,2024-06-17,2024-06-24,Sur,Medicina general,Falta de oportunidad en la asignación,44,Virtual,Cerrada sin respuesta,True
+PQRS000731,2024-06-10,2024-06-25,Occidente,Medicina general,Falta de oportunidad en la asignación,8,Telefónico,Resuelta,True
+PQRS000743,2024-06-24,2024-06-25,Occidente,Medicina familiar,Falta de oportunidad en la asignación,89,Telefónico,Resuelta,True
+PQRS001045,2024-06-10,2024-06-25,Sur,Enfermería,Información insuficiente sobre el trámite,12,Telefónico,Resuelta,True
+PQRS001051,2024-06-17,2024-06-25,Sur,Nutrición,Demora en la asignación de cita,25,Presencial,Resuelta,True
+PQRS001053,2024-06-17,2024-06-25,Sur,Ginecología,Cancelación de cita por el prestador,21,Telefónico,Resuelta,True
+PQRS001054,2024-06-17,2024-06-25,Sur,Ginecología,Información insuficiente sobre el trámite,21,Telefónico,En trámite,True
+PQRS000385,2024-06-24,2024-06-26,Norte,Medicina familiar,Demora en la asignación de cita,54,Presencial,Resuelta,True
+PQRS000395,2024-06-24,2024-06-26,Norte,Medicina general,Falta de oportunidad en la asignación,26,Presencial,Resuelta,True
+PQRS001059,2024-06-24,2024-06-26,Sur,Psicología,Falta de oportunidad en la asignación,9,Telefónico,Resuelta,True
+PQRS001065,2024-06-24,2024-06-27,Sur,Medicina general,Demora en la asignación de cita,2,Presencial,Resuelta,False
+PQRS000393,2024-06-24,2024-06-28,Norte,Psicología,Falta de oportunidad en la asignación,29,Telefónico,Resuelta,True
+PQRS001057,2024-06-24,2024-06-28,Sur,Odontología,Falta de oportunidad en la asignación,63,Presencial,Resuelta,True
+PQRS001060,2024-06-24,2024-06-28,Sur,Enfermería,Demora en la asignación de cita,21,Presencial,Resuelta,True
+PQRS001062,2024-06-24,2024-06-28,Sur,Medicina familiar,Falta de oportunidad en la asignación,40,Presencial,Resuelta,True
+PQRS000384,2024-06-24,2024-06-29,Norte,Medicina general,Falta de oportunidad en la asignación,61,Telefónico,En trámite,True
+PQRS000394,2024-06-24,2024-06-29,Norte,Enfermería,Cancelación de cita por el prestador,40,Telefónico,Resuelta,True
+PQRS001055,2024-06-17,2024-06-29,Sur,Enfermería,Falta de oportunidad en la asignación,7,Telefónico,Resuelta,True
+PQRS000063,2024-06-17,2024-06-30,Centro,Ginecología,Información insuficiente sobre el trámite,10,Virtual,Resuelta,False
+PQRS000388,2024-06-24,2024-06-30,Norte,Enfermería,Falta de oportunidad en la asignación,52,Virtual,Resuelta,True
+PQRS000396,2024-06-24,2024-06-30,Norte,Psicología,Demora en la asignación de cita,62,Virtual,Resuelta,True
+PQRS000398,2024-06-24,2024-06-30,Norte,Medicina interna,Cancelación de cita por el prestador,18,Presencial,Resuelta,True
+PQRS000738,2024-06-17,2024-06-30,Occidente,Medicina general,Demora en la asignación de cita,19,Telefónico,Resuelta,True
+PQRS000739,2024-06-17,2024-07-01,Occidente,Nutrición,Falta de oportunidad en la asignación,17,Presencial,Resuelta,True
+PQRS001058,2024-06-24,2024-07-01,Sur,Medicina interna,Falta de oportunidad en la asignación,29,Telefónico,Resuelta,True
+PQRS001064,2024-06-24,2024-07-01,Sur,Medicina general,Demora en la asignación de cita,41,Telefónico,Resuelta,True
+PQRS000383,2024-06-17,2024-07-02,Norte,Medicina general,Demora en la asignación de cita,13,Presencial,Resuelta,False
+PQRS000386,2024-06-24,2024-07-02,Norte,Laboratorio,Falta de oportunidad en la asignación,26,Telefónico,Resuelta,True
+PQRS000404,2024-07-01,2024-07-02,Norte,Medicina familiar,Demora en la asignación de cita,1,Virtual,Resuelta,True
+PQRS001063,2024-06-24,2024-07-02,Sur,Enfermería,Falta de oportunidad en la asignación,11,Telefónico,En trámite,True
+PQRS000389,2024-06-24,2024-07-03,Norte,Psicología,Demora en la asignación de cita,19,Telefónico,Resuelta,True
+PQRS000390,2024-06-24,2024-07-03,Norte,Medicina general,Falta de oportunidad en la asignación,32,Virtual,Resuelta,True
+PQRS000397,2024-06-24,2024-07-05,Norte,Medicina general,Falta de oportunidad en la asignación,8,Telefónico,Resuelta,True
+PQRS000740,2024-06-24,2024-07-05,Occidente,Odontología,Falta de oportunidad en la asignación,6,Telefónico,En trámite,True
+PQRS000742,2024-06-24,2024-07-05,Occidente,Medicina general,Falta de oportunidad en la asignación,20,Presencial,En trámite,True
+PQRS000387,2024-06-24,2024-07-06,Norte,Odontología,Falta de oportunidad en la asignación,31,Telefónico,Resuelta,True
+PQRS000741,2024-06-24,2024-07-06,Occidente,Odontología,Falta de oportunidad en la asignación,22,Presencial,Resuelta,True
+PQRS000392,2024-06-24,2024-07-07,Norte,Medicina interna,Falta de oportunidad en la asignación,14,Presencial,Resuelta,True
+PQRS000405,2024-07-01,2024-07-07,Norte,Medicina general,Falta de oportunidad en la asignación,27,Presencial,Resuelta,True
+PQRS000391,2024-06-24,2024-07-08,Norte,Ginecología,Falta de oportunidad en la asignación,44,Telefónico,Resuelta,True
+PQRS000401,2024-07-01,2024-07-08,Norte,Medicina general,Falta de oportunidad en la asignación,8,Virtual,Resuelta,True
+PQRS001061,2024-06-24,2024-07-08,Sur,Odontología,Demora en la asignación de cita,6,Presencial,Resuelta,True
+PQRS000399,2024-06-24,2024-07-09,Norte,Medicina general,Falta de oportunidad en la asignación,34,Telefónico,Resuelta,True
+PQRS000400,2024-06-24,2024-07-09,Norte,Medicina general,Cancelación de cita por el prestador,12,Presencial,Resuelta,True
+PQRS000407,2024-07-08,2024-07-09,Norte,Enfermería,Cancelación de cita por el prestador,1,Telefónico,Resuelta,False
+PQRS000066,2024-07-08,2024-07-10,Centro,Medicina general,Falta de oportunidad en la asignación,24,Telefónico,Resuelta,True
+PQRS000068,2024-07-08,2024-07-10,Centro,Enfermería,Demora en la asignación de cita,34,Presencial,Resuelta,True
+PQRS000406,2024-07-01,2024-07-10,Norte,Medicina familiar,Información insuficiente sobre el trámite,11,Presencial,Resuelta,False
+PQRS000748,2024-07-08,2024-07-10,Occidente,Pediatría,Demora en la asignación de cita,49,Telefónico,Resuelta,True
+PQRS001075,2024-07-08,2024-07-10,Sur,Enfermería,Demora en la asignación de cita,7,Virtual,Resuelta,True
+PQRS000064,2024-07-08,2024-07-11,Centro,Medicina familiar,Falta de oportunidad en la asignación,19,Virtual,Resuelta,True
+PQRS000403,2024-07-01,2024-07-11,Norte,Enfermería,Demora en la asignación de cita,14,Telefónico,Resuelta,True
+PQRS000746,2024-07-08,2024-07-11,Occidente,Enfermería,Cancelación de cita por el prestador,15,Virtual,Resuelta,True
+PQRS001066,2024-07-08,2024-07-11,Sur,Medicina general,Demora en la asignación de cita,37,Presencial,Resuelta,True
+PQRS001072,2024-07-08,2024-07-12,Sur,Ginecología,Falta de oportunidad en la asignación,51,Telefónico,Resuelta,True
+PQRS000067,2024-07-08,2024-07-13,Centro,Ginecología,Demora en la asignación de cita,28,Presencial,Cerrada sin respuesta,True
+PQRS001067,2024-07-08,2024-07-14,Sur,Odontología,Falta de oportunidad en la asignación,67,Telefónico,En trámite,True
+PQRS001074,2024-07-08,2024-07-14,Sur,Medicina general,Falta de oportunidad en la asignación,19,Telefónico,Cerrada sin respuesta,True
+PQRS000402,2024-07-01,2024-07-15,Norte,Psicología,Falta de oportunidad en la asignación,21,Telefónico,Resuelta,True
+PQRS000744,2024-07-08,2024-07-15,Occidente,Medicina general,Falta de oportunidad en la asignación,29,Presencial,En trámite,True
+PQRS000749,2024-07-08,2024-07-16,Occidente,Medicina general,Falta de oportunidad en la asignación,12,Virtual,Resuelta,True
+PQRS000752,2024-07-15,2024-07-16,Occidente,Medicina general,Cancelación de cita por el prestador,51,Telefónico,En trámite,True
+PQRS000071,2024-07-15,2024-07-17,Centro,Medicina interna,Falta de oportunidad en la asignación,16,Telefónico,Resuelta,True
+PQRS000751,2024-07-15,2024-07-17,Occidente,Medicina general,Información insuficiente sobre el trámite,12,Presencial,Resuelta,True
+PQRS001073,2024-07-08,2024-07-17,Sur,Laboratorio,Demora en la asignación de cita,25,Telefónico,Resuelta,True
+PQRS001080,2024-07-15,2024-07-18,Sur,Medicina general,Demora en la asignación de cita,33,Virtual,Resuelta,True
+PQRS000745,2024-07-08,2024-07-20,Occidente,Nutrición,Información insuficiente sobre el trámite,27,Telefónico,Resuelta,True
+PQRS000753,2024-07-15,2024-07-20,Occidente,Pediatría,Demora en la asignación de cita,1,Telefónico,En trámite,False
+PQRS000069,2024-07-08,2024-07-22,Centro,Medicina interna,Falta de oportunidad en la asignación,34,Telefónico,Resuelta,True
+PQRS001069,2024-07-08,2024-07-22,Sur,Medicina general,Falta de oportunidad en la asignación,20,Presencial,Resuelta,True
+PQRS001070,2024-07-08,2024-07-22,Sur,Psicología,Información insuficiente sobre el trámite,25,Presencial,En trámite,True
+PQRS001071,2024-07-08,2024-07-22,Sur,Pediatría,Falta de oportunidad en la asignación,62,Telefónico,Resuelta,True
+PQRS001078,2024-07-15,2024-07-22,Sur,Medicina general,Demora en la asignación de cita,34,Presencial,Resuelta,True
+PQRS000065,2024-07-08,2024-07-23,Centro,Pediatría,Falta de oportunidad en la asignación,44,Telefónico,Resuelta,True
+PQRS000747,2024-07-08,2024-07-23,Occidente,Medicina general,Falta de oportunidad en la asignación,30,Presencial,Resuelta,True
+PQRS001068,2024-07-08,2024-07-23,Sur,Odontología,Falta de oportunidad en la asignación,15,Telefónico,Resuelta,True
+PQRS001077,2024-07-15,2024-07-23,Sur,Medicina familiar,Falta de oportunidad en la asignación,5,Presencial,En trámite,True
+PQRS000411,2024-07-22,2024-07-24,Norte,Medicina general,Falta de oportunidad en la asignación,32,Virtual,Resuelta,True
+PQRS001081,2024-07-22,2024-07-24,Sur,Medicina familiar,Falta de oportunidad en la asignación,20,Presencial,En trámite,True
+PQRS000409,2024-07-22,2024-07-25,Norte,Medicina interna,Demora en la asignación de cita,48,Presencial,En trámite,True
+PQRS001079,2024-07-15,2024-07-25,Sur,Medicina general,Demora en la asignación de cita,12,Telefónico,En trámite,True
+PQRS000074,2024-07-22,2024-07-26,Centro,Enfermería,Demora en la asignación de cita,3,Presencial,Resuelta,True
+PQRS000750,2024-07-15,2024-07-26,Occidente,Laboratorio,Falta de oportunidad en la asignación,79,Presencial,Resuelta,True
+PQRS000072,2024-07-15,2024-07-27,Centro,Medicina familiar,Demora en la asignación de cita,8,Virtual,Resuelta,True
+PQRS001084,2024-07-22,2024-07-27,Sur,Pediatría,Información insuficiente sobre el trámite,8,Virtual,Resuelta,True
+PQRS000412,2024-07-22,2024-07-29,Norte,Medicina general,Falta de oportunidad en la asignación,8,Telefónico,En trámite,True
+PQRS001076,2024-07-15,2024-07-29,Sur,Medicina interna,Falta de oportunidad en la asignación,6,Virtual,Resuelta,True
+PQRS001082,2024-07-22,2024-07-29,Sur,Medicina general,Falta de oportunidad en la asignación,14,Telefónico,Resuelta,True
+PQRS000070,2024-07-15,2024-07-30,Centro,Medicina general,Cancelación de cita por el prestador,4,Telefónico,En trámite,True
+PQRS000408,2024-07-22,2024-07-30,Norte,Odontología,Falta de oportunidad en la asignación,12,Virtual,Resuelta,True
+PQRS001083,2024-07-22,2024-07-31,Sur,Enfermería,Demora en la asignación de cita,12,Telefónico,En trámite,True
+PQRS001085,2024-07-22,2024-07-31,Sur,Medicina general,Falta de oportunidad en la asignación,10,Presencial,Resuelta,True
+PQRS001088,2024-07-22,2024-07-31,Sur,Psicología,Demora en la asignación de cita,14,Telefónico,Resuelta,False
+PQRS000073,2024-07-22,2024-08-02,Centro,Medicina general,Cancelación de cita por el prestador,8,Telefónico,Resuelta,True
+PQRS001086,2024-07-22,2024-08-02,Sur,Medicina general,Demora en la asignación de cita,20,Telefónico,Resuelta,True
+PQRS000076,2024-07-29,2024-08-03,Centro,Medicina general,Demora en la asignación de cita,22,Virtual,Resuelta,True
+PQRS000410,2024-07-22,2024-08-03,Norte,Enfermería,Falta de oportunidad en la asignación,18,Telefónico,Resuelta,True
+PQRS000077,2024-07-29,2024-08-04,Centro,Medicina interna,Falta de oportunidad en la asignación,7,Telefónico,Resuelta,True
+PQRS000075,2024-07-22,2024-08-05,Centro,Medicina interna,Cancelación de cita por el prestador,21,Presencial,En trámite,False
+PQRS001087,2024-07-22,2024-08-05,Sur,Odontología,Falta de oportunidad en la asignación,35,Telefónico,Resuelta,True
+PQRS001089,2024-07-29,2024-08-05,Sur,Medicina general,Falta de oportunidad en la asignación,11,Telefónico,Resuelta,True
+PQRS000413,2024-08-05,2024-08-06,Norte,Pediatría,Falta de oportunidad en la asignación,28,Telefónico,Resuelta,True
+PQRS000079,2024-08-05,2024-08-07,Centro,Odontología,Información insuficiente sobre el trámite,6,Telefónico,Resuelta,True
+PQRS000754,2024-07-29,2024-08-07,Occidente,Medicina general,Demora en la asignación de cita,36,Telefónico,Resuelta,True
+PQRS000755,2024-07-29,2024-08-09,Occidente,Ginecología,Falta de oportunidad en la asignación,16,Presencial,Resuelta,True
+PQRS001090,2024-07-29,2024-08-09,Sur,Medicina general,Falta de oportunidad en la asignación,4,Presencial,En trámite,True
+PQRS000078,2024-07-29,2024-08-13,Centro,Medicina general,Demora en la asignación de cita,34,Virtual,Resuelta,True
+PQRS000081,2024-08-05,2024-08-13,Centro,Imágenes diagnósticas,Falta de oportunidad en la asignación,20,Telefónico,Resuelta,True
+PQRS000080,2024-08-05,2024-08-14,Centro,Odontología,Falta de oportunidad en la asignación,18,Presencial,En trámite,True
+PQRS000082,2024-08-05,2024-08-14,Centro,Enfermería,Falta de oportunidad en la asignación,22,Telefónico,Resuelta,True
+PQRS000086,2024-08-12,2024-08-15,Centro,Ginecología,Cancelación de cita por el prestador,2,Telefónico,Resuelta,False
+PQRS001091,2024-08-05,2024-08-15,Sur,Medicina familiar,Falta de oportunidad en la asignación,28,Presencial,Resuelta,True
+PQRS000414,2024-08-05,2024-08-17,Norte,Medicina general,Falta de oportunidad en la asignación,7,Telefónico,En trámite,True
+PQRS001093,2024-08-05,2024-08-17,Sur,Psicología,Falta de oportunidad en la asignación,15,Telefónico,Resuelta,True
+PQRS001092,2024-08-05,2024-08-18,Sur,Medicina general,Falta de oportunidad en la asignación,19,Telefónico,Cerrada sin respuesta,True
+PQRS000083,2024-08-05,2024-08-19,Centro,Enfermería,Falta de oportunidad en la asignación,8,Telefónico,Resuelta,True
+PQRS000756,2024-08-05,2024-08-19,Occidente,Laboratorio,Falta de oportunidad en la asignación,24,Virtual,Resuelta,True
+PQRS000758,2024-08-12,2024-08-19,Occidente,Pediatría,Falta de oportunidad en la asignación,28,Telefónico,En trámite,True
+PQRS000760,2024-08-19,2024-08-20,Occidente,Enfermería,Falta de oportunidad en la asignación,24,Telefónico,Cerrada sin respuesta,True
+PQRS001094,2024-08-19,2024-08-20,Sur,Enfermería,Demora en la asignación de cita,1,Virtual,Resuelta,False
+PQRS000757,2024-08-12,2024-08-21,Occidente,Medicina general,Demora en la asignación de cita,19,Telefónico,Resuelta,True
+PQRS000759,2024-08-19,2024-08-21,Occidente,Medicina general,Demora en la asignación de cita,18,Virtual,Resuelta,True
+PQRS000764,2024-08-19,2024-08-21,Occidente,Pediatría,Falta de oportunidad en la asignación,36,Telefónico,Resuelta,True
+PQRS000087,2024-08-19,2024-08-22,Centro,Odontología,Demora en la asignación de cita,1,Telefónico,Resuelta,False
+PQRS000762,2024-08-19,2024-08-23,Occidente,Medicina general,Falta de oportunidad en la asignación,74,Presencial,Resuelta,True
+PQRS000085,2024-08-12,2024-08-24,Centro,Pediatría,Demora en la asignación de cita,35,Presencial,Resuelta,True
+PQRS000084,2024-08-12,2024-08-25,Centro,Medicina general,Falta de oportunidad en la asignación,19,Presencial,En trámite,True
+PQRS000765,2024-08-19,2024-08-28,Occidente,Psicología,Falta de oportunidad en la asignación,52,Telefónico,En trámite,True
+PQRS000415,2024-08-26,2024-08-29,Norte,Ginecología,Falta de oportunidad en la asignación,2,Telefónico,Resuelta,True
+PQRS000768,2024-08-26,2024-08-31,Occidente,Medicina general,Cancelación de cita por el prestador,20,Presencial,Resuelta,True
+PQRS000763,2024-08-19,2024-09-01,Occidente,Pediatría,Información insuficiente sobre el trámite,21,Telefónico,Resuelta,True
+PQRS000766,2024-08-26,2024-09-01,Occidente,Medicina general,Falta de oportunidad en la asignación,21,Virtual,Resuelta,True
+PQRS000770,2024-08-26,2024-09-01,Occidente,Pediatría,Falta de oportunidad en la asignación,35,Presencial,En trámite,True
+PQRS000088,2024-08-19,2024-09-02,Centro,Pediatría,Demora en la asignación de cita,1,Telefónico,Resuelta,False
+PQRS000767,2024-08-26,2024-09-02,Occidente,Ginecología,Cancelación de cita por el prestador,6,Presencial,En trámite,True
+PQRS000091,2024-09-02,2024-09-03,Centro,Medicina general,Falta de oportunidad en la asignación,67,Telefónico,Resuelta,True
+PQRS000101,2024-09-02,2024-09-03,Centro,Psicología,Demora en la asignación de cita,7,Presencial,Resuelta,False
+PQRS000422,2024-09-02,2024-09-03,Norte,Odontología,Demora en la asignación de cita,13,Telefónico,Resuelta,True
+PQRS000761,2024-08-19,2024-09-03,Occidente,Medicina general,Falta de oportunidad en la asignación,104,Virtual,Resuelta,True
+PQRS001098,2024-09-02,2024-09-03,Sur,Enfermería,Cancelación de cita por el prestador,27,Virtual,Resuelta,True
+PQRS001099,2024-09-02,2024-09-03,Sur,Medicina interna,Falta de oportunidad en la asignación,21,Telefónico,Resuelta,True
+PQRS000090,2024-09-02,2024-09-04,Centro,Medicina general,Información insuficiente sobre el trámite,19,Presencial,Resuelta,True
+PQRS000095,2024-09-02,2024-09-04,Centro,Medicina familiar,Falta de oportunidad en la asignación,64,Telefónico,Resuelta,True
+PQRS000097,2024-09-02,2024-09-04,Centro,Enfermería,Falta de oportunidad en la asignación,34,Virtual,Resuelta,True
+PQRS000418,2024-09-02,2024-09-04,Norte,Enfermería,Información insuficiente sobre el trámite,14,Virtual,Resuelta,True
+PQRS000774,2024-09-02,2024-09-04,Occidente,Medicina general,Demora en la asignación de cita,15,Presencial,En trámite,True
+PQRS000423,2024-09-02,2024-09-05,Norte,Ginecología,Cancelación de cita por el prestador,18,Telefónico,Resuelta,True
+PQRS000092,2024-09-02,2024-09-06,Centro,Medicina general,Cancelación de cita por el prestador,43,Presencial,Resuelta,True
+PQRS000417,2024-09-02,2024-09-06,Norte,Medicina general,Falta de oportunidad en la asignación,33,Telefónico,Resuelta,True
+PQRS000421,2024-09-02,2024-09-06,Norte,Medicina general,Falta de oportunidad en la asignación,14,Telefónico,En trámite,True
+PQRS000089,2024-09-02,2024-09-07,Centro,Nutrición,Demora en la asignación de cita,55,Virtual,Resuelta,True
+PQRS000769,2024-08-26,2024-09-07,Occidente,Enfermería,Falta de oportunidad en la asignación,27,Virtual,Resuelta,True
+PQRS000771,2024-08-26,2024-09-07,Occidente,Medicina general,Cancelación de cita por el prestador,1,Telefónico,Resuelta,False
+PQRS000772,2024-09-02,2024-09-07,Occidente,Medicina general,Falta de oportunidad en la asignación,44,Presencial,Cerrada sin respuesta,True
+PQRS000096,2024-09-02,2024-09-08,Centro,Odontología,Falta de oportunidad en la asignación,43,Virtual,Resuelta,True
+PQRS000776,2024-09-02,2024-09-08,Occidente,Odontología,Información insuficiente sobre el trámite,34,Presencial,Resuelta,True
+PQRS001095,2024-08-26,2024-09-08,Sur,Medicina general,Cancelación de cita por el prestador,2,Presencial,En trámite,False
+PQRS001097,2024-09-02,2024-09-08,Sur,Medicina interna,Falta de oportunidad en la asignación,52,Presencial,Cerrada sin respuesta,True
+PQRS000094,2024-09-02,2024-09-09,Centro,Medicina general,Demora en la asignación de cita,6,Presencial,En trámite,True
+PQRS000416,2024-08-26,2024-09-09,Norte,Laboratorio,Falta de oportunidad en la asignación,12,Virtual,Resuelta,True
+PQRS001100,2024-09-02,2024-09-09,Sur,Medicina general,Falta de oportunidad en la asignación,6,Telefónico,Resuelta,True
+PQRS000775,2024-09-02,2024-09-10,Occidente,Medicina familiar,Cancelación de cita por el prestador,28,Virtual,Resuelta,True
+PQRS000777,2024-09-02,2024-09-10,Occidente,Laboratorio,Demora en la asignación de cita,5,Telefónico,Resuelta,False
+PQRS001096,2024-08-26,2024-09-10,Sur,Medicina interna,Demora en la asignación de cita,1,Virtual,Resuelta,False
+PQRS000102,2024-09-09,2024-09-11,Centro,Medicina general,Falta de oportunidad en la asignación,32,Presencial,Cerrada sin respuesta,True
+PQRS000103,2024-09-09,2024-09-11,Centro,Medicina general,Falta de oportunidad en la asignación,7,Presencial,Resuelta,True
+PQRS000420,2024-09-02,2024-09-11,Norte,Pediatría,Demora en la asignación de cita,4,Presencial,Resuelta,True
+PQRS000093,2024-09-02,2024-09-12,Centro,Medicina general,Falta de oportunidad en la asignación,75,Telefónico,Resuelta,True
+PQRS000099,2024-09-02,2024-09-12,Centro,Enfermería,Demora en la asignación de cita,7,Presencial,Resuelta,False
+PQRS000113,2024-09-09,2024-09-12,Centro,Medicina general,Cancelación de cita por el prestador,3,Presencial,En trámite,False
+PQRS000424,2024-09-02,2024-09-12,Norte,Medicina general,Falta de oportunidad en la asignación,5,Presencial,Resuelta,True
+PQRS000430,2024-09-09,2024-09-12,Norte,Pediatría,Demora en la asignación de cita,14,Telefónico,Resuelta,False
+PQRS000100,2024-09-02,2024-09-13,Centro,Medicina interna,Demora en la asignación de cita,5,Virtual,En trámite,False
+PQRS000104,2024-09-09,2024-09-13,Centro,Ginecología,Falta de oportunidad en la asignación,27,Telefónico,Resuelta,True
+PQRS000105,2024-09-09,2024-09-13,Centro,Medicina general,Falta de oportunidad en la asignación,16,Telefónico,Resuelta,True
+PQRS000419,2024-09-02,2024-09-13,Norte,Enfermería,Falta de oportunidad en la asignación,33,Presencial,Resuelta,True
+PQRS000429,2024-09-09,2024-09-13,Norte,Enfermería,Demora en la asignación de cita,15,Telefónico,En trámite,True
+PQRS000107,2024-09-09,2024-09-14,Centro,Medicina familiar,Información insuficiente sobre el trámite,32,Virtual,Resuelta,True
+PQRS000426,2024-09-09,2024-09-14,Norte,Medicina general,Falta de oportunidad en la asignación,27,Telefónico,Cerrada sin respuesta,True
+PQRS000109,2024-09-09,2024-09-15,Centro,Medicina interna,Falta de oportunidad en la asignación,24,Virtual,En trámite,True
+PQRS000427,2024-09-09,2024-09-15,Norte,Laboratorio,Falta de oportunidad en la asignación,16,Virtual,Resuelta,True
+PQRS000773,2024-09-02,2024-09-15,Occidente,Enfermería,Falta de oportunidad en la asignación,22,Telefónico,Resuelta,True
+PQRS000098,2024-09-02,2024-09-16,Centro,Medicina general,Demora en la asignación de cita,21,Virtual,Resuelta,True
+PQRS000110,2024-09-09,2024-09-17,Centro,Pediatría,Falta de oportunidad en la asignación,20,Presencial,En trámite,True
+PQRS000433,2024-09-16,2024-09-17,Norte,Ginecología,Falta de oportunidad en la asignación,21,Telefónico,Resuelta,True
+PQRS000436,2024-09-16,2024-09-17,Norte,Psicología,Falta de oportunidad en la asignación,20,Presencial,En trámite,True
+PQRS000112,2024-09-09,2024-09-18,Centro,Medicina general,Demora en la asignación de cita,28,Telefónico,Resuelta,True
+PQRS000428,2024-09-09,2024-09-20,Norte,Enfermería,Falta de oportunidad en la asignación,3,Telefónico,Resuelta,True
+PQRS000434,2024-09-16,2024-09-20,Norte,Medicina general,Falta de oportunidad en la asignación,32,Presencial,Resuelta,True
+PQRS000106,2024-09-09,2024-09-21,Centro,Enfermería,Falta de oportunidad en la asignación,9,Telefónico,Resuelta,True
+PQRS000108,2024-09-09,2024-09-21,Centro,Medicina familiar,Demora en la asignación de cita,17,Presencial,Resuelta,True
+PQRS000111,2024-09-09,2024-09-21,Centro,Medicina familiar,Falta de oportunidad en la asignación,39,Telefónico,Resuelta,True
+PQRS000781,2024-09-16,2024-09-22,Occidente,Medicina general,Demora en la asignación de cita,15,Telefónico,Resuelta,True
+PQRS000425,2024-09-09,2024-09-23,Norte,Ginecología,Cancelación de cita por el prestador,6,Telefónico,Cerrada sin respuesta,True
+PQRS000438,2024-09-23,2024-09-24,Norte,Enfermería,Falta de oportunidad en la asignación,15,Presencial,En trámite,True
+PQRS000778,2024-09-16,2024-09-24,Occidente,Medicina general,Falta de oportunidad en la asignación,41,Virtual,Resuelta,True
+PQRS001114,2024-09-23,2024-09-24,Sur,Medicina familiar,Demora en la asignación de cita,28,Presencial,Resuelta,True
+PQRS000435,2024-09-16,2024-09-25,Norte,Medicina general,Falta de oportunidad en la asignación,6,Presencial,Resuelta,True
+PQRS001101,2024-09-23,2024-09-25,Sur,Medicina familiar,Falta de oportunidad en la asignación,18,Presencial,Resuelta,True
+PQRS000431,2024-09-16,2024-09-26,Norte,Medicina general,Información insuficiente sobre el trámite,9,Virtual,Resuelta,True
+PQRS000437,2024-09-16,2024-09-27,Norte,Enfermería,Información insuficiente sobre el trámite,4,Presencial,Cerrada sin respuesta,False
+PQRS001104,2024-09-23,2024-09-27,Sur,Enfermería,Falta de oportunidad en la asignación,43,Presencial,Resuelta,True
+PQRS000780,2024-09-16,2024-09-28,Occidente,Medicina general,Falta de oportunidad en la asignación,15,Virtual,En trámite,True
+PQRS001108,2024-09-23,2024-09-28,Sur,Ginecología,Información insuficiente sobre el trámite,65,Telefónico,En trámite,True
+PQRS000432,2024-09-16,2024-09-30,Norte,Nutrición,Falta de oportunidad en la asignación,20,Presencial,Resuelta,True
+PQRS000779,2024-09-16,2024-09-30,Occidente,Medicina interna,Falta de oportunidad en la asignación,52,Telefónico,Resuelta,True
+PQRS001113,2024-09-23,2024-09-30,Sur,Enfermería,Falta de oportunidad en la asignación,26,Telefónico,En trámite,True
+PQRS000443,2024-09-30,2024-10-01,Norte,Medicina general,Falta de oportunidad en la asignación,15,Presencial,Resuelta,True
+PQRS000446,2024-09-30,2024-10-01,Norte,Pediatría,Demora en la asignación de cita,33,Telefónico,Resuelta,True
+PQRS000453,2024-09-30,2024-10-01,Norte,Nutrición,Demora en la asignación de cita,5,Telefónico,Resuelta,True
+PQRS001107,2024-09-23,2024-10-01,Sur,Enfermería,Falta de oportunidad en la asignación,35,Presencial,Resuelta,True
+PQRS001121,2024-09-30,2024-10-01,Sur,Medicina general,Cancelación de cita por el prestador,9,Presencial,Resuelta,True
+PQRS001122,2024-09-30,2024-10-01,Sur,Ginecología,Falta de oportunidad en la asignación,43,Telefónico,Resuelta,True
+PQRS001127,2024-09-30,2024-10-01,Sur,Odontología,Falta de oportunidad en la asignación,12,Telefónico,Resuelta,True
+PQRS000445,2024-09-30,2024-10-02,Norte,Odontología,Falta de oportunidad en la asignación,27,Telefónico,Resuelta,True
+PQRS001103,2024-09-23,2024-10-02,Sur,Medicina general,Falta de oportunidad en la asignación,38,Telefónico,Resuelta,True
+PQRS001123,2024-09-30,2024-10-02,Sur,Medicina general,Cancelación de cita por el prestador,11,Presencial,Cerrada sin respuesta,True
+PQRS001124,2024-09-30,2024-10-02,Sur,Medicina general,Demora en la asignación de cita,69,Presencial,Cerrada sin respuesta,True
+PQRS000440,2024-09-30,2024-10-03,Norte,Medicina general,Falta de oportunidad en la asignación,17,Presencial,Resuelta,True
+PQRS000782,2024-09-23,2024-10-03,Occidente,Medicina general,Falta de oportunidad en la asignación,37,Presencial,En trámite,True
+PQRS000784,2024-09-30,2024-10-03,Occidente,Pediatría,Demora en la asignación de cita,38,Presencial,En trámite,True
+PQRS001109,2024-09-23,2024-10-03,Sur,Medicina general,Demora en la asignación de cita,35,Presencial,Resuelta,True
+PQRS001112,2024-09-23,2024-10-03,Sur,Psicología,Falta de oportunidad en la asignación,7,Virtual,Cerrada sin respuesta,True
+PQRS001119,2024-09-30,2024-10-03,Sur,Pediatría,Información insuficiente sobre el trámite,31,Presencial,Resuelta,True
+PQRS001129,2024-09-30,2024-10-03,Sur,Medicina general,Demora en la asignación de cita,23,Presencial,Cerrada sin respuesta,True
+PQRS000441,2024-09-30,2024-10-04,Norte,Psicología,Falta de oportunidad en la asignación,45,Virtual,Resuelta,True
+PQRS001102,2024-09-23,2024-10-04,Sur,Odontología,Demora en la asignación de cita,30,Virtual,Resuelta,True
+PQRS001106,2024-09-23,2024-10-04,Sur,Odontología,Falta de oportunidad en la asignación,27,Telefónico,Resuelta,True
+PQRS001128,2024-09-30,2024-10-04,Sur,Ginecología,Demora en la asignación de cita,20,Telefónico,Resuelta,True
+PQRS000439,2024-09-23,2024-10-05,Norte,Medicina general,Cancelación de cita por el prestador,17,Telefónico,Resuelta,False
+PQRS001105,2024-09-23,2024-10-05,Sur,Ginecología,Información insuficiente sobre el trámite,41,Presencial,Resuelta,True
+PQRS001125,2024-09-30,2024-10-05,Sur,Laboratorio,Falta de oportunidad en la asignación,23,Telefónico,Resuelta,True
+PQRS000444,2024-09-30,2024-10-06,Norte,Enfermería,Falta de oportunidad en la asignación,14,Virtual,Resuelta,True
+PQRS001115,2024-09-30,2024-10-06,Sur,Odontología,Falta de oportunidad en la asignación,51,Presencial,Resuelta,True
+PQRS000114,2024-09-30,2024-10-07,Centro,Pediatría,Falta de oportunidad en la asignación,3,Presencial,Resuelta,True
+PQRS000787,2024-09-30,2024-10-07,Occidente,Ginecología,Falta de oportunidad en la asignación,22,Telefónico,En trámite,True
+PQRS001110,2024-09-23,2024-10-07,Sur,Pediatría,Falta de oportunidad en la asignación,3,Telefónico,En trámite,True
+PQRS001111,2024-09-23,2024-10-07,Sur,Imágenes diagnósticas,Falta de oportunidad en la asignación,14,Virtual,En trámite,True
+PQRS001116,2024-09-30,2024-10-07,Sur,Medicina interna,Demora en la asignación de cita,12,Telefónico,En trámite,True
+PQRS000783,2024-09-23,2024-10-08,Occidente,Medicina general,Falta de oportunidad en la asignación,47,Telefónico,Resuelta,True
+PQRS001126,2024-09-30,2024-10-08,Sur,Medicina general,Cancelación de cita por el prestador,36,Virtual,Resuelta,True
+PQRS000447,2024-09-30,2024-10-09,Norte,Odontología,Falta de oportunidad en la asignación,18,Virtual,Resuelta,True
+PQRS000449,2024-09-30,2024-10-09,Norte,Pediatría,Falta de oportunidad en la asignación,57,Telefónico,Resuelta,True
+PQRS000452,2024-09-30,2024-10-09,Norte,Enfermería,Falta de oportunidad en la asignación,24,Presencial,En trámite,True
+PQRS001118,2024-09-30,2024-10-09,Sur,Medicina general,Falta de oportunidad en la asignación,29,Virtual,Resuelta,True
+PQRS000442,2024-09-30,2024-10-10,Norte,Imágenes diagnósticas,Demora en la asignación de cita,16,Telefónico,Resuelta,True
+PQRS000448,2024-09-30,2024-10-10,Norte,Medicina general,Falta de oportunidad en la asignación,21,Telefónico,Resuelta,True
+PQRS000451,2024-09-30,2024-10-10,Norte,Medicina general,Demora en la asignación de cita,37,Telefónico,Resuelta,True
+PQRS000460,2024-10-07,2024-10-10,Norte,Medicina general,Demora en la asignación de cita,1,Presencial,Resuelta,False
+PQRS000115,2024-10-07,2024-10-11,Centro,Medicina general,Falta de oportunidad en la asignación,41,Virtual,Resuelta,True
+PQRS000118,2024-10-07,2024-10-14,Centro,Medicina general,Cancelación de cita por el prestador,9,Telefónico,En trámite,True
+PQRS000450,2024-09-30,2024-10-14,Norte,Odontología,Falta de oportunidad en la asignación,12,Telefónico,En trámite,True
+PQRS000455,2024-09-30,2024-10-14,Norte,Medicina general,Falta de oportunidad en la asignación,6,Telefónico,Resuelta,True
+PQRS000459,2024-10-07,2024-10-14,Norte,Enfermería,Falta de oportunidad en la asignación,9,Presencial,Resuelta,True
+PQRS000785,2024-09-30,2024-10-14,Occidente,Psicología,Demora en la asignación de cita,39,Presencial,Resuelta,True
+PQRS000786,2024-09-30,2024-10-14,Occidente,Laboratorio,Información insuficiente sobre el trámite,18,Telefónico,Cerrada sin respuesta,True
+PQRS001120,2024-09-30,2024-10-14,Sur,Enfermería,Falta de oportunidad en la asignación,9,Telefónico,Cerrada sin respuesta,True
+PQRS000117,2024-10-07,2024-10-15,Centro,Laboratorio,Cancelación de cita por el prestador,27,Telefónico,Resuelta,True
+PQRS000122,2024-10-14,2024-10-15,Centro,Ginecología,Cancelación de cita por el prestador,3,Telefónico,Resuelta,False
+PQRS000454,2024-09-30,2024-10-15,Norte,Medicina general,Falta de oportunidad en la asignación,11,Telefónico,Resuelta,True
+PQRS000458,2024-10-07,2024-10-15,Norte,Odontología,Información insuficiente sobre el trámite,6,Virtual,Resuelta,True
+PQRS001117,2024-09-30,2024-10-15,Sur,Medicina familiar,Demora en la asignación de cita,49,Telefónico,Resuelta,True
+PQRS000120,2024-10-14,2024-10-16,Centro,Pediatría,Falta de oportunidad en la asignación,26,Telefónico,Resuelta,True
+PQRS000116,2024-10-07,2024-10-17,Centro,Nutrición,Demora en la asignación de cita,10,Presencial,Resuelta,True
+PQRS000457,2024-10-07,2024-10-17,Norte,Medicina interna,Falta de oportunidad en la asignación,12,Telefónico,Resuelta,True
+PQRS001134,2024-10-14,2024-10-17,Sur,Enfermería,Demora en la asignación de cita,16,Virtual,En trámite,True
+PQRS000119,2024-10-07,2024-10-18,Centro,Medicina general,Falta de oportunidad en la asignación,22,Presencial,Resuelta,True
+PQRS000456,2024-10-07,2024-10-18,Norte,Nutrición,Falta de oportunidad en la asignación,14,Presencial,Resuelta,True
+PQRS001131,2024-10-14,2024-10-18,Sur,Ginecología,Falta de oportunidad en la asignación,8,Telefónico,En trámite,True
+PQRS000121,2024-10-14,2024-10-19,Centro,Ginecología,Falta de oportunidad en la asignación,38,Telefónico,Resuelta,True
+PQRS001130,2024-10-14,2024-10-21,Sur,Nutrición,Falta de oportunidad en la asignación,9,Presencial,Resuelta,True
+PQRS001132,2024-10-14,2024-10-22,Sur,Psicología,Demora en la asignación de cita,56,Telefónico,Resuelta,True
+PQRS000463,2024-10-21,2024-10-23,Norte,Medicina interna,Demora en la asignación de cita,21,Telefónico,Resuelta,True
+PQRS000465,2024-10-21,2024-10-23,Norte,Odontología,Falta de oportunidad en la asignación,38,Presencial,Resuelta,True
+PQRS000466,2024-10-21,2024-10-23,Norte,Pediatría,Falta de oportunidad en la asignación,9,Telefónico,En trámite,True
+PQRS000468,2024-10-21,2024-10-23,Norte,Medicina general,Falta de oportunidad en la asignación,15,Presencial,En trámite,True
+PQRS001133,2024-10-14,2024-10-24,Sur,Psicología,Falta de oportunidad en la asignación,41,Virtual,Resuelta,True
+PQRS001135,2024-10-14,2024-10-24,Sur,Medicina general,Información insuficiente sobre el trámite,55,Telefónico,En trámite,True
+PQRS001137,2024-10-21,2024-10-24,Sur,Enfermería,Falta de oportunidad en la asignación,23,Presencial,Resuelta,True
+PQRS001141,2024-10-21,2024-10-24,Sur,Medicina familiar,Falta de oportunidad en la asignación,29,Telefónico,Resuelta,True
+PQRS000467,2024-10-21,2024-10-25,Norte,Medicina interna,Falta de oportunidad en la asignación,18,Presencial,Resuelta,True
+PQRS000788,2024-10-14,2024-10-25,Occidente,Odontología,Demora en la asignación de cita,15,Presencial,Resuelta,True
+PQRS001136,2024-10-14,2024-10-25,Sur,Pediatría,Demora en la asignación de cita,5,Telefónico,Resuelta,False
+PQRS000461,2024-10-21,2024-10-26,Norte,Medicina general,Falta de oportunidad en la asignación,41,Presencial,En trámite,True
+PQRS001139,2024-10-21,2024-10-26,Sur,Enfermería,Información insuficiente sobre el trámite,6,Presencial,Resuelta,True
+PQRS000462,2024-10-21,2024-10-27,Norte,Medicina general,Falta de oportunidad en la asignación,33,Presencial,En trámite,True
+PQRS001143,2024-10-21,2024-10-28,Sur,Odontología,Falta de oportunidad en la asignación,22,Virtual,Resuelta,True
+PQRS001144,2024-10-21,2024-10-28,Sur,Medicina general,Información insuficiente sobre el trámite,13,Telefónico,Resuelta,False
+PQRS000464,2024-10-21,2024-10-29,Norte,Medicina interna,Falta de oportunidad en la asignación,11,Virtual,Resuelta,True
+PQRS000469,2024-10-28,2024-10-29,Norte,Medicina general,Demora en la asignación de cita,33,Presencial,Cerrada sin respuesta,True
+PQRS000789,2024-10-28,2024-10-29,Occidente,Medicina general,Demora en la asignación de cita,47,Presencial,Resuelta,True
+PQRS000793,2024-10-28,2024-10-29,Occidente,Medicina interna,Demora en la asignación de cita,17,Telefónico,En trámite,True
+PQRS001138,2024-10-21,2024-10-29,Sur,Enfermería,Falta de oportunidad en la asignación,20,Telefónico,Resuelta,True
+PQRS000472,2024-10-28,2024-10-30,Norte,Pediatría,Falta de oportunidad en la asignación,11,Presencial,En trámite,True
+PQRS000791,2024-10-28,2024-10-30,Occidente,Ginecología,Falta de oportunidad en la asignación,63,Virtual,Resuelta,True
+PQRS001142,2024-10-21,2024-10-30,Sur,Pediatría,Falta de oportunidad en la asignación,47,Virtual,Resuelta,True
+PQRS001140,2024-10-21,2024-10-31,Sur,Medicina general,Falta de oportunidad en la asignación,33,Telefónico,Resuelta,True
+PQRS000470,2024-10-28,2024-11-01,Norte,Medicina interna,Cancelación de cita por el prestador,20,Presencial,Resuelta,True
+PQRS001152,2024-10-28,2024-11-01,Sur,Nutrición,Falta de oportunidad en la asignación,37,Presencial,Resuelta,True
+PQRS000123,2024-10-21,2024-11-02,Centro,Medicina general,Falta de oportunidad en la asignación,3,Telefónico,Resuelta,True
+PQRS000125,2024-10-21,2024-11-02,Centro,Medicina familiar,Cancelación de cita por el prestador,8,Virtual,Resuelta,False
+PQRS000477,2024-10-28,2024-11-02,Norte,Enfermería,Demora en la asignación de cita,45,Presencial,En trámite,True
+PQRS001145,2024-10-21,2024-11-03,Sur,Medicina familiar,Información insuficiente sobre el trámite,6,Presencial,Resuelta,False
+PQRS001146,2024-10-28,2024-11-03,Sur,Enfermería,Información insuficiente sobre el trámite,8,Telefónico,Resuelta,True
+PQRS000124,2024-10-21,2024-11-04,Centro,Medicina general,Información insuficiente sobre el trámite,1,Virtual,En trámite,False
+PQRS000794,2024-10-28,2024-11-04,Occidente,Laboratorio,Falta de oportunidad en la asignación,12,Presencial,En trámite,True
+PQRS001151,2024-10-28,2024-11-04,Sur,Medicina general,Demora en la asignación de cita,9,Telefónico,Resuelta,True
+PQRS000475,2024-10-28,2024-11-05,Norte,Medicina familiar,Falta de oportunidad en la asignación,16,Telefónico,Resuelta,True
+PQRS000799,2024-10-28,2024-11-05,Occidente,Medicina general,Falta de oportunidad en la asignación,39,Presencial,En trámite,True
+PQRS000803,2024-11-04,2024-11-05,Occidente,Enfermería,Demora en la asignación de cita,62,Presencial,Resuelta,True
+PQRS001149,2024-10-28,2024-11-05,Sur,Psicología,Falta de oportunidad en la asignación,19,Telefónico,Resuelta,True
+PQRS000474,2024-10-28,2024-11-06,Norte,Medicina general,Falta de oportunidad en la asignación,14,Telefónico,En trámite,True
+PQRS000792,2024-10-28,2024-11-06,Occidente,Medicina general,Falta de oportunidad en la asignación,7,Virtual,Resuelta,True
+PQRS000796,2024-10-28,2024-11-06,Occidente,Medicina familiar,Demora en la asignación de cita,24,Virtual,Resuelta,True
+PQRS000804,2024-11-04,2024-11-07,Occidente,Medicina general,Información insuficiente sobre el trámite,3,Telefónico,Cerrada sin respuesta,False
+PQRS000473,2024-10-28,2024-11-08,Norte,Medicina general,Demora en la asignación de cita,11,Telefónico,Resuelta,True
+PQRS000483,2024-11-04,2024-11-09,Norte,Medicina general,Información insuficiente sobre el trámite,41,Telefónico,Resuelta,True
+PQRS000795,2024-10-28,2024-11-09,Occidente,Psicología,Información insuficiente sobre el trámite,15,Telefónico,En trámite,True
+PQRS000797,2024-10-28,2024-11-09,Occidente,Odontología,Falta de oportunidad en la asignación,85,Telefónico,En trámite,True
+PQRS000476,2024-10-28,2024-11-11,Norte,Medicina general,Falta de oportunidad en la asignación,19,Telefónico,Resuelta,True
+PQRS000798,2024-10-28,2024-11-11,Occidente,Medicina interna,Información insuficiente sobre el trámite,8,Telefónico,Resuelta,True
+PQRS001147,2024-10-28,2024-11-11,Sur,Ginecología,Información insuficiente sobre el trámite,16,Virtual,Resuelta,True
+PQRS000471,2024-10-28,2024-11-12,Norte,Medicina general,Demora en la asignación de cita,5,Virtual,En trámite,True
+PQRS000481,2024-11-04,2024-11-12,Norte,Medicina interna,Demora en la asignación de cita,10,Presencial,Resuelta,True
+PQRS000790,2024-10-28,2024-11-12,Occidente,Enfermería,Información insuficiente sobre el trámite,50,Telefónico,Resuelta,True
+PQRS001148,2024-10-28,2024-11-12,Sur,Medicina interna,Falta de oportunidad en la asignación,13,Presencial,Resuelta,True
+PQRS001150,2024-10-28,2024-11-12,Sur,Psicología,Falta de oportunidad en la asignación,22,Presencial,Resuelta,True
+PQRS000127,2024-11-11,2024-11-13,Centro,Medicina general,Demora en la asignación de cita,1,Presencial,Resuelta,False
+PQRS000478,2024-11-04,2024-11-13,Norte,Pediatría,Falta de oportunidad en la asignación,8,Presencial,En trámite,True
+PQRS000480,2024-11-04,2024-11-13,Norte,Medicina interna,Demora en la asignación de cita,9,Presencial,Resuelta,True
+PQRS000479,2024-11-04,2024-11-14,Norte,Enfermería,Falta de oportunidad en la asignación,4,Virtual,Resuelta,True
+PQRS000482,2024-11-04,2024-11-14,Norte,Psicología,Cancelación de cita por el prestador,3,Virtual,En trámite,True
+PQRS001153,2024-11-11,2024-11-15,Sur,Medicina familiar,Cancelación de cita por el prestador,5,Presencial,Resuelta,False
+PQRS000126,2024-11-04,2024-11-16,Centro,Enfermería,Falta de oportunidad en la asignación,56,Presencial,Resuelta,True
+PQRS000802,2024-11-04,2024-11-16,Occidente,Medicina general,Falta de oportunidad en la asignación,6,Presencial,Resuelta,True
+PQRS000801,2024-11-04,2024-11-17,Occidente,Medicina general,Falta de oportunidad en la asignación,19,Telefónico,Resuelta,True
+PQRS000800,2024-11-04,2024-11-18,Occidente,Medicina general,Falta de oportunidad en la asignación,7,Telefónico,En trámite,True
+PQRS001155,2024-11-18,2024-11-19,Sur,Medicina general,Demora en la asignación de cita,1,Telefónico,En trámite,False
+PQRS000485,2024-11-18,2024-11-20,Norte,Medicina general,Falta de oportunidad en la asignación,29,Telefónico,En trámite,True
+PQRS000490,2024-11-18,2024-11-20,Norte,Medicina general,Información insuficiente sobre el trámite,25,Virtual,Resuelta,True
+PQRS001154,2024-11-11,2024-11-20,Sur,Odontología,Información insuficiente sobre el trámite,4,Telefónico,Resuelta,False
+PQRS000129,2024-11-18,2024-11-22,Centro,Enfermería,Falta de oportunidad en la asignación,5,Presencial,En trámite,True
+PQRS000492,2024-11-18,2024-11-22,Norte,Pediatría,Falta de oportunidad en la asignación,8,Telefónico,Resuelta,True
+PQRS001157,2024-11-18,2024-11-22,Sur,Pediatría,Cancelación de cita por el prestador,4,Presencial,En trámite,False
+PQRS000130,2024-11-18,2024-11-23,Centro,Odontología,Información insuficiente sobre el trámite,10,Telefónico,Resuelta,True
+PQRS000484,2024-11-18,2024-11-23,Norte,Pediatría,Falta de oportunidad en la asignación,15,Presencial,Resuelta,True
+PQRS000486,2024-11-18,2024-11-24,Norte,Enfermería,Falta de oportunidad en la asignación,21,Telefónico,Resuelta,True
+PQRS000493,2024-11-18,2024-11-25,Norte,Enfermería,Cancelación de cita por el prestador,6,Telefónico,Resuelta,False
+PQRS000133,2024-11-25,2024-11-26,Centro,Enfermería,Demora en la asignación de cita,16,Telefónico,Resuelta,True
+PQRS000141,2024-11-25,2024-11-26,Centro,Medicina general,Falta de oportunidad en la asignación,30,Telefónico,Resuelta,True
+PQRS000805,2024-11-25,2024-11-26,Occidente,Medicina general,Demora en la asignación de cita,22,Telefónico,Resuelta,True
+PQRS000131,2024-11-25,2024-11-28,Centro,Pediatría,Falta de oportunidad en la asignación,31,Virtual,Resuelta,True
+PQRS000134,2024-11-25,2024-11-28,Centro,Medicina general,Falta de oportunidad en la asignación,3,Virtual,Cerrada sin respuesta,True
+PQRS000136,2024-11-25,2024-11-28,Centro,Odontología,Cancelación de cita por el prestador,52,Telefónico,Resuelta,True
+PQRS000500,2024-11-25,2024-11-29,Norte,Pediatría,Falta de oportunidad en la asignación,3,Telefónico,Cerrada sin respuesta,True
+PQRS001158,2024-11-25,2024-11-29,Sur,Odontología,Falta de oportunidad en la asignación,39,Presencial,Resuelta,True
+PQRS000128,2024-11-18,2024-11-30,Centro,Medicina interna,Demora en la asignación de cita,8,Telefónico,Resuelta,True
+PQRS000138,2024-11-25,2024-11-30,Centro,Medicina general,Falta de oportunidad en la asignación,38,Virtual,Cerrada sin respuesta,True
+PQRS000142,2024-11-25,2024-11-30,Centro,Medicina general,Falta de oportunidad en la asignación,39,Presencial,Resuelta,True
+PQRS000487,2024-11-18,2024-11-30,Norte,Enfermería,Falta de oportunidad en la asignación,21,Virtual,Resuelta,True
+PQRS000496,2024-11-25,2024-11-30,Norte,Medicina general,Falta de oportunidad en la asignación,16,Virtual,Resuelta,True
+PQRS000498,2024-11-25,2024-12-01,Norte,Medicina familiar,Falta de oportunidad en la asignación,29,Presencial,En trámite,True
+PQRS000137,2024-11-25,2024-12-02,Centro,Medicina familiar,Información insuficiente sobre el trámite,19,Telefónico,Resuelta,True
+PQRS000489,2024-11-18,2024-12-02,Norte,Medicina general,Falta de oportunidad en la asignación,30,Presencial,Resuelta,True
+PQRS000491,2024-11-18,2024-12-02,Norte,Pediatría,Falta de oportunidad en la asignación,27,Presencial,Resuelta,True
+PQRS000495,2024-11-25,2024-12-02,Norte,Pediatría,Falta de oportunidad en la asignación,8,Presencial,Resuelta,True
+PQRS001156,2024-11-18,2024-12-02,Sur,Enfermería,Información insuficiente sobre el trámite,7,Telefónico,Resuelta,False
+PQRS000143,2024-11-25,2024-12-03,Centro,Medicina familiar,Cancelación de cita por el prestador,17,Presencial,Resuelta,True
+PQRS000488,2024-11-18,2024-12-03,Norte,Medicina familiar,Falta de oportunidad en la asignación,15,Telefónico,Cerrada sin respuesta,True
+PQRS000497,2024-11-25,2024-12-03,Norte,Psicología,Falta de oportunidad en la asignación,22,Telefónico,En trámite,True
+PQRS000140,2024-11-25,2024-12-04,Centro,Medicina general,Demora en la asignación de cita,29,Virtual,Resuelta,True
+PQRS000132,2024-11-25,2024-12-07,Centro,Medicina familiar,Falta de oportunidad en la asignación,28,Presencial,En trámite,True
+PQRS000499,2024-11-25,2024-12-07,Norte,Imágenes diagnósticas,Falta de oportunidad en la asignación,27,Presencial,Resuelta,True
+PQRS000494,2024-11-25,2024-12-08,Norte,Pediatría,Falta de oportunidad en la asignación,22,Presencial,Resuelta,True
+PQRS000809,2024-12-02,2024-12-08,Occidente,Ginecología,Falta de oportunidad en la asignación,62,Presencial,Resuelta,True
+PQRS000139,2024-11-25,2024-12-09,Centro,Odontología,Falta de oportunidad en la asignación,51,Presencial,Cerrada sin respuesta,True
+PQRS000135,2024-11-25,2024-12-10,Centro,Medicina general,Información insuficiente sobre el trámite,110,Telefónico,Resuelta,True
+PQRS000145,2024-12-09,2024-12-10,Centro,Medicina general,Demora en la asignación de cita,20,Presencial,En trámite,True
+PQRS000147,2024-12-09,2024-12-10,Centro,Odontología,Información insuficiente sobre el trámite,20,Telefónico,Resuelta,True
+PQRS000806,2024-11-25,2024-12-10,Occidente,Psicología,Falta de oportunidad en la asignación,11,Telefónico,Resuelta,True
+PQRS000807,2024-11-25,2024-12-10,Occidente,Enfermería,Cancelación de cita por el prestador,23,Virtual,Resuelta,True
+PQRS000501,2024-12-09,2024-12-13,Norte,Imágenes diagnósticas,Cancelación de cita por el prestador,4,Telefónico,Resuelta,False
+PQRS000144,2024-12-09,2024-12-15,Centro,Medicina general,Demora en la asignación de cita,11,Telefónico,Resuelta,True
+PQRS000813,2024-12-09,2024-12-15,Occidente,Psicología,Demora en la asignación de cita,28,Telefónico,Resuelta,True
+PQRS000810,2024-12-09,2024-12-16,Occidente,Medicina familiar,Falta de oportunidad en la asignación,31,Presencial,En trámite,True
+PQRS000815,2024-12-09,2024-12-16,Occidente,Enfermería,Falta de oportunidad en la asignación,14,Telefónico,Resuelta,True
+PQRS000808,2024-12-02,2024-12-17,Occidente,Medicina general,Información insuficiente sobre el trámite,12,Virtual,Cerrada sin respuesta,True
+PQRS000814,2024-12-09,2024-12-19,Occidente,Medicina familiar,Demora en la asignación de cita,20,Telefónico,Resuelta,True
+PQRS000817,2024-12-16,2024-12-19,Occidente,Medicina general,Falta de oportunidad en la asignación,20,Presencial,Cerrada sin respuesta,True
+PQRS000811,2024-12-09,2024-12-20,Occidente,Medicina general,Demora en la asignación de cita,32,Virtual,Resuelta,True
+PQRS000816,2024-12-09,2024-12-20,Occidente,Medicina general,Falta de oportunidad en la asignación,14,Virtual,Resuelta,True
+PQRS000146,2024-12-09,2024-12-21,Centro,Medicina general,Falta de oportunidad en la asignación,18,Virtual,En trámite,True
+PQRS000812,2024-12-09,2024-12-22,Occidente,Enfermería,Falta de oportunidad en la asignación,20,Presencial,Resuelta,True
+PQRS000148,2024-12-16,2024-12-24,Centro,Medicina general,Cancelación de cita por el prestador,22,Presencial,Resuelta,False
+PQRS000149,2024-12-23,2024-12-26,Centro,Enfermería,Falta de oportunidad en la asignación,35,Telefónico,Resuelta,True
+PQRS000150,2024-12-23,2024-12-26,Centro,Medicina familiar,Falta de oportunidad en la asignación,13,Presencial,Resuelta,True
+PQRS000153,2024-12-23,2024-12-29,Centro,Medicina general,Información insuficiente sobre el trámite,2,Presencial,Resuelta,False
+PQRS001159,2024-12-16,2024-12-30,Sur,Medicina general,Demora en la asignación de cita,11,Telefónico,Resuelta,False
+PQRS000154,2024-12-30,2024-12-31,Centro,Odontología,Falta de oportunidad en la asignación,15,Virtual,Resuelta,True
+PQRS001160,2024-12-23,2025-01-01,Sur,Medicina general,Falta de oportunidad en la asignación,19,Presencial,Resuelta,True
+PQRS001163,2024-12-23,2025-01-02,Sur,Medicina general,Cancelación de cita por el prestador,13,Presencial,Resuelta,False
+PQRS000156,2024-12-30,2025-01-03,Centro,Ginecología,Demora en la asignación de cita,31,Virtual,Resuelta,True
+PQRS001162,2024-12-23,2025-01-04,Sur,Enfermería,Falta de oportunidad en la asignación,44,Telefónico,Resuelta,True
+PQRS000151,2024-12-23,2025-01-05,Centro,Enfermería,Falta de oportunidad en la asignación,32,Presencial,Resuelta,True
+PQRS000152,2024-12-23,2025-01-06,Centro,Ginecología,Falta de oportunidad en la asignación,9,Presencial,Resuelta,True
+PQRS000155,2024-12-30,2025-01-07,Centro,Medicina general,Demora en la asignación de cita,12,Presencial,Resuelta,True
+PQRS000160,2024-12-30,2025-01-07,Centro,Odontología,Demora en la asignación de cita,19,Presencial,Resuelta,True
+PQRS000505,2025-01-06,2025-01-07,Norte,Nutrición,Cancelación de cita por el prestador,6,Presencial,En trámite,True
+PQRS001161,2024-12-23,2025-01-07,Sur,Pediatría,Falta de oportunidad en la asignación,28,Telefónico,Resuelta,True
+PQRS000506,2025-01-06,2025-01-08,Norte,Medicina interna,Cancelación de cita por el prestador,1,Telefónico,Resuelta,False
+PQRS000507,2025-01-06,2025-01-08,Norte,Medicina general,Información insuficiente sobre el trámite,11,Virtual,Resuelta,False
+PQRS000157,2024-12-30,2025-01-09,Centro,Medicina general,Demora en la asignación de cita,15,Presencial,Resuelta,True
+PQRS000158,2024-12-30,2025-01-09,Centro,Medicina general,Falta de oportunidad en la asignación,29,Telefónico,Resuelta,True
+PQRS000503,2025-01-06,2025-01-09,Norte,Medicina general,Falta de oportunidad en la asignación,16,Virtual,Resuelta,True
+PQRS001164,2024-12-30,2025-01-09,Sur,Imágenes diagnósticas,Demora en la asignación de cita,1,Presencial,Resuelta,False
+PQRS000164,2025-01-06,2025-01-11,Centro,Pediatría,Falta de oportunidad en la asignación,16,Presencial,Resuelta,True
+PQRS000502,2025-01-06,2025-01-12,Norte,Psicología,Falta de oportunidad en la asignación,6,Virtual,Resuelta,True
+PQRS000504,2025-01-06,2025-01-12,Norte,Medicina general,Falta de oportunidad en la asignación,41,Presencial,Resuelta,True
+PQRS001165,2025-01-06,2025-01-13,Sur,Medicina general,Cancelación de cita por el prestador,5,Presencial,Resuelta,False
+PQRS000159,2024-12-30,2025-01-14,Centro,Nutrición,Información insuficiente sobre el trámite,41,Telefónico,Resuelta,True
+PQRS000161,2025-01-06,2025-01-14,Centro,Nutrición,Información insuficiente sobre el trámite,35,Telefónico,Resuelta,True
+PQRS000819,2025-01-13,2025-01-15,Occidente,Enfermería,Falta de oportunidad en la asignación,13,Presencial,Resuelta,True
+PQRS001169,2025-01-13,2025-01-15,Sur,Odontología,Falta de oportunidad en la asignación,68,Telefónico,Resuelta,True
+PQRS001177,2025-01-13,2025-01-16,Sur,Odontología,Cancelación de cita por el prestador,6,Virtual,Resuelta,False
+PQRS000162,2025-01-06,2025-01-18,Centro,Medicina familiar,Demora en la asignación de cita,34,Virtual,En trámite,True
+PQRS001168,2025-01-13,2025-01-20,Sur,Medicina general,Falta de oportunidad en la asignación,27,Presencial,Resuelta,True
+PQRS000163,2025-01-06,2025-01-21,Centro,Ginecología,Falta de oportunidad en la asignación,6,Telefónico,Resuelta,True
+PQRS000822,2025-01-13,2025-01-21,Occidente,Odontología,Falta de oportunidad en la asignación,18,Virtual,Resuelta,True
+PQRS001175,2025-01-13,2025-01-21,Sur,Pediatría,Demora en la asignación de cita,48,Virtual,Resuelta,True
+PQRS001172,2025-01-13,2025-01-22,Sur,Medicina familiar,Demora en la asignación de cita,29,Telefónico,En trámite,True
+PQRS001167,2025-01-13,2025-01-23,Sur,Psicología,Falta de oportunidad en la asignación,29,Virtual,En trámite,True
+PQRS001170,2025-01-13,2025-01-23,Sur,Medicina general,Falta de oportunidad en la asignación,6,Virtual,Resuelta,True
+PQRS000818,2025-01-13,2025-01-24,Occidente,Psicología,Demora en la asignación de cita,42,Telefónico,Resuelta,True
+PQRS000165,2025-01-20,2025-01-25,Centro,Nutrición,Falta de oportunidad en la asignación,32,Telefónico,Resuelta,True
+PQRS000820,2025-01-13,2025-01-25,Occidente,Medicina general,Falta de oportunidad en la asignación,12,Presencial,Cerrada sin respuesta,True
+PQRS000821,2025-01-13,2025-01-25,Occidente,Nutrición,Falta de oportunidad en la asignación,11,Presencial,Resuelta,True
+PQRS001173,2025-01-13,2025-01-25,Sur,Enfermería,Falta de oportunidad en la asignación,33,Presencial,Resuelta,True
+PQRS001166,2025-01-13,2025-01-26,Sur,Laboratorio,Falta de oportunidad en la asignación,39,Telefónico,Cerrada sin respuesta,True
+PQRS001171,2025-01-13,2025-01-26,Sur,Nutrición,Cancelación de cita por el prestador,4,Telefónico,Resuelta,True
+PQRS001174,2025-01-13,2025-01-26,Sur,Odontología,Falta de oportunidad en la asignación,51,Telefónico,Resuelta,True
+PQRS001176,2025-01-13,2025-01-27,Sur,Odontología,Falta de oportunidad en la asignación,12,Telefónico,Resuelta,True
+PQRS000172,2025-01-27,2025-01-28,Centro,Nutrición,Demora en la asignación de cita,27,Telefónico,En trámite,True
+PQRS000508,2025-01-20,2025-01-28,Norte,Ginecología,Cancelación de cita por el prestador,1,Telefónico,Resuelta,False
+PQRS000509,2025-01-20,2025-01-29,Norte,Medicina general,Demora en la asignación de cita,5,Presencial,Resuelta,False
+PQRS000517,2025-01-27,2025-01-29,Norte,Medicina general,Demora en la asignación de cita,19,Virtual,Resuelta,True
+PQRS000171,2025-01-27,2025-01-30,Centro,Medicina interna,Cancelación de cita por el prestador,58,Telefónico,En trámite,True
+PQRS000512,2025-01-27,2025-01-30,Norte,Medicina general,Falta de oportunidad en la asignación,3,Presencial,Resuelta,True
+PQRS000825,2025-01-27,2025-01-30,Occidente,Medicina interna,Demora en la asignación de cita,34,Virtual,Resuelta,True
+PQRS000166,2025-01-27,2025-01-31,Centro,Medicina interna,Demora en la asignación de cita,13,Presencial,Resuelta,True
+PQRS000169,2025-01-27,2025-01-31,Centro,Pediatría,Falta de oportunidad en la asignación,75,Presencial,En trámite,True
+PQRS000167,2025-01-27,2025-02-01,Centro,Enfermería,Demora en la asignación de cita,36,Presencial,Resuelta,True
+PQRS000511,2025-01-27,2025-02-01,Norte,Odontología,Falta de oportunidad en la asignación,22,Virtual,En trámite,True
+PQRS000515,2025-01-27,2025-02-02,Norte,Enfermería,Demora en la asignación de cita,36,Telefónico,Cerrada sin respuesta,True
+PQRS001180,2025-01-27,2025-02-02,Sur,Medicina general,Demora en la asignación de cita,4,Telefónico,Resuelta,False
+PQRS000170,2025-01-27,2025-02-03,Centro,Medicina general,Falta de oportunidad en la asignación,21,Virtual,Resuelta,True
+PQRS000520,2025-01-27,2025-02-03,Norte,Medicina familiar,Falta de oportunidad en la asignación,22,Telefónico,Resuelta,True
+PQRS000823,2025-01-20,2025-02-03,Occidente,Imágenes diagnósticas,Demora en la asignación de cita,3,Telefónico,Resuelta,False
+PQRS000824,2025-01-27,2025-02-03,Occidente,Pediatría,Falta de oportunidad en la asignación,15,Virtual,Resuelta,True
+PQRS000173,2025-02-03,2025-02-04,Centro,Medicina general,Demora en la asignación de cita,32,Telefónico,Resuelta,True
+PQRS000168,2025-01-27,2025-02-05,Centro,Ginecología,Falta de oportunidad en la asignación,10,Telefónico,Resuelta,True
+PQRS000174,2025-02-03,2025-02-05,Centro,Medicina familiar,Falta de oportunidad en la asignación,19,Virtual,Resuelta,True
+PQRS000513,2025-01-27,2025-02-05,Norte,Enfermería,Falta de oportunidad en la asignación,10,Virtual,Resuelta,True
+PQRS000521,2025-01-27,2025-02-05,Norte,Medicina general,Falta de oportunidad en la asignación,36,Telefónico,Resuelta,True
+PQRS001179,2025-01-27,2025-02-05,Sur,Medicina general,Información insuficiente sobre el trámite,3,Virtual,Resuelta,False
+PQRS000518,2025-01-27,2025-02-06,Norte,Enfermería,Falta de oportunidad en la asignación,36,Virtual,Resuelta,True
+PQRS000826,2025-01-27,2025-02-06,Occidente,Medicina general,Demora en la asignación de cita,9,Virtual,Resuelta,False
+PQRS000510,2025-01-27,2025-02-07,Norte,Medicina familiar,Falta de oportunidad en la asignación,30,Presencial,Resuelta,True
+PQRS000516,2025-01-27,2025-02-08,Norte,Pediatría,Demora en la asignación de cita,15,Telefónico,Resuelta,True
+PQRS000519,2025-01-27,2025-02-09,Norte,Medicina general,Falta de oportunidad en la asignación,9,Presencial,Resuelta,True
+PQRS000514,2025-01-27,2025-02-10,Norte,Medicina interna,Falta de oportunidad en la asignación,10,Presencial,En trámite,True
+PQRS000828,2025-02-03,2025-02-10,Occidente,Medicina general,Falta de oportunidad en la asignación,11,Telefónico,Resuelta,True
+PQRS001178,2025-01-27,2025-02-10,Sur,Enfermería,Demora en la asignación de cita,3,Telefónico,Resuelta,False
+PQRS000827,2025-02-03,2025-02-12,Occidente,Medicina general,Falta de oportunidad en la asignación,16,Presencial,Resuelta,True
+PQRS000176,2025-02-03,2025-02-13,Centro,Medicina general,Falta de oportunidad en la asignación,26,Presencial,En trámite,True
+PQRS000175,2025-02-03,2025-02-14,Centro,Pediatría,Falta de oportunidad en la asignación,24,Telefónico,Resuelta,True
+PQRS000522,2025-02-03,2025-02-18,Norte,Medicina interna,Cancelación de cita por el prestador,11,Telefónico,Resuelta,False
+PQRS001182,2025-02-17,2025-02-19,Sur,Pediatría,Falta de oportunidad en la asignación,21,Presencial,Resuelta,True
+PQRS000829,2025-02-10,2025-02-20,Occidente,Enfermería,Demora en la asignación de cita,10,Presencial,Resuelta,True
+PQRS000830,2025-02-10,2025-02-20,Occidente,Medicina interna,Demora en la asignación de cita,23,Presencial,Cerrada sin respuesta,True
+PQRS000831,2025-02-10,2025-02-20,Occidente,Pediatría,Falta de oportunidad en la asignación,11,Virtual,Resuelta,True
+PQRS000177,2025-02-10,2025-02-21,Centro,Medicina general,Demora en la asignación de cita,12,Virtual,Resuelta,False
+PQRS001185,2025-02-17,2025-02-21,Sur,Pediatría,Falta de oportunidad en la asignación,27,Presencial,Resuelta,True
+PQRS001181,2025-02-17,2025-02-22,Sur,Pediatría,Demora en la asignación de cita,21,Telefónico,Resuelta,True
+PQRS001183,2025-02-17,2025-02-22,Sur,Enfermería,Falta de oportunidad en la asignación,12,Presencial,Resuelta,True
+PQRS001184,2025-02-17,2025-02-22,Sur,Laboratorio,Falta de oportunidad en la asignación,32,Telefónico,Resuelta,True
+PQRS000523,2025-02-17,2025-02-27,Norte,Medicina general,Cancelación de cita por el prestador,3,Telefónico,Resuelta,False
+PQRS000832,2025-02-24,2025-02-27,Occidente,Medicina general,Demora en la asignación de cita,18,Presencial,En trámite,True
+PQRS000833,2025-02-24,2025-03-03,Occidente,Medicina interna,Demora en la asignación de cita,7,Virtual,Resuelta,False
+PQRS000180,2025-03-03,2025-03-04,Centro,Medicina general,Demora en la asignación de cita,1,Telefónico,Resuelta,False
+PQRS000178,2025-03-03,2025-03-06,Centro,Pediatría,Falta de oportunidad en la asignación,4,Telefónico,Resuelta,True
+PQRS000179,2025-03-03,2025-03-06,Centro,Medicina general,Falta de oportunidad en la asignación,42,Presencial,Resuelta,True
+PQRS001189,2025-03-03,2025-03-09,Sur,Medicina general,Falta de oportunidad en la asignación,31,Virtual,Resuelta,True
+PQRS000836,2025-03-03,2025-03-11,Occidente,Enfermería,Falta de oportunidad en la asignación,25,Presencial,Cerrada sin respuesta,True
+PQRS001186,2025-03-03,2025-03-12,Sur,Medicina general,Información insuficiente sobre el trámite,21,Telefónico,Resuelta,True
+PQRS001188,2025-03-03,2025-03-12,Sur,Medicina general,Falta de oportunidad en la asignación,16,Virtual,Resuelta,True
+PQRS000526,2025-03-10,2025-03-13,Norte,Medicina familiar,Información insuficiente sobre el trámite,6,Telefónico,Resuelta,False
+PQRS000837,2025-03-10,2025-03-14,Occidente,Medicina interna,Demora en la asignación de cita,5,Telefónico,En trámite,False
+PQRS000181,2025-03-10,2025-03-15,Centro,Medicina interna,Falta de oportunidad en la asignación,109,Presencial,En trámite,True
+PQRS000528,2025-03-10,2025-03-15,Norte,Enfermería,Demora en la asignación de cita,1,Telefónico,Resuelta,False
+PQRS001192,2025-03-10,2025-03-15,Sur,Medicina general,Falta de oportunidad en la asignación,11,Telefónico,En trámite,True
+PQRS001193,2025-03-10,2025-03-15,Sur,Psicología,Falta de oportunidad en la asignación,18,Virtual,Resuelta,True
+PQRS001195,2025-03-10,2025-03-15,Sur,Medicina general,Falta de oportunidad en la asignación,4,Presencial,Resuelta,True
+PQRS000183,2025-03-10,2025-03-16,Centro,Medicina general,Falta de oportunidad en la asignación,21,Presencial,En trámite,True
+PQRS000185,2025-03-10,2025-03-16,Centro,Pediatría,Falta de oportunidad en la asignación,9,Telefónico,En trámite,True
+PQRS000525,2025-03-10,2025-03-16,Norte,Laboratorio,Cancelación de cita por el prestador,19,Virtual,Cerrada sin respuesta,True
+PQRS000527,2025-03-10,2025-03-16,Norte,Psicología,Demora en la asignación de cita,1,Telefónico,Resuelta,False
+PQRS000186,2025-03-10,2025-03-17,Centro,Ginecología,Falta de oportunidad en la asignación,18,Telefónico,Resuelta,True
+PQRS000834,2025-03-03,2025-03-17,Occidente,Medicina general,Falta de oportunidad en la asignación,17,Telefónico,Resuelta,True
+PQRS000835,2025-03-03,2025-03-17,Occidente,Pediatría,Falta de oportunidad en la asignación,11,Presencial,En trámite,True
+PQRS000188,2025-03-17,2025-03-18,Centro,Medicina general,Demora en la asignación de cita,4,Virtual,Resuelta,True
+PQRS001187,2025-03-03,2025-03-18,Sur,Medicina general,Falta de oportunidad en la asignación,23,Telefónico,Resuelta,True
+PQRS000524,2025-03-10,2025-03-19,Norte,Medicina interna,Información insuficiente sobre el trámite,14,Telefónico,Resuelta,True
+PQRS000187,2025-03-10,2025-03-20,Centro,Medicina familiar,Información insuficiente sobre el trámite,16,Presencial,Resuelta,False
+PQRS000182,2025-03-10,2025-03-21,Centro,Laboratorio,Falta de oportunidad en la asignación,24,Presencial,En trámite,True
+PQRS001194,2025-03-10,2025-03-21,Sur,Psicología,Falta de oportunidad en la asignación,27,Telefónico,Resuelta,True
+PQRS001191,2025-03-10,2025-03-22,Sur,Enfermería,Información insuficiente sobre el trámite,17,Telefónico,Resuelta,True
+PQRS001199,2025-03-10,2025-03-22,Sur,Medicina general,Demora en la asignación de cita,8,Telefónico,En trámite,False
+PQRS000184,2025-03-10,2025-03-23,Centro,Medicina interna,Cancelación de cita por el prestador,38,Telefónico,Resuelta,True
+PQRS000189,2025-03-17,2025-03-23,Centro,Pediatría,Falta de oportunidad en la asignación,35,Telefónico,En trámite,True
+PQRS001190,2025-03-10,2025-03-23,Sur,Medicina general,Falta de oportunidad en la asignación,9,Telefónico,Resuelta,True
+PQRS001197,2025-03-10,2025-03-23,Sur,Medicina general,Información insuficiente sobre el trámite,14,Presencial,Resuelta,True
+PQRS001196,2025-03-10,2025-03-24,Sur,Pediatría,Falta de oportunidad en la asignación,7,Telefónico,Resuelta,True
+PQRS001198,2025-03-10,2025-03-25,Sur,Laboratorio,Falta de oportunidad en la asignación,13,Presencial,Resuelta,True
+PQRS001210,2025-03-24,2025-03-25,Sur,Medicina interna,Información insuficiente sobre el trámite,22,Telefónico,Resuelta,False
+PQRS000193,2025-03-24,2025-03-26,Centro,Pediatría,Falta de oportunidad en la asignación,10,Presencial,Resuelta,True
+PQRS000529,2025-03-17,2025-03-26,Norte,Odontología,Falta de oportunidad en la asignación,7,Telefónico,Resuelta,True
+PQRS000531,2025-03-17,2025-03-26,Norte,Imágenes diagnósticas,Demora en la asignación de cita,10,Telefónico,Resuelta,True
+PQRS001208,2025-03-24,2025-03-26,Sur,Medicina familiar,Falta de oportunidad en la asignación,5,Presencial,Resuelta,True
+PQRS000192,2025-03-24,2025-03-27,Centro,Laboratorio,Falta de oportunidad en la asignación,17,Telefónico,Resuelta,True
+PQRS000838,2025-03-17,2025-03-27,Occidente,Medicina general,Información insuficiente sobre el trámite,4,Presencial,Resuelta,False
+PQRS001205,2025-03-24,2025-03-27,Sur,Medicina interna,Cancelación de cita por el prestador,4,Telefónico,Resuelta,True
+PQRS001207,2025-03-24,2025-03-28,Sur,Pediatría,Información insuficiente sobre el trámite,29,Telefónico,Resuelta,True
+PQRS000530,2025-03-17,2025-03-29,Norte,Medicina general,Falta de oportunidad en la asignación,2,Presencial,Resuelta,True
+PQRS000536,2025-03-24,2025-03-29,Norte,Odontología,Información insuficiente sobre el trámite,25,Telefónico,Resuelta,True
+PQRS001204,2025-03-24,2025-03-30,Sur,Pediatría,Falta de oportunidad en la asignación,25,Telefónico,Resuelta,True
+PQRS000532,2025-03-17,2025-03-31,Norte,Ginecología,Demora en la asignación de cita,1,Virtual,Resuelta,False
+PQRS001201,2025-03-24,2025-03-31,Sur,Enfermería,Falta de oportunidad en la asignación,6,Telefónico,Resuelta,True
+PQRS001202,2025-03-24,2025-03-31,Sur,Odontología,Información insuficiente sobre el trámite,14,Virtual,En trámite,True
+PQRS001209,2025-03-24,2025-03-31,Sur,Enfermería,Falta de oportunidad en la asignación,15,Presencial,Resuelta,True
+PQRS000190,2025-03-24,2025-04-01,Centro,Psicología,Demora en la asignación de cita,25,Virtual,Resuelta,True
+PQRS000839,2025-03-24,2025-04-01,Occidente,Ginecología,Demora en la asignación de cita,5,Telefónico,Resuelta,False
+PQRS000534,2025-03-24,2025-04-02,Norte,Medicina familiar,Falta de oportunidad en la asignación,23,Telefónico,Resuelta,True
+PQRS000535,2025-03-24,2025-04-02,Norte,Enfermería,Falta de oportunidad en la asignación,9,Virtual,Resuelta,True
+PQRS000840,2025-03-31,2025-04-02,Occidente,Ginecología,Demora en la asignación de cita,4,Presencial,En trámite,False
+PQRS001203,2025-03-24,2025-04-02,Sur,Pediatría,Falta de oportunidad en la asignación,24,Telefónico,Resuelta,True
+PQRS001200,2025-03-24,2025-04-03,Sur,Odontología,Demora en la asignación de cita,8,Telefónico,En trámite,True
+PQRS000533,2025-03-24,2025-04-04,Norte,Pediatría,Cancelación de cita por el prestador,4,Presencial,En trámite,True
+PQRS000538,2025-03-24,2025-04-04,Norte,Medicina general,Demora en la asignación de cita,1,Telefónico,Resuelta,False
+PQRS000539,2025-03-31,2025-04-04,Norte,Pediatría,Información insuficiente sobre el trámite,16,Telefónico,Resuelta,True
+PQRS000545,2025-03-31,2025-04-04,Norte,Enfermería,Falta de oportunidad en la asignación,3,Telefónico,Resuelta,True
+PQRS001206,2025-03-24,2025-04-04,Sur,Medicina general,Demora en la asignación de cita,93,Presencial,Resuelta,True
+PQRS000544,2025-03-31,2025-04-05,Norte,Laboratorio,Falta de oportunidad en la asignación,34,Telefónico,Resuelta,True
+PQRS000546,2025-03-31,2025-04-05,Norte,Pediatría,Falta de oportunidad en la asignación,20,Telefónico,En trámite,True
+PQRS000196,2025-03-31,2025-04-06,Centro,Odontología,Falta de oportunidad en la asignación,4,Virtual,Cerrada sin respuesta,True
+PQRS000197,2025-03-31,2025-04-06,Centro,Medicina interna,Información insuficiente sobre el trámite,5,Presencial,Resuelta,True
+PQRS000191,2025-03-24,2025-04-07,Centro,Imágenes diagnósticas,Falta de oportunidad en la asignación,12,Virtual,Resuelta,True
+PQRS000537,2025-03-24,2025-04-07,Norte,Enfermería,Cancelación de cita por el prestador,3,Virtual,Resuelta,False
+PQRS001212,2025-03-31,2025-04-07,Sur,Medicina general,Falta de oportunidad en la asignación,11,Telefónico,Resuelta,True
+PQRS000194,2025-03-24,2025-04-08,Centro,Enfermería,Información insuficiente sobre el trámite,7,Telefónico,Resuelta,False
+PQRS000541,2025-03-31,2025-04-08,Norte,Pediatría,Falta de oportunidad en la asignación,16,Telefónico,Resuelta,True
+PQRS001220,2025-04-07,2025-04-08,Sur,Enfermería,Falta de oportunidad en la asignación,19,Presencial,Resuelta,True
+PQRS000543,2025-03-31,2025-04-09,Norte,Medicina general,Demora en la asignación de cita,4,Presencial,Resuelta,True
+PQRS000550,2025-04-07,2025-04-09,Norte,Laboratorio,Demora en la asignación de cita,70,Presencial,Resuelta,True
+PQRS001219,2025-04-07,2025-04-09,Sur,Pediatría,Información insuficiente sobre el trámite,25,Telefónico,Resuelta,True
+PQRS000547,2025-04-07,2025-04-10,Norte,Odontología,Falta de oportunidad en la asignación,51,Telefónico,Resuelta,True
+PQRS000841,2025-04-07,2025-04-10,Occidente,Medicina general,Cancelación de cita por el prestador,23,Virtual,Cerrada sin respuesta,True
+PQRS001218,2025-04-07,2025-04-10,Sur,Medicina familiar,Falta de oportunidad en la asignación,38,Telefónico,Resuelta,True
+PQRS000551,2025-04-07,2025-04-11,Norte,Medicina familiar,Demora en la asignación de cita,18,Telefónico,Resuelta,False
+PQRS001211,2025-03-31,2025-04-11,Sur,Pediatría,Cancelación de cita por el prestador,28,Virtual,Resuelta,True
+PQRS001214,2025-03-31,2025-04-11,Sur,Enfermería,Falta de oportunidad en la asignación,35,Presencial,Resuelta,True
+PQRS001215,2025-04-07,2025-04-11,Sur,Medicina general,Falta de oportunidad en la asignación,35,Telefónico,Resuelta,True
+PQRS001224,2025-04-07,2025-04-11,Sur,Medicina general,Falta de oportunidad en la asignación,14,Telefónico,Resuelta,True
+PQRS000548,2025-04-07,2025-04-12,Norte,Enfermería,Demora en la asignación de cita,5,Presencial,Resuelta,True
+PQRS000842,2025-04-07,2025-04-12,Occidente,Medicina familiar,Falta de oportunidad en la asignación,35,Telefónico,En trámite,True
+PQRS000540,2025-03-31,2025-04-13,Norte,Ginecología,Demora en la asignación de cita,27,Presencial,Resuelta,True
+PQRS000549,2025-04-07,2025-04-13,Norte,Medicina general,Demora en la asignación de cita,19,Telefónico,Cerrada sin respuesta,True
+PQRS001221,2025-04-07,2025-04-13,Sur,Medicina familiar,Falta de oportunidad en la asignación,12,Presencial,En trámite,True
+PQRS000542,2025-03-31,2025-04-14,Norte,Odontología,Falta de oportunidad en la asignación,17,Presencial,Resuelta,True
+PQRS000843,2025-04-07,2025-04-14,Occidente,Pediatría,Falta de oportunidad en la asignación,38,Presencial,En trámite,True
+PQRS001213,2025-03-31,2025-04-14,Sur,Medicina general,Falta de oportunidad en la asignación,54,Telefónico,Resuelta,True
+PQRS000195,2025-03-31,2025-04-15,Centro,Medicina familiar,Demora en la asignación de cita,36,Telefónico,Resuelta,True
+PQRS000552,2025-04-14,2025-04-16,Norte,Nutrición,Demora en la asignación de cita,14,Virtual,En trámite,True
+PQRS000845,2025-04-07,2025-04-17,Occidente,Laboratorio,Falta de oportunidad en la asignación,12,Telefónico,En trámite,True
+PQRS001216,2025-04-07,2025-04-17,Sur,Enfermería,Falta de oportunidad en la asignación,2,Virtual,Resuelta,True
+PQRS000198,2025-04-14,2025-04-18,Centro,Odontología,Falta de oportunidad en la asignación,25,Telefónico,Resuelta,True
+PQRS000201,2025-04-14,2025-04-18,Centro,Medicina general,Falta de oportunidad en la asignación,50,Telefónico,En trámite,True
+PQRS000852,2025-04-14,2025-04-18,Occidente,Medicina general,Cancelación de cita por el prestador,85,Telefónico,Resuelta,True
+PQRS001217,2025-04-07,2025-04-18,Sur,Odontología,Demora en la asignación de cita,16,Telefónico,Resuelta,True
+PQRS001223,2025-04-07,2025-04-19,Sur,Medicina general,Falta de oportunidad en la asignación,21,Virtual,Resuelta,True
+PQRS001225,2025-04-14,2025-04-19,Sur,Odontología,Información insuficiente sobre el trámite,7,Telefónico,Resuelta,False
+PQRS000844,2025-04-07,2025-04-20,Occidente,Medicina general,Falta de oportunidad en la asignación,38,Virtual,En trámite,True
+PQRS000847,2025-04-07,2025-04-20,Occidente,Medicina general,Falta de oportunidad en la asignación,21,Presencial,Resuelta,True
+PQRS000848,2025-04-14,2025-04-20,Occidente,Medicina general,Información insuficiente sobre el trámite,5,Telefónico,Cerrada sin respuesta,True
+PQRS000850,2025-04-14,2025-04-20,Occidente,Enfermería,Información insuficiente sobre el trámite,20,Virtual,Resuelta,True
+PQRS000553,2025-04-14,2025-04-21,Norte,Medicina general,Falta de oportunidad en la asignación,15,Virtual,Resuelta,True
+PQRS000846,2025-04-07,2025-04-22,Occidente,Enfermería,Falta de oportunidad en la asignación,16,Telefónico,En trámite,True
+PQRS001222,2025-04-07,2025-04-22,Sur,Pediatría,Falta de oportunidad en la asignación,29,Telefónico,Resuelta,True
+PQRS000200,2025-04-14,2025-04-23,Centro,Medicina general,Falta de oportunidad en la asignación,31,Virtual,Resuelta,True
+PQRS000849,2025-04-14,2025-04-23,Occidente,Psicología,Falta de oportunidad en la asignación,22,Presencial,Resuelta,True
+PQRS001229,2025-04-21,2025-04-23,Sur,Enfermería,Demora en la asignación de cita,25,Presencial,Resuelta,True
+PQRS000851,2025-04-14,2025-04-24,Occidente,Enfermería,Falta de oportunidad en la asignación,19,Telefónico,Resuelta,True
+PQRS000199,2025-04-14,2025-04-25,Centro,Odontología,Falta de oportunidad en la asignación,67,Telefónico,Resuelta,True
+PQRS000554,2025-04-14,2025-04-26,Norte,Enfermería,Falta de oportunidad en la asignación,4,Telefónico,Resuelta,True
+PQRS000202,2025-04-21,2025-04-27,Centro,Laboratorio,Información insuficiente sobre el trámite,13,Presencial,Resuelta,True
+PQRS001227,2025-04-21,2025-04-27,Sur,Medicina familiar,Falta de oportunidad en la asignación,8,Telefónico,Resuelta,True
+PQRS001228,2025-04-21,2025-04-28,Sur,Medicina general,Demora en la asignación de cita,8,Virtual,Resuelta,True
+PQRS001233,2025-04-21,2025-04-28,Sur,Ginecología,Cancelación de cita por el prestador,4,Presencial,Cerrada sin respuesta,False
+PQRS000854,2025-04-28,2025-04-29,Occidente,Pediatría,Demora en la asignación de cita,1,Virtual,Resuelta,False
+PQRS000853,2025-04-28,2025-04-30,Occidente,Medicina general,Falta de oportunidad en la asignación,1,Telefónico,Resuelta,True
+PQRS001231,2025-04-21,2025-04-30,Sur,Odontología,Falta de oportunidad en la asignación,16,Virtual,En trámite,True
+PQRS000205,2025-04-28,2025-05-01,Centro,Pediatría,Demora en la asignación de cita,28,Virtual,Resuelta,True
+PQRS000203,2025-04-28,2025-05-02,Centro,Psicología,Falta de oportunidad en la asignación,46,Presencial,Cerrada sin respuesta,True
+PQRS000206,2025-04-28,2025-05-02,Centro,Ginecología,Falta de oportunidad en la asignación,22,Telefónico,En trámite,True
+PQRS000555,2025-04-21,2025-05-02,Norte,Medicina general,Cancelación de cita por el prestador,6,Telefónico,Resuelta,False
+PQRS001226,2025-04-21,2025-05-04,Sur,Medicina interna,Falta de oportunidad en la asignación,52,Telefónico,En trámite,True
+PQRS001235,2025-04-28,2025-05-04,Sur,Medicina general,Información insuficiente sobre el trámite,7,Telefónico,Resuelta,True
+PQRS001230,2025-04-21,2025-05-05,Sur,Medicina interna,Falta de oportunidad en la asignación,23,Presencial,Resuelta,True
+PQRS001232,2025-04-21,2025-05-05,Sur,Medicina general,Demora en la asignación de cita,12,Telefónico,Resuelta,True
+PQRS001234,2025-04-28,2025-05-05,Sur,Medicina interna,Falta de oportunidad en la asignación,27,Presencial,Resuelta,True
+PQRS000210,2025-05-05,2025-05-06,Centro,Medicina familiar,Información insuficiente sobre el trámite,6,Virtual,Resuelta,True
+PQRS000559,2025-05-05,2025-05-06,Norte,Pediatría,Falta de oportunidad en la asignación,24,Telefónico,Resuelta,True
+PQRS000561,2025-05-05,2025-05-06,Norte,Ginecología,Falta de oportunidad en la asignación,14,Presencial,Resuelta,True
+PQRS001236,2025-04-28,2025-05-06,Sur,Laboratorio,Demora en la asignación de cita,7,Telefónico,Resuelta,True
+PQRS001241,2025-05-05,2025-05-06,Sur,Pediatría,Información insuficiente sobre el trámite,22,Telefónico,Resuelta,True
+PQRS001237,2025-04-28,2025-05-07,Sur,Medicina familiar,Falta de oportunidad en la asignación,16,Virtual,Resuelta,True
+PQRS000207,2025-04-28,2025-05-08,Centro,Laboratorio,Falta de oportunidad en la asignación,14,Telefónico,Resuelta,True
+PQRS000209,2025-04-28,2025-05-08,Centro,Medicina interna,Demora en la asignación de cita,1,Telefónico,Resuelta,False
+PQRS000558,2025-05-05,2025-05-08,Norte,Medicina general,Falta de oportunidad en la asignación,4,Telefónico,Resuelta,True
+PQRS000213,2025-05-05,2025-05-09,Centro,Nutrición,Falta de oportunidad en la asignación,16,Telefónico,En trámite,True
+PQRS000560,2025-05-05,2025-05-10,Norte,Medicina general,Falta de oportunidad en la asignación,23,Presencial,En trámite,True
+PQRS000562,2025-05-05,2025-05-10,Norte,Pediatría,Demora en la asignación de cita,4,Telefónico,Resuelta,False
+PQRS000212,2025-05-05,2025-05-11,Centro,Medicina interna,Falta de oportunidad en la asignación,8,Presencial,Resuelta,True
+PQRS001239,2025-05-05,2025-05-11,Sur,Medicina general,Información insuficiente sobre el trámite,24,Telefónico,Resuelta,True
+PQRS000204,2025-04-28,2025-05-12,Centro,Medicina general,Falta de oportunidad en la asignación,34,Telefónico,Cerrada sin respuesta,True
+PQRS000208,2025-04-28,2025-05-13,Centro,Medicina interna,Demora en la asignación de cita,17,Presencial,Resuelta,True
+PQRS001238,2025-05-05,2025-05-14,Sur,Medicina general,Falta de oportunidad en la asignación,3,Virtual,Resuelta,True
+PQRS001244,2025-05-12,2025-05-15,Sur,Enfermería,Falta de oportunidad en la asignación,1,Telefónico,Resuelta,True
+PQRS001240,2025-05-05,2025-05-16,Sur,Ginecología,Falta de oportunidad en la asignación,11,Telefónico,Resuelta,True
+PQRS001248,2025-05-12,2025-05-16,Sur,Odontología,Demora en la asignación de cita,20,Telefónico,Resuelta,False
+PQRS000564,2025-05-12,2025-05-17,Norte,Enfermería,Información insuficiente sobre el trámite,16,Telefónico,Resuelta,True
+PQRS001245,2025-05-12,2025-05-17,Sur,Medicina general,Falta de oportunidad en la asignación,28,Presencial,Resuelta,True
+PQRS001246,2025-05-12,2025-05-18,Sur,Psicología,Falta de oportunidad en la asignación,7,Presencial,En trámite,True
+PQRS000211,2025-05-05,2025-05-19,Centro,Psicología,Falta de oportunidad en la asignación,28,Virtual,Cerrada sin respuesta,True
+PQRS000557,2025-05-05,2025-05-19,Norte,Pediatría,Falta de oportunidad en la asignación,5,Telefónico,Resuelta,True
+PQRS000563,2025-05-12,2025-05-19,Norte,Medicina general,Información insuficiente sobre el trámite,17,Telefónico,Resuelta,True
+PQRS000857,2025-05-12,2025-05-19,Occidente,Psicología,Falta de oportunidad en la asignación,25,Presencial,Resuelta,True
+PQRS000858,2025-05-12,2025-05-19,Occidente,Medicina general,Demora en la asignación de cita,35,Presencial,Resuelta,True
+PQRS001242,2025-05-05,2025-05-19,Sur,Odontología,Falta de oportunidad en la asignación,51,Telefónico,En trámite,True
+PQRS001243,2025-05-05,2025-05-19,Sur,Pediatría,Falta de oportunidad en la asignación,43,Telefónico,Resuelta,True
+PQRS000556,2025-05-05,2025-05-20,Norte,Medicina general,Demora en la asignación de cita,11,Telefónico,Cerrada sin respuesta,True
+PQRS000855,2025-05-12,2025-05-20,Occidente,Medicina interna,Falta de oportunidad en la asignación,46,Telefónico,Resuelta,True
+PQRS001255,2025-05-19,2025-05-20,Sur,Odontología,Falta de oportunidad en la asignación,23,Presencial,En trámite,True
+PQRS000567,2025-05-19,2025-05-21,Norte,Nutrición,Falta de oportunidad en la asignación,5,Telefónico,Resuelta,True
+PQRS001249,2025-05-19,2025-05-21,Sur,Pediatría,Demora en la asignación de cita,10,Virtual,Resuelta,True
+PQRS001247,2025-05-12,2025-05-23,Sur,Medicina familiar,Falta de oportunidad en la asignación,7,Presencial,Resuelta,True
+PQRS001254,2025-05-19,2025-05-23,Sur,Enfermería,Falta de oportunidad en la asignación,30,Presencial,Resuelta,True
+PQRS000565,2025-05-19,2025-05-24,Norte,Medicina general,Falta de oportunidad en la asignación,8,Virtual,Resuelta,True
+PQRS000569,2025-05-19,2025-05-24,Norte,Odontología,Demora en la asignación de cita,43,Presencial,En trámite,True
+PQRS001250,2025-05-19,2025-05-25,Sur,Medicina general,Demora en la asignación de cita,2,Virtual,Cerrada sin respuesta,True
+PQRS001256,2025-05-19,2025-05-25,Sur,Medicina general,Información insuficiente sobre el trámite,3,Virtual,Resuelta,True
+PQRS000570,2025-05-19,2025-05-26,Norte,Medicina familiar,Cancelación de cita por el prestador,8,Presencial,Resuelta,False
+PQRS000856,2025-05-12,2025-05-26,Occidente,Medicina general,Falta de oportunidad en la asignación,29,Telefónico,Resuelta,True
+PQRS000215,2025-05-26,2025-05-27,Centro,Imágenes diagnósticas,Falta de oportunidad en la asignación,7,Telefónico,Resuelta,True
+PQRS000214,2025-05-26,2025-05-28,Centro,Medicina general,Falta de oportunidad en la asignación,17,Telefónico,Resuelta,True
+PQRS000218,2025-05-26,2025-05-28,Centro,Medicina familiar,Falta de oportunidad en la asignación,34,Telefónico,Resuelta,True
+PQRS001253,2025-05-19,2025-05-28,Sur,Laboratorio,Falta de oportunidad en la asignación,19,Presencial,En trámite,True
+PQRS001258,2025-05-26,2025-05-28,Sur,Medicina general,Falta de oportunidad en la asignación,18,Presencial,Resuelta,True
+PQRS000573,2025-05-26,2025-05-29,Norte,Medicina familiar,Demora en la asignación de cita,1,Telefónico,Resuelta,False
+PQRS001252,2025-05-19,2025-05-29,Sur,Medicina interna,Falta de oportunidad en la asignación,16,Virtual,En trámite,True
+PQRS001260,2025-05-26,2025-05-29,Sur,Pediatría,Cancelación de cita por el prestador,28,Telefónico,Resuelta,True
+PQRS000566,2025-05-19,2025-05-30,Norte,Medicina interna,Falta de oportunidad en la asignación,9,Presencial,Resuelta,True
+PQRS001257,2025-05-19,2025-05-30,Sur,Psicología,Falta de oportunidad en la asignación,15,Presencial,Resuelta,True
+PQRS000571,2025-05-26,2025-05-31,Norte,Medicina familiar,Demora en la asignación de cita,31,Telefónico,Resuelta,True
+PQRS001251,2025-05-19,2025-05-31,Sur,Medicina general,Demora en la asignación de cita,30,Telefónico,En trámite,True
+PQRS000220,2025-05-26,2025-06-01,Centro,Odontología,Falta de oportunidad en la asignación,28,Presencial,Resuelta,True
+PQRS000219,2025-05-26,2025-06-02,Centro,Pediatría,Cancelación de cita por el prestador,12,Telefónico,Resuelta,True
+PQRS000568,2025-05-19,2025-06-03,Norte,Nutrición,Falta de oportunidad en la asignación,26,Presencial,Resuelta,True
+PQRS001259,2025-05-26,2025-06-03,Sur,Pediatría,Demora en la asignación de cita,11,Presencial,Resuelta,True
+PQRS000216,2025-05-26,2025-06-04,Centro,Medicina general,Falta de oportunidad en la asignación,24,Virtual,Resuelta,True
+PQRS000221,2025-06-02,2025-06-04,Centro,Odontología,Información insuficiente sobre el trámite,44,Telefónico,Resuelta,True
+PQRS000223,2025-06-02,2025-06-05,Centro,Medicina general,Demora en la asignación de cita,2,Presencial,Cerrada sin respuesta,True
+PQRS000572,2025-05-26,2025-06-06,Norte,Psicología,Demora en la asignación de cita,16,Presencial,En trámite,False
+PQRS000222,2025-06-02,2025-06-07,Centro,Enfermería,Falta de oportunidad en la asignación,32,Telefónico,Resuelta,True
+PQRS000217,2025-05-26,2025-06-08,Centro,Enfermería,Demora en la asignación de cita,64,Presencial,Resuelta,True
+PQRS000224,2025-06-02,2025-06-08,Centro,Medicina general,Falta de oportunidad en la asignación,39,Presencial,En trámite,True
+PQRS001261,2025-05-26,2025-06-09,Sur,Psicología,Demora en la asignación de cita,16,Presencial,Resuelta,True
+PQRS001262,2025-05-26,2025-06-09,Sur,Medicina general,Falta de oportunidad en la asignación,17,Virtual,Resuelta,True
+PQRS000228,2025-06-09,2025-06-12,Centro,Enfermería,Cancelación de cita por el prestador,1,Presencial,Resuelta,False
+PQRS001265,2025-06-09,2025-06-14,Sur,Odontología,Falta de oportunidad en la asignación,16,Presencial,Resuelta,True
+PQRS000574,2025-06-09,2025-06-15,Norte,Medicina general,Cancelación de cita por el prestador,2,Telefónico,Cerrada sin respuesta,False
+PQRS001266,2025-06-09,2025-06-15,Sur,Medicina general,Demora en la asignación de cita,25,Presencial,Resuelta,True
+PQRS000226,2025-06-09,2025-06-17,Centro,Medicina general,Falta de oportunidad en la asignación,15,Virtual,Resuelta,True
+PQRS000577,2025-06-16,2025-06-18,Norte,Medicina general,Demora en la asignación de cita,7,Telefónico,En trámite,True
+PQRS000225,2025-06-09,2025-06-19,Centro,Medicina general,Falta de oportunidad en la asignación,54,Virtual,Resuelta,True
+PQRS001267,2025-06-09,2025-06-19,Sur,Medicina general,Falta de oportunidad en la asignación,8,Telefónico,Resuelta,True
+PQRS001269,2025-06-16,2025-06-21,Sur,Pediatría,Falta de oportunidad en la asignación,6,Telefónico,Resuelta,True
+PQRS000859,2025-06-16,2025-06-22,Occidente,Medicina general,Falta de oportunidad en la asignación,12,Virtual,Resuelta,True
+PQRS000863,2025-06-16,2025-06-22,Occidente,Odontología,Cancelación de cita por el prestador,41,Telefónico,Resuelta,True
+PQRS001273,2025-06-16,2025-06-23,Sur,Pediatría,Demora en la asignación de cita,1,Virtual,Resuelta,False
+PQRS000227,2025-06-09,2025-06-24,Centro,Medicina general,Demora en la asignación de cita,16,Presencial,Resuelta,True
+PQRS000864,2025-06-16,2025-06-24,Occidente,Pediatría,Información insuficiente sobre el trámite,7,Virtual,Resuelta,False
+PQRS001263,2025-06-09,2025-06-24,Sur,Enfermería,Demora en la asignación de cita,37,Presencial,Cerrada sin respuesta,True
+PQRS001264,2025-06-09,2025-06-24,Sur,Medicina general,Falta de oportunidad en la asignación,34,Virtual,Resuelta,True
+PQRS001268,2025-06-09,2025-06-24,Sur,Medicina general,Falta de oportunidad en la asignación,20,Virtual,En trámite,True
+PQRS001277,2025-06-23,2025-06-24,Sur,Medicina general,Falta de oportunidad en la asignación,11,Presencial,Resuelta,True
+PQRS001274,2025-06-16,2025-06-25,Sur,Ginecología,Demora en la asignación de cita,1,Telefónico,Resuelta,False
+PQRS001275,2025-06-23,2025-06-25,Sur,Pediatría,Falta de oportunidad en la asignación,20,Telefónico,Resuelta,True
+PQRS001281,2025-06-23,2025-06-25,Sur,Medicina general,Falta de oportunidad en la asignación,16,Virtual,Resuelta,True
+PQRS001284,2025-06-23,2025-06-26,Sur,Medicina general,Falta de oportunidad en la asignación,26,Telefónico,Resuelta,True
+PQRS000575,2025-06-16,2025-06-27,Norte,Enfermería,Falta de oportunidad en la asignación,37,Telefónico,Resuelta,True
+PQRS001272,2025-06-16,2025-06-27,Sur,Medicina general,Falta de oportunidad en la asignación,15,Virtual,Resuelta,True
+PQRS001276,2025-06-23,2025-06-27,Sur,Psicología,Cancelación de cita por el prestador,74,Virtual,Resuelta,True
+PQRS001279,2025-06-23,2025-06-28,Sur,Medicina general,Cancelación de cita por el prestador,21,Telefónico,Resuelta,True
+PQRS000576,2025-06-16,2025-06-29,Norte,Psicología,Falta de oportunidad en la asignación,9,Telefónico,Resuelta,True
+PQRS000862,2025-06-16,2025-06-29,Occidente,Odontología,Demora en la asignación de cita,5,Telefónico,Cerrada sin respuesta,True
+PQRS000860,2025-06-16,2025-06-30,Occidente,Medicina general,Falta de oportunidad en la asignación,44,Telefónico,Resuelta,True
+PQRS001270,2025-06-16,2025-06-30,Sur,Pediatría,Información insuficiente sobre el trámite,14,Virtual,En trámite,True
+PQRS001283,2025-06-23,2025-06-30,Sur,Medicina interna,Demora en la asignación de cita,35,Virtual,Resuelta,True
+PQRS000229,2025-06-16,2025-07-01,Centro,Medicina familiar,Demora en la asignación de cita,8,Telefónico,En trámite,True
+PQRS000861,2025-06-16,2025-07-01,Occidente,Medicina interna,Falta de oportunidad en la asignación,27,Presencial,Resuelta,True
+PQRS001271,2025-06-16,2025-07-01,Sur,Pediatría,Falta de oportunidad en la asignación,10,Virtual,Resuelta,True
+PQRS001285,2025-06-23,2025-07-01,Sur,Imágenes diagnósticas,Falta de oportunidad en la asignación,26,Presencial,Resuelta,True
+PQRS001280,2025-06-23,2025-07-02,Sur,Medicina general,Falta de oportunidad en la asignación,19,Telefónico,Resuelta,True
+PQRS001282,2025-06-23,2025-07-02,Sur,Enfermería,Falta de oportunidad en la asignación,51,Virtual,En trámite,True
+PQRS000870,2025-06-23,2025-07-03,Occidente,Ginecología,Falta de oportunidad en la asignación,8,Telefónico,Resuelta,True
+PQRS000872,2025-06-23,2025-07-03,Occidente,Odontología,Demora en la asignación de cita,1,Presencial,Resuelta,False
+PQRS000578,2025-06-23,2025-07-04,Norte,Pediatría,Demora en la asignación de cita,7,Presencial,En trámite,False
+PQRS000865,2025-06-23,2025-07-05,Occidente,Enfermería,Falta de oportunidad en la asignación,31,Telefónico,En trámite,True
+PQRS000871,2025-06-23,2025-07-05,Occidente,Medicina familiar,Demora en la asignación de cita,19,Presencial,Resuelta,True
+PQRS001278,2025-06-23,2025-07-05,Sur,Psicología,Cancelación de cita por el prestador,33,Presencial,Resuelta,True
+PQRS001286,2025-06-30,2025-07-05,Sur,Nutrición,Falta de oportunidad en la asignación,35,Presencial,En trámite,True
+PQRS001287,2025-06-30,2025-07-05,Sur,Medicina general,Falta de oportunidad en la asignación,51,Presencial,Resuelta,True
+PQRS000579,2025-06-23,2025-07-06,Norte,Ginecología,Información insuficiente sobre el trámite,13,Presencial,Resuelta,False
+PQRS000869,2025-06-23,2025-07-06,Occidente,Medicina familiar,Cancelación de cita por el prestador,28,Telefónico,En trámite,True
+PQRS000230,2025-07-07,2025-07-08,Centro,Pediatría,Falta de oportunidad en la asignación,13,Virtual,Resuelta,True
+PQRS000866,2025-06-23,2025-07-08,Occidente,Pediatría,Falta de oportunidad en la asignación,26,Virtual,En trámite,True
+PQRS000867,2025-06-23,2025-07-08,Occidente,Medicina general,Información insuficiente sobre el trámite,22,Presencial,Resuelta,True
+PQRS000868,2025-06-23,2025-07-08,Occidente,Enfermería,Falta de oportunidad en la asignación,19,Telefónico,En trámite,True
+PQRS001292,2025-07-07,2025-07-08,Sur,Medicina interna,Demora en la asignación de cita,12,Presencial,En trámite,False
+PQRS000232,2025-07-07,2025-07-09,Centro,Enfermería,Demora en la asignación de cita,4,Virtual,Resuelta,False
+PQRS000580,2025-06-30,2025-07-09,Norte,Medicina general,Falta de oportunidad en la asignación,15,Virtual,Resuelta,True
+PQRS000874,2025-07-07,2025-07-09,Occidente,Odontología,Falta de oportunidad en la asignación,35,Telefónico,Resuelta,True
+PQRS000581,2025-06-30,2025-07-10,Norte,Odontología,Falta de oportunidad en la asignación,48,Telefónico,Resuelta,True
+PQRS001288,2025-06-30,2025-07-10,Sur,Nutrición,Demora en la asignación de cita,5,Virtual,En trámite,False
+PQRS001291,2025-07-07,2025-07-10,Sur,Medicina general,Falta de oportunidad en la asignación,37,Telefónico,En trámite,True
+PQRS000875,2025-07-07,2025-07-11,Occidente,Medicina general,Cancelación de cita por el prestador,22,Presencial,Resuelta,True
+PQRS000584,2025-07-07,2025-07-12,Norte,Ginecología,Demora en la asignación de cita,10,Telefónico,En trámite,False
+PQRS000582,2025-06-30,2025-07-14,Norte,Medicina general,Demora en la asignación de cita,3,Telefónico,Resuelta,True
+PQRS000876,2025-07-07,2025-07-14,Occidente,Enfermería,Falta de oportunidad en la asignación,4,Telefónico,Resuelta,True
+PQRS001289,2025-07-07,2025-07-14,Sur,Pediatría,Falta de oportunidad en la asignación,11,Telefónico,Resuelta,True
+PQRS000236,2025-07-14,2025-07-15,Centro,Medicina interna,Demora en la asignación de cita,34,Telefónico,Resuelta,True
+PQRS001306,2025-07-14,2025-07-15,Sur,Odontología,Demora en la asignación de cita,34,Presencial,Resuelta,True
+PQRS001307,2025-07-14,2025-07-15,Sur,Medicina general,Información insuficiente sobre el trámite,67,Telefónico,En trámite,True
+PQRS001290,2025-07-07,2025-07-16,Sur,Enfermería,Falta de oportunidad en la asignación,19,Telefónico,En trámite,True
+PQRS000234,2025-07-14,2025-07-17,Centro,Pediatría,Cancelación de cita por el prestador,17,Telefónico,Resuelta,True
+PQRS001300,2025-07-14,2025-07-17,Sur,Laboratorio,Falta de oportunidad en la asignación,63,Presencial,Resuelta,True
+PQRS000238,2025-07-14,2025-07-18,Centro,Enfermería,Demora en la asignación de cita,47,Presencial,En trámite,True
+PQRS001302,2025-07-14,2025-07-18,Sur,Medicina general,Falta de oportunidad en la asignación,69,Presencial,Resuelta,True
+PQRS000583,2025-07-07,2025-07-19,Norte,Odontología,Demora en la asignación de cita,8,Virtual,Resuelta,False
+PQRS000231,2025-07-07,2025-07-20,Centro,Odontología,Falta de oportunidad en la asignación,46,Telefónico,Resuelta,True
+PQRS000873,2025-07-07,2025-07-20,Occidente,Medicina general,Falta de oportunidad en la asignación,17,Presencial,Resuelta,True
+PQRS001305,2025-07-14,2025-07-20,Sur,Odontología,Información insuficiente sobre el trámite,4,Telefónico,En trámite,True
+PQRS000237,2025-07-14,2025-07-21,Centro,Medicina general,Demora en la asignación de cita,20,Virtual,Resuelta,True
+PQRS000587,2025-07-14,2025-07-22,Norte,Pediatría,Falta de oportunidad en la asignación,3,Telefónico,Resuelta,True
+PQRS001296,2025-07-14,2025-07-22,Sur,Odontología,Demora en la asignación de cita,35,Presencial,Resuelta,True
+PQRS001297,2025-07-14,2025-07-22,Sur,Enfermería,Falta de oportunidad en la asignación,44,Telefónico,Resuelta,True
+PQRS001301,2025-07-14,2025-07-22,Sur,Medicina familiar,Falta de oportunidad en la asignación,42,Telefónico,En trámite,True
+PQRS000233,2025-07-14,2025-07-23,Centro,Medicina general,Cancelación de cita por el prestador,2,Telefónico,Resuelta,True
+PQRS000235,2025-07-14,2025-07-23,Centro,Ginecología,Falta de oportunidad en la asignación,12,Presencial,Resuelta,True
+PQRS001304,2025-07-14,2025-07-23,Sur,Medicina general,Falta de oportunidad en la asignación,1,Virtual,En trámite,True
+PQRS000878,2025-07-21,2025-07-24,Occidente,Medicina general,Falta de oportunidad en la asignación,39,Telefónico,Resuelta,True
+PQRS001303,2025-07-14,2025-07-24,Sur,Odontología,Falta de oportunidad en la asignación,9,Presencial,Resuelta,True
+PQRS000586,2025-07-14,2025-07-25,Norte,Psicología,Falta de oportunidad en la asignación,34,Virtual,Resuelta,True
+PQRS000589,2025-07-21,2025-07-26,Norte,Ginecología,Falta de oportunidad en la asignación,23,Telefónico,Cerrada sin respuesta,True
+PQRS001294,2025-07-14,2025-07-26,Sur,Ginecología,Información insuficiente sobre el trámite,10,Telefónico,Cerrada sin respuesta,True
+PQRS000240,2025-07-21,2025-07-27,Centro,Medicina interna,Demora en la asignación de cita,3,Telefónico,En trámite,False
+PQRS000877,2025-07-21,2025-07-27,Occidente,Enfermería,Demora en la asignación de cita,33,Presencial,Resuelta,True
+PQRS001293,2025-07-14,2025-07-27,Sur,Medicina general,Cancelación de cita por el prestador,3,Presencial,Resuelta,True
+PQRS001299,2025-07-14,2025-07-27,Sur,Enfermería,Cancelación de cita por el prestador,28,Telefónico,Cerrada sin respuesta,True
+PQRS000239,2025-07-21,2025-07-28,Centro,Odontología,Falta de oportunidad en la asignación,19,Telefónico,Resuelta,True
+PQRS000585,2025-07-14,2025-07-29,Norte,Medicina familiar,Cancelación de cita por el prestador,7,Telefónico,Resuelta,True
+PQRS000590,2025-07-21,2025-07-29,Norte,Enfermería,Falta de oportunidad en la asignación,15,Telefónico,Resuelta,True
+PQRS000592,2025-07-21,2025-07-29,Norte,Medicina interna,Falta de oportunidad en la asignación,15,Telefónico,Resuelta,True
+PQRS001295,2025-07-14,2025-07-29,Sur,Medicina general,Falta de oportunidad en la asignación,112,Virtual,Resuelta,True
+PQRS001298,2025-07-14,2025-07-29,Sur,Medicina general,Falta de oportunidad en la asignación,54,Virtual,Resuelta,True
+PQRS000879,2025-07-28,2025-07-30,Occidente,Pediatría,Falta de oportunidad en la asignación,19,Telefónico,En trámite,True
+PQRS000588,2025-07-21,2025-08-01,Norte,Medicina general,Demora en la asignación de cita,26,Presencial,Resuelta,True
+PQRS000594,2025-07-21,2025-08-01,Norte,Ginecología,Cancelación de cita por el prestador,38,Virtual,Resuelta,True
+PQRS000591,2025-07-21,2025-08-02,Norte,Medicina familiar,Falta de oportunidad en la asignación,23,Telefónico,Resuelta,True
+PQRS000595,2025-07-21,2025-08-02,Norte,Psicología,Demora en la asignación de cita,16,Virtual,Cerrada sin respuesta,True
+PQRS000596,2025-07-28,2025-08-03,Norte,Laboratorio,Falta de oportunidad en la asignación,17,Telefónico,Resuelta,True
+PQRS000593,2025-07-21,2025-08-04,Norte,Imágenes diagnósticas,Cancelación de cita por el prestador,14,Telefónico,Resuelta,True
+PQRS000883,2025-07-28,2025-08-05,Occidente,Pediatría,Falta de oportunidad en la asignación,2,Telefónico,En trámite,True
+PQRS000244,2025-08-04,2025-08-06,Centro,Medicina general,Demora en la asignación de cita,10,Telefónico,Resuelta,True
+PQRS000887,2025-08-04,2025-08-06,Occidente,Medicina general,Información insuficiente sobre el trámite,19,Presencial,Resuelta,True
+PQRS000598,2025-08-04,2025-08-07,Norte,Medicina general,Demora en la asignación de cita,25,Presencial,En trámite,False
+PQRS000882,2025-07-28,2025-08-07,Occidente,Medicina general,Demora en la asignación de cita,6,Telefónico,Resuelta,True
+PQRS000884,2025-07-28,2025-08-07,Occidente,Enfermería,Demora en la asignación de cita,43,Presencial,Resuelta,True
+PQRS000246,2025-08-04,2025-08-08,Centro,Pediatría,Falta de oportunidad en la asignación,26,Presencial,En trámite,True
+PQRS000243,2025-08-04,2025-08-09,Centro,Medicina interna,Demora en la asignación de cita,50,Presencial,Resuelta,True
+PQRS000597,2025-07-28,2025-08-09,Norte,Medicina general,Demora en la asignación de cita,3,Virtual,Resuelta,True
+PQRS000885,2025-07-28,2025-08-09,Occidente,Medicina general,Falta de oportunidad en la asignación,11,Telefónico,Resuelta,True
+PQRS000886,2025-07-28,2025-08-09,Occidente,Pediatría,Demora en la asignación de cita,22,Telefónico,Resuelta,True
+PQRS000888,2025-08-04,2025-08-09,Occidente,Medicina familiar,Falta de oportunidad en la asignación,79,Presencial,Resuelta,True
+PQRS000241,2025-08-04,2025-08-10,Centro,Psicología,Demora en la asignación de cita,28,Presencial,Resuelta,True
+PQRS000599,2025-08-04,2025-08-10,Norte,Psicología,Demora en la asignación de cita,2,Virtual,En trámite,False
+PQRS000881,2025-07-28,2025-08-10,Occidente,Psicología,Falta de oportunidad en la asignación,20,Telefónico,En trámite,True
+PQRS000880,2025-07-28,2025-08-11,Occidente,Pediatría,Cancelación de cita por el prestador,31,Presencial,Resuelta,True
+PQRS000889,2025-08-04,2025-08-12,Occidente,Ginecología,Cancelación de cita por el prestador,47,Virtual,Resuelta,True
+PQRS000890,2025-08-11,2025-08-12,Occidente,Medicina interna,Falta de oportunidad en la asignación,18,Virtual,Resuelta,True
+PQRS000247,2025-08-04,2025-08-13,Centro,Medicina general,Falta de oportunidad en la asignación,31,Presencial,Resuelta,True
+PQRS000891,2025-08-11,2025-08-14,Occidente,Odontología,Cancelación de cita por el prestador,21,Virtual,En trámite,True
+PQRS001308,2025-08-04,2025-08-14,Sur,Nutrición,Cancelación de cita por el prestador,19,Virtual,Resuelta,False
+PQRS000242,2025-08-04,2025-08-15,Centro,Medicina interna,Cancelación de cita por el prestador,27,Virtual,Resuelta,True
+PQRS000249,2025-08-04,2025-08-15,Centro,Odontología,Cancelación de cita por el prestador,12,Telefónico,Resuelta,True
+PQRS000248,2025-08-04,2025-08-16,Centro,Medicina interna,Falta de oportunidad en la asignación,20,Telefónico,Resuelta,True
+PQRS000245,2025-08-04,2025-08-19,Centro,Medicina interna,Cancelación de cita por el prestador,49,Presencial,Resuelta,True
+PQRS001309,2025-08-11,2025-08-20,Sur,Enfermería,Falta de oportunidad en la asignación,9,Telefónico,Resuelta,True
+PQRS000252,2025-08-18,2025-08-22,Centro,Pediatría,Falta de oportunidad en la asignación,41,Telefónico,Resuelta,True
+PQRS000893,2025-08-11,2025-08-22,Occidente,Psicología,Falta de oportunidad en la asignación,73,Telefónico,Resuelta,True
+PQRS001314,2025-08-18,2025-08-22,Sur,Medicina general,Falta de oportunidad en la asignación,3,Telefónico,En trámite,True
+PQRS001310,2025-08-11,2025-08-23,Sur,Pediatría,Falta de oportunidad en la asignación,35,Telefónico,En trámite,True
+PQRS000254,2025-08-18,2025-08-24,Centro,Medicina familiar,Cancelación de cita por el prestador,32,Telefónico,En trámite,True
+PQRS000892,2025-08-11,2025-08-24,Occidente,Enfermería,Falta de oportunidad en la asignación,12,Presencial,Resuelta,True
+PQRS001315,2025-08-18,2025-08-24,Sur,Laboratorio,Falta de oportunidad en la asignación,40,Presencial,Resuelta,True
+PQRS001313,2025-08-18,2025-08-25,Sur,Medicina general,Demora en la asignación de cita,56,Presencial,Resuelta,True
+PQRS000602,2025-08-25,2025-08-26,Norte,Medicina general,Falta de oportunidad en la asignación,18,Telefónico,Resuelta,True
+PQRS000604,2025-08-25,2025-08-26,Norte,Psicología,Cancelación de cita por el prestador,41,Virtual,Resuelta,True
+PQRS001312,2025-08-18,2025-08-26,Sur,Medicina familiar,Falta de oportunidad en la asignación,28,Telefónico,Resuelta,True
+PQRS001319,2025-08-18,2025-08-26,Sur,Laboratorio,Demora en la asignación de cita,6,Presencial,En trámite,True
+PQRS001321,2025-08-18,2025-08-26,Sur,Medicina general,Falta de oportunidad en la asignación,23,Telefónico,Resuelta,True
+PQRS001325,2025-08-25,2025-08-26,Sur,Medicina general,Información insuficiente sobre el trámite,17,Telefónico,Resuelta,True
+PQRS000251,2025-08-18,2025-08-27,Centro,Laboratorio,Demora en la asignación de cita,2,Presencial,Resuelta,True
+PQRS000896,2025-08-25,2025-08-27,Occidente,Medicina general,Demora en la asignación de cita,11,Telefónico,En trámite,True
+PQRS001311,2025-08-18,2025-08-27,Sur,Medicina familiar,Información insuficiente sobre el trámite,10,Virtual,Resuelta,True
+PQRS001320,2025-08-18,2025-08-27,Sur,Medicina general,Falta de oportunidad en la asignación,2,Presencial,Cerrada sin respuesta,True
+PQRS000258,2025-08-25,2025-08-28,Centro,Enfermería,Falta de oportunidad en la asignación,9,Virtual,En trámite,True
+PQRS000603,2025-08-25,2025-08-28,Norte,Medicina interna,Falta de oportunidad en la asignación,14,Presencial,Resuelta,True
+PQRS001318,2025-08-18,2025-08-28,Sur,Enfermería,Falta de oportunidad en la asignación,11,Telefónico,En trámite,True
+PQRS001328,2025-08-25,2025-08-28,Sur,Medicina interna,Demora en la asignación de cita,1,Presencial,Resuelta,False
+PQRS001329,2025-08-25,2025-08-28,Sur,Pediatría,Demora en la asignación de cita,1,Telefónico,Resuelta,False
+PQRS001326,2025-08-25,2025-08-29,Sur,Pediatría,Demora en la asignación de cita,39,Presencial,En trámite,True
+PQRS000250,2025-08-18,2025-08-30,Centro,Medicina interna,Falta de oportunidad en la asignación,14,Presencial,Resuelta,True
+PQRS000257,2025-08-25,2025-08-30,Centro,Nutrición,Falta de oportunidad en la asignación,48,Telefónico,Resuelta,True
+PQRS000609,2025-08-25,2025-08-30,Norte,Medicina interna,Demora en la asignación de cita,12,Telefónico,Resuelta,True
+PQRS000256,2025-08-25,2025-08-31,Centro,Odontología,Falta de oportunidad en la asignación,6,Telefónico,Cerrada sin respuesta,True
+PQRS000600,2025-08-25,2025-08-31,Norte,Medicina familiar,Falta de oportunidad en la asignación,20,Telefónico,Resuelta,True
+PQRS000255,2025-08-25,2025-09-01,Centro,Pediatría,Falta de oportunidad en la asignación,46,Presencial,Resuelta,True
+PQRS000605,2025-08-25,2025-09-01,Norte,Medicina general,Falta de oportunidad en la asignación,24,Telefónico,Resuelta,True
+PQRS000253,2025-08-18,2025-09-02,Centro,Medicina familiar,Información insuficiente sobre el trámite,14,Telefónico,En trámite,True
+PQRS000606,2025-08-25,2025-09-02,Norte,Medicina general,Demora en la asignación de cita,12,Presencial,Resuelta,True
+PQRS000608,2025-08-25,2025-09-02,Norte,Pediatría,Falta de oportunidad en la asignación,27,Telefónico,Resuelta,True
+PQRS000894,2025-08-18,2025-09-02,Occidente,Enfermería,Falta de oportunidad en la asignación,36,Presencial,Resuelta,True
+PQRS001316,2025-08-18,2025-09-02,Sur,Ginecología,Demora en la asignación de cita,33,Telefónico,Resuelta,True
+PQRS001317,2025-08-18,2025-09-02,Sur,Medicina general,Falta de oportunidad en la asignación,36,Telefónico,Cerrada sin respuesta,True
+PQRS001327,2025-08-25,2025-09-02,Sur,Medicina general,Falta de oportunidad en la asignación,21,Virtual,Resuelta,True
+PQRS000601,2025-08-25,2025-09-03,Norte,Medicina interna,Demora en la asignación de cita,24,Virtual,Resuelta,True
+PQRS000259,2025-08-25,2025-09-04,Centro,Odontología,Falta de oportunidad en la asignación,3,Presencial,Resuelta,True
+PQRS000260,2025-09-01,2025-09-04,Centro,Medicina general,Demora en la asignación de cita,58,Virtual,Resuelta,True
+PQRS000611,2025-09-01,2025-09-04,Norte,Medicina familiar,Falta de oportunidad en la asignación,16,Presencial,Resuelta,True
+PQRS000615,2025-09-01,2025-09-04,Norte,Pediatría,Falta de oportunidad en la asignación,14,Virtual,Resuelta,True
+PQRS001324,2025-08-25,2025-09-04,Sur,Odontología,Falta de oportunidad en la asignación,28,Telefónico,Resuelta,True
+PQRS000613,2025-09-01,2025-09-05,Norte,Ginecología,Falta de oportunidad en la asignación,59,Telefónico,Resuelta,True
+PQRS001323,2025-08-25,2025-09-05,Sur,Medicina general,Falta de oportunidad en la asignación,27,Telefónico,Resuelta,True
+PQRS000607,2025-08-25,2025-09-06,Norte,Medicina familiar,Falta de oportunidad en la asignación,22,Virtual,Resuelta,True
+PQRS000897,2025-08-25,2025-09-06,Occidente,Medicina familiar,Falta de oportunidad en la asignación,14,Telefónico,Resuelta,True
+PQRS000898,2025-09-01,2025-09-06,Occidente,Medicina familiar,Información insuficiente sobre el trámite,32,Telefónico,En trámite,True
+PQRS001322,2025-08-25,2025-09-06,Sur,Enfermería,Demora en la asignación de cita,3,Telefónico,Resuelta,True
+PQRS000610,2025-09-01,2025-09-08,Norte,Medicina general,Cancelación de cita por el prestador,47,Telefónico,Resuelta,True
+PQRS000895,2025-08-25,2025-09-09,Occidente,Odontología,Información insuficiente sobre el trámite,26,Presencial,Resuelta,True
+PQRS001331,2025-09-01,2025-09-09,Sur,Medicina interna,Información insuficiente sobre el trámite,21,Telefónico,Resuelta,True
+PQRS001332,2025-09-01,2025-09-09,Sur,Medicina general,Información insuficiente sobre el trámite,15,Virtual,Resuelta,True
+PQRS000904,2025-09-08,2025-09-11,Occidente,Medicina general,Demora en la asignación de cita,7,Telefónico,Resuelta,True
+PQRS001330,2025-09-01,2025-09-11,Sur,Medicina general,Falta de oportunidad en la asignación,23,Presencial,Resuelta,True
+PQRS000616,2025-09-01,2025-09-12,Norte,Nutrición,Información insuficiente sobre el trámite,1,Virtual,Resuelta,False
+PQRS000612,2025-09-01,2025-09-13,Norte,Medicina interna,Demora en la asignación de cita,15,Virtual,Resuelta,True
+PQRS000899,2025-09-01,2025-09-13,Occidente,Medicina general,Cancelación de cita por el prestador,27,Presencial,Resuelta,True
+PQRS000614,2025-09-01,2025-09-14,Norte,Ginecología,Falta de oportunidad en la asignación,5,Virtual,Resuelta,True
+PQRS000900,2025-09-08,2025-09-16,Occidente,Medicina interna,Falta de oportunidad en la asignación,14,Presencial,En trámite,True
+PQRS000903,2025-09-08,2025-09-16,Occidente,Odontología,Falta de oportunidad en la asignación,7,Presencial,Resuelta,True
+PQRS000908,2025-09-15,2025-09-17,Occidente,Medicina general,Demora en la asignación de cita,10,Virtual,En trámite,True
+PQRS000262,2025-09-15,2025-09-18,Centro,Medicina general,Falta de oportunidad en la asignación,23,Telefónico,En trámite,True
+PQRS000906,2025-09-15,2025-09-18,Occidente,Medicina general,Falta de oportunidad en la asignación,99,Presencial,En trámite,True
+PQRS001336,2025-09-15,2025-09-18,Sur,Medicina familiar,Falta de oportunidad en la asignación,19,Virtual,Resuelta,True
+PQRS001340,2025-09-15,2025-09-18,Sur,Medicina general,Cancelación de cita por el prestador,13,Presencial,En trámite,True
+PQRS001342,2025-09-15,2025-09-18,Sur,Medicina general,Demora en la asignación de cita,12,Presencial,Resuelta,True
+PQRS001333,2025-09-08,2025-09-19,Sur,Medicina general,Información insuficiente sobre el trámite,35,Telefónico,Resuelta,True
+PQRS001343,2025-09-15,2025-09-19,Sur,Pediatría,Demora en la asignación de cita,12,Telefónico,Resuelta,True
+PQRS001345,2025-09-15,2025-09-19,Sur,Medicina familiar,Demora en la asignación de cita,64,Presencial,Resuelta,True
+PQRS000264,2025-09-15,2025-09-20,Centro,Pediatría,Demora en la asignación de cita,13,Telefónico,En trámite,True
+PQRS000623,2025-09-15,2025-09-20,Norte,Pediatría,Falta de oportunidad en la asignación,25,Telefónico,Resuelta,True
+PQRS000901,2025-09-08,2025-09-21,Occidente,Medicina general,Falta de oportunidad en la asignación,25,Telefónico,Resuelta,True
+PQRS000905,2025-09-08,2025-09-21,Occidente,Medicina general,Demora en la asignación de cita,13,Telefónico,Resuelta,True
+PQRS001335,2025-09-08,2025-09-21,Sur,Psicología,Demora en la asignación de cita,1,Telefónico,Cerrada sin respuesta,True
+PQRS000261,2025-09-15,2025-09-22,Centro,Medicina familiar,Información insuficiente sobre el trámite,17,Telefónico,Resuelta,True
+PQRS000621,2025-09-15,2025-09-22,Norte,Medicina familiar,Falta de oportunidad en la asignación,30,Telefónico,Resuelta,True
+PQRS000902,2025-09-08,2025-09-22,Occidente,Medicina general,Falta de oportunidad en la asignación,13,Telefónico,En trámite,True
+PQRS001339,2025-09-15,2025-09-22,Sur,Odontología,Cancelación de cita por el prestador,21,Virtual,Resuelta,True
+PQRS000630,2025-09-22,2025-09-23,Norte,Pediatría,Falta de oportunidad en la asignación,24,Virtual,Resuelta,True
+PQRS000631,2025-09-22,2025-09-23,Norte,Pediatría,Falta de oportunidad en la asignación,26,Presencial,Resuelta,True
+PQRS001334,2025-09-08,2025-09-23,Sur,Enfermería,Demora en la asignación de cita,6,Telefónico,Resuelta,True
+PQRS000617,2025-09-15,2025-09-24,Norte,Medicina general,Falta de oportunidad en la asignación,38,Telefónico,Resuelta,True
+PQRS001338,2025-09-15,2025-09-24,Sur,Medicina general,Demora en la asignación de cita,12,Presencial,Resuelta,True
+PQRS001347,2025-09-22,2025-09-24,Sur,Enfermería,Demora en la asignación de cita,1,Telefónico,Resuelta,True
+PQRS000618,2025-09-15,2025-09-25,Norte,Enfermería,Falta de oportunidad en la asignación,29,Presencial,Resuelta,True
+PQRS000619,2025-09-15,2025-09-25,Norte,Odontología,Falta de oportunidad en la asignación,12,Telefónico,Resuelta,True
+PQRS000622,2025-09-15,2025-09-25,Norte,Odontología,Falta de oportunidad en la asignación,33,Presencial,Resuelta,True
+PQRS000627,2025-09-22,2025-09-25,Norte,Enfermería,Cancelación de cita por el prestador,10,Presencial,En trámite,True
+PQRS000907,2025-09-15,2025-09-25,Occidente,Pediatría,Falta de oportunidad en la asignación,38,Virtual,Cerrada sin respuesta,True
+PQRS001344,2025-09-15,2025-09-25,Sur,Laboratorio,Falta de oportunidad en la asignación,19,Presencial,Resuelta,True
+PQRS000266,2025-09-15,2025-09-26,Centro,Imágenes diagnósticas,Cancelación de cita por el prestador,2,Telefónico,Resuelta,False
+PQRS000911,2025-09-22,2025-09-26,Occidente,Psicología,Demora en la asignación de cita,19,Telefónico,Resuelta,True
+PQRS000263,2025-09-15,2025-09-27,Centro,Ginecología,Información insuficiente sobre el trámite,9,Telefónico,Resuelta,True
+PQRS000265,2025-09-15,2025-09-27,Centro,Medicina general,Demora en la asignación de cita,39,Presencial,Resuelta,True
+PQRS000620,2025-09-15,2025-09-27,Norte,Medicina interna,Falta de oportunidad en la asignación,6,Telefónico,Resuelta,True
+PQRS000629,2025-09-22,2025-09-27,Norte,Medicina general,Falta de oportunidad en la asignación,15,Presencial,Resuelta,True
+PQRS000909,2025-09-15,2025-09-27,Occidente,Psicología,Falta de oportunidad en la asignación,41,Telefónico,En trámite,True
+PQRS001341,2025-09-15,2025-09-27,Sur,Medicina interna,Falta de oportunidad en la asignación,20,Presencial,Resuelta,True
+PQRS000910,2025-09-15,2025-09-28,Occidente,Enfermería,Falta de oportunidad en la asignación,23,Presencial,Cerrada sin respuesta,True
+PQRS000624,2025-09-15,2025-09-29,Norte,Medicina general,Demora en la asignación de cita,6,Telefónico,Resuelta,True
+PQRS001337,2025-09-15,2025-09-29,Sur,Laboratorio,Cancelación de cita por el prestador,48,Presencial,Resuelta,True
+PQRS001346,2025-09-22,2025-09-29,Sur,Medicina familiar,Cancelación de cita por el prestador,7,Telefónico,Resuelta,True
+PQRS000625,2025-09-22,2025-09-30,Norte,Medicina general,Falta de oportunidad en la asignación,41,Presencial,Resuelta,True
+PQRS000626,2025-09-22,2025-09-30,Norte,Enfermería,Falta de oportunidad en la asignación,3,Virtual,Resuelta,True
+PQRS000924,2025-09-29,2025-09-30,Occidente,Medicina general,Falta de oportunidad en la asignación,25,Presencial,En trámite,True
+PQRS001353,2025-09-29,2025-09-30,Sur,Medicina interna,Falta de oportunidad en la asignación,21,Virtual,Resuelta,True
+PQRS001357,2025-09-29,2025-09-30,Sur,Odontología,Falta de oportunidad en la asignación,15,Presencial,En trámite,True
+PQRS000628,2025-09-22,2025-10-01,Norte,Pediatría,Falta de oportunidad en la asignación,32,Presencial,Resuelta,True
+PQRS000633,2025-09-22,2025-10-01,Norte,Medicina general,Cancelación de cita por el prestador,29,Presencial,Cerrada sin respuesta,False
+PQRS000632,2025-09-22,2025-10-02,Norte,Medicina interna,Demora en la asignación de cita,21,Virtual,Resuelta,True
+PQRS000914,2025-09-22,2025-10-02,Occidente,Enfermería,Falta de oportunidad en la asignación,44,Telefónico,Resuelta,True
+PQRS001349,2025-09-29,2025-10-02,Sur,Medicina general,Falta de oportunidad en la asignación,12,Telefónico,Resuelta,True
+PQRS000919,2025-09-29,2025-10-03,Occidente,Odontología,Falta de oportunidad en la asignación,26,Presencial,Resuelta,True
+PQRS001355,2025-09-29,2025-10-03,Sur,Medicina general,Falta de oportunidad en la asignación,13,Presencial,En trámite,True
+PQRS000923,2025-09-29,2025-10-04,Occidente,Medicina general,Falta de oportunidad en la asignación,42,Telefónico,Resuelta,True
+PQRS001350,2025-09-29,2025-10-04,Sur,Pediatría,Falta de oportunidad en la asignación,23,Telefónico,Resuelta,True
+PQRS000912,2025-09-22,2025-10-05,Occidente,Medicina general,Falta de oportunidad en la asignación,40,Telefónico,Resuelta,True
+PQRS000913,2025-09-22,2025-10-05,Occidente,Medicina general,Falta de oportunidad en la asignación,67,Telefónico,Resuelta,True
+PQRS000915,2025-09-22,2025-10-05,Occidente,Medicina familiar,Falta de oportunidad en la asignación,34,Telefónico,En trámite,True
+PQRS001348,2025-09-29,2025-10-05,Sur,Medicina interna,Demora en la asignación de cita,8,Telefónico,Resuelta,True
+PQRS001354,2025-09-29,2025-10-05,Sur,Medicina general,Cancelación de cita por el prestador,22,Presencial,En trámite,True
+PQRS001356,2025-09-29,2025-10-05,Sur,Pediatría,Falta de oportunidad en la asignación,15,Presencial,Resuelta,True
+PQRS000268,2025-10-06,2025-10-07,Centro,Enfermería,Falta de oportunidad en la asignación,13,Virtual,Cerrada sin respuesta,True
+PQRS000916,2025-09-22,2025-10-07,Occidente,Ginecología,Falta de oportunidad en la asignación,43,Presencial,Resuelta,True
+PQRS000918,2025-09-29,2025-10-08,Occidente,Medicina general,Falta de oportunidad en la asignación,50,Presencial,Resuelta,True
+PQRS000921,2025-09-29,2025-10-08,Occidente,Enfermería,Falta de oportunidad en la asignación,26,Presencial,En trámite,True
+PQRS001351,2025-09-29,2025-10-08,Sur,Medicina interna,Falta de oportunidad en la asignación,27,Telefónico,En trámite,True
+PQRS000270,2025-10-06,2025-10-09,Centro,Medicina general,Demora en la asignación de cita,16,Telefónico,En trámite,True
+PQRS000920,2025-09-29,2025-10-09,Occidente,Medicina general,Falta de oportunidad en la asignación,42,Telefónico,Resuelta,True
+PQRS000922,2025-09-29,2025-10-10,Occidente,Pediatría,Falta de oportunidad en la asignación,10,Telefónico,Resuelta,True
+PQRS000635,2025-10-06,2025-10-11,Norte,Medicina general,Falta de oportunidad en la asignación,18,Presencial,Resuelta,True
+PQRS001352,2025-09-29,2025-10-11,Sur,Medicina general,Falta de oportunidad en la asignación,28,Virtual,Resuelta,True
+PQRS000634,2025-09-29,2025-10-12,Norte,Medicina general,Demora en la asignación de cita,25,Presencial,Resuelta,True
+PQRS000917,2025-09-29,2025-10-14,Occidente,Enfermería,Demora en la asignación de cita,51,Telefónico,Resuelta,True
+PQRS001361,2025-10-13,2025-10-14,Sur,Medicina general,Falta de oportunidad en la asignación,11,Telefónico,Resuelta,True
+PQRS001362,2025-10-13,2025-10-14,Sur,Medicina general,Demora en la asignación de cita,9,Virtual,Resuelta,False
+PQRS000925,2025-10-06,2025-10-15,Occidente,Medicina interna,Demora en la asignación de cita,12,Telefónico,En trámite,True
+PQRS000267,2025-10-06,2025-10-16,Centro,Odontología,Falta de oportunidad en la asignación,29,Telefónico,Cerrada sin respuesta,True
+PQRS000643,2025-10-13,2025-10-16,Norte,Pediatría,Falta de oportunidad en la asignación,21,Telefónico,Resuelta,True
+PQRS000644,2025-10-13,2025-10-16,Norte,Enfermería,Falta de oportunidad en la asignación,17,Telefónico,En trámite,True
+PQRS001358,2025-10-13,2025-10-16,Sur,Medicina general,Falta de oportunidad en la asignación,35,Virtual,Cerrada sin respuesta,True
+PQRS000273,2025-10-13,2025-10-17,Centro,Psicología,Demora en la asignación de cita,7,Virtual,Resuelta,False
+PQRS000269,2025-10-06,2025-10-18,Centro,Odontología,Falta de oportunidad en la asignación,39,Telefónico,Resuelta,True
+PQRS000272,2025-10-13,2025-10-20,Centro,Medicina familiar,Falta de oportunidad en la asignación,63,Virtual,Resuelta,True
+PQRS001360,2025-10-13,2025-10-20,Sur,Ginecología,Falta de oportunidad en la asignación,1,Presencial,Resuelta,True
+PQRS000274,2025-10-13,2025-10-21,Centro,Laboratorio,Información insuficiente sobre el trámite,3,Telefónico,Resuelta,False
+PQRS000648,2025-10-20,2025-10-21,Norte,Medicina general,Demora en la asignación de cita,52,Virtual,Resuelta,True
+PQRS000639,2025-10-13,2025-10-22,Norte,Enfermería,Información insuficiente sobre el trámite,1,Virtual,Resuelta,True
+PQRS000650,2025-10-20,2025-10-22,Norte,Medicina general,Demora en la asignación de cita,22,Presencial,Cerrada sin respuesta,True
+PQRS000653,2025-10-20,2025-10-22,Norte,Medicina general,Falta de oportunidad en la asignación,22,Virtual,Resuelta,True
+PQRS000928,2025-10-13,2025-10-22,Occidente,Medicina familiar,Cancelación de cita por el prestador,6,Telefónico,En trámite,False
+PQRS000933,2025-10-20,2025-10-22,Occidente,Odontología,Cancelación de cita por el prestador,61,Telefónico,Resuelta,True
+PQRS000271,2025-10-13,2025-10-23,Centro,Enfermería,Falta de oportunidad en la asignación,9,Virtual,En trámite,True
+PQRS000645,2025-10-13,2025-10-23,Norte,Medicina general,Demora en la asignación de cita,5,Telefónico,Resuelta,True
+PQRS000646,2025-10-13,2025-10-23,Norte,Ginecología,Cancelación de cita por el prestador,2,Telefónico,Resuelta,False
+PQRS000654,2025-10-20,2025-10-23,Norte,Pediatría,Falta de oportunidad en la asignación,42,Virtual,En trámite,True
+PQRS000926,2025-10-13,2025-10-23,Occidente,Medicina interna,Falta de oportunidad en la asignación,26,Presencial,Resuelta,True
+PQRS000936,2025-10-20,2025-10-23,Occidente,Medicina general,Falta de oportunidad en la asignación,18,Telefónico,Resuelta,True
+PQRS001359,2025-10-13,2025-10-23,Sur,Medicina interna,Falta de oportunidad en la asignación,9,Telefónico,Cerrada sin respuesta,True
+PQRS000638,2025-10-13,2025-10-24,Norte,Pediatría,Demora en la asignación de cita,20,Presencial,Resuelta,True
+PQRS000647,2025-10-13,2025-10-24,Norte,Pediatría,Información insuficiente sobre el trámite,3,Presencial,En trámite,False
+PQRS000637,2025-10-13,2025-10-25,Norte,Medicina general,Falta de oportunidad en la asignación,32,Presencial,Resuelta,True
+PQRS000640,2025-10-13,2025-10-25,Norte,Medicina general,Falta de oportunidad en la asignación,15,Telefónico,Resuelta,True
+PQRS000655,2025-10-20,2025-10-25,Norte,Enfermería,Demora en la asignación de cita,17,Telefónico,Resuelta,True
+PQRS000927,2025-10-13,2025-10-25,Occidente,Pediatría,Falta de oportunidad en la asignación,18,Presencial,Resuelta,True
+PQRS000929,2025-10-20,2025-10-25,Occidente,Medicina general,Cancelación de cita por el prestador,56,Telefónico,Resuelta,True
+PQRS000930,2025-10-20,2025-10-25,Occidente,Psicología,Falta de oportunidad en la asignación,40,Telefónico,Resuelta,True
+PQRS000931,2025-10-20,2025-10-26,Occidente,Odontología,Falta de oportunidad en la asignación,61,Presencial,Resuelta,True
+PQRS001370,2025-10-20,2025-10-26,Sur,Enfermería,Cancelación de cita por el prestador,4,Presencial,Cerrada sin respuesta,False
+PQRS000636,2025-10-13,2025-10-27,Norte,Pediatría,Demora en la asignación de cita,15,Presencial,Resuelta,True
+PQRS000642,2025-10-13,2025-10-27,Norte,Medicina general,Falta de oportunidad en la asignación,38,Presencial,Resuelta,True
+PQRS000652,2025-10-20,2025-10-27,Norte,Enfermería,Falta de oportunidad en la asignación,15,Presencial,Resuelta,True
+PQRS001364,2025-10-20,2025-10-27,Sur,Ginecología,Falta de oportunidad en la asignación,18,Telefónico,En trámite,True
+PQRS001366,2025-10-20,2025-10-27,Sur,Enfermería,Falta de oportunidad en la asignación,12,Presencial,Resuelta,True
+PQRS000641,2025-10-13,2025-10-28,Norte,Medicina general,Falta de oportunidad en la asignación,21,Telefónico,En trámite,True
+PQRS000658,2025-10-27,2025-10-28,Norte,Odontología,Falta de oportunidad en la asignación,11,Presencial,En trámite,True
+PQRS000660,2025-10-27,2025-10-28,Norte,Laboratorio,Cancelación de cita por el prestador,9,Telefónico,Resuelta,True
+PQRS001367,2025-10-20,2025-10-28,Sur,Medicina general,Falta de oportunidad en la asignación,83,Telefónico,Resuelta,True
+PQRS000656,2025-10-20,2025-10-29,Norte,Medicina general,Demora en la asignación de cita,2,Virtual,Resuelta,False
+PQRS000659,2025-10-27,2025-10-29,Norte,Nutrición,Falta de oportunidad en la asignación,34,Virtual,Resuelta,True
+PQRS000932,2025-10-20,2025-10-30,Occidente,Psicología,Falta de oportunidad en la asignación,105,Virtual,Resuelta,True
+PQRS001363,2025-10-20,2025-10-30,Sur,Medicina general,Demora en la asignación de cita,6,Presencial,Resuelta,True
+PQRS000651,2025-10-20,2025-10-31,Norte,Laboratorio,Falta de oportunidad en la asignación,2,Presencial,Resuelta,True
+PQRS000937,2025-10-20,2025-10-31,Occidente,Medicina general,Información insuficiente sobre el trámite,59,Presencial,Resuelta,True
+PQRS001369,2025-10-20,2025-10-31,Sur,Medicina general,Demora en la asignación de cita,9,Virtual,Resuelta,False
+PQRS000938,2025-10-20,2025-11-01,Occidente,Imágenes diagnósticas,Demora en la asignación de cita,8,Presencial,Resuelta,False
+PQRS001368,2025-10-20,2025-11-01,Sur,Medicina general,Demora en la asignación de cita,3,Presencial,Resuelta,True
+PQRS001365,2025-10-20,2025-11-02,Sur,Odontología,Falta de oportunidad en la asignación,34,Virtual,Resuelta,True
+PQRS000657,2025-10-27,2025-11-03,Norte,Medicina familiar,Falta de oportunidad en la asignación,14,Telefónico,Resuelta,True
+PQRS000934,2025-10-20,2025-11-03,Occidente,Medicina general,Demora en la asignación de cita,10,Telefónico,Resuelta,True
+PQRS000939,2025-10-20,2025-11-03,Occidente,Psicología,Información insuficiente sobre el trámite,2,Telefónico,Resuelta,False
+PQRS000275,2025-10-27,2025-11-04,Centro,Medicina general,Demora en la asignación de cita,23,Telefónico,Resuelta,True
+PQRS000649,2025-10-20,2025-11-04,Norte,Laboratorio,Demora en la asignación de cita,5,Telefónico,Resuelta,True
+PQRS000935,2025-10-20,2025-11-04,Occidente,Imágenes diagnósticas,Información insuficiente sobre el trámite,12,Presencial,En trámite,True
+PQRS000941,2025-11-03,2025-11-04,Occidente,Medicina interna,Información insuficiente sobre el trámite,30,Telefónico,Resuelta,True
+PQRS000942,2025-11-03,2025-11-04,Occidente,Medicina general,Falta de oportunidad en la asignación,17,Presencial,En trámite,True
+PQRS000661,2025-10-27,2025-11-05,Norte,Enfermería,Información insuficiente sobre el trámite,6,Virtual,Resuelta,False
+PQRS001384,2025-11-03,2025-11-05,Sur,Medicina general,Demora en la asignación de cita,48,Telefónico,Resuelta,True
+PQRS000662,2025-11-03,2025-11-06,Norte,Medicina general,Demora en la asignación de cita,1,Telefónico,Resuelta,False
+PQRS001374,2025-11-03,2025-11-06,Sur,Medicina general,Falta de oportunidad en la asignación,21,Telefónico,Cerrada sin respuesta,True
+PQRS001373,2025-11-03,2025-11-08,Sur,Medicina general,Falta de oportunidad en la asignación,23,Telefónico,Resuelta,True
+PQRS000940,2025-11-03,2025-11-09,Occidente,Enfermería,Falta de oportunidad en la asignación,23,Presencial,Resuelta,True
+PQRS001372,2025-11-03,2025-11-09,Sur,Odontología,Falta de oportunidad en la asignación,19,Telefónico,Resuelta,True
+PQRS001378,2025-11-03,2025-11-09,Sur,Ginecología,Falta de oportunidad en la asignación,6,Virtual,Resuelta,True
+PQRS001383,2025-11-03,2025-11-10,Sur,Medicina familiar,Falta de oportunidad en la asignación,29,Telefónico,Resuelta,True
+PQRS001371,2025-10-27,2025-11-11,Sur,Enfermería,Demora en la asignación de cita,4,Telefónico,En trámite,False
+PQRS001377,2025-11-03,2025-11-11,Sur,Ginecología,Falta de oportunidad en la asignación,41,Virtual,Resuelta,True
+PQRS000284,2025-11-10,2025-11-12,Centro,Psicología,Información insuficiente sobre el trámite,31,Telefónico,Resuelta,True
+PQRS000665,2025-11-10,2025-11-12,Norte,Enfermería,Falta de oportunidad en la asignación,10,Telefónico,Resuelta,True
+PQRS001385,2025-11-03,2025-11-12,Sur,Pediatría,Cancelación de cita por el prestador,13,Presencial,Resuelta,False
+PQRS000281,2025-11-10,2025-11-13,Centro,Enfermería,Falta de oportunidad en la asignación,8,Telefónico,Resuelta,True
+PQRS001375,2025-11-03,2025-11-13,Sur,Odontología,Demora en la asignación de cita,47,Telefónico,Resuelta,True
+PQRS001376,2025-11-03,2025-11-13,Sur,Ginecología,Información insuficiente sobre el trámite,11,Telefónico,Resuelta,True
+PQRS000278,2025-11-10,2025-11-14,Centro,Enfermería,Falta de oportunidad en la asignación,15,Telefónico,Resuelta,True
+PQRS000669,2025-11-10,2025-11-14,Norte,Laboratorio,Cancelación de cita por el prestador,1,Telefónico,Resuelta,False
+PQRS000276,2025-11-03,2025-11-15,Centro,Medicina general,Demora en la asignación de cita,16,Telefónico,Resuelta,False
+PQRS001380,2025-11-03,2025-11-15,Sur,Psicología,Falta de oportunidad en la asignación,24,Telefónico,Resuelta,True
+PQRS001382,2025-11-03,2025-11-15,Sur,Pediatría,Falta de oportunidad en la asignación,9,Virtual,En trámite,True
+PQRS000280,2025-11-10,2025-11-16,Centro,Medicina general,Falta de oportunidad en la asignación,6,Telefónico,Resuelta,True
+PQRS001381,2025-11-03,2025-11-16,Sur,Medicina general,Demora en la asignación de cita,62,Virtual,Resuelta,True
+PQRS000663,2025-11-03,2025-11-17,Norte,Medicina interna,Demora en la asignación de cita,1,Virtual,En trámite,False
+PQRS001379,2025-11-03,2025-11-17,Sur,Medicina interna,Demora en la asignación de cita,20,Virtual,Resuelta,True
+PQRS000287,2025-11-17,2025-11-18,Centro,Medicina general,Demora en la asignación de cita,69,Telefónico,Resuelta,True
+PQRS000664,2025-11-10,2025-11-18,Norte,Imágenes diagnósticas,Información insuficiente sobre el trámite,26,Telefónico,Resuelta,True
+PQRS000672,2025-11-17,2025-11-18,Norte,Medicina general,Falta de oportunidad en la asignación,38,Telefónico,En trámite,True
+PQRS000943,2025-11-03,2025-11-18,Occidente,Medicina familiar,Demora en la asignación de cita,41,Presencial,Resuelta,True
+PQRS001389,2025-11-17,2025-11-18,Sur,Pediatría,Falta de oportunidad en la asignación,5,Virtual,Resuelta,True
+PQRS000279,2025-11-10,2025-11-19,Centro,Medicina general,Falta de oportunidad en la asignación,23,Telefónico,Resuelta,True
+PQRS000283,2025-11-10,2025-11-19,Centro,Psicología,Cancelación de cita por el prestador,25,Presencial,Cerrada sin respuesta,True
+PQRS000290,2025-11-17,2025-11-19,Centro,Medicina familiar,Falta de oportunidad en la asignación,12,Telefónico,Resuelta,True
+PQRS000667,2025-11-10,2025-11-19,Norte,Imágenes diagnósticas,Falta de oportunidad en la asignación,31,Presencial,Resuelta,True
+PQRS001390,2025-11-17,2025-11-20,Sur,Medicina general,Demora en la asignación de cita,93,Telefónico,Resuelta,True
+PQRS001386,2025-11-17,2025-11-21,Sur,Odontología,Falta de oportunidad en la asignación,36,Presencial,Cerrada sin respuesta,True
+PQRS001393,2025-11-17,2025-11-21,Sur,Medicina general,Demora en la asignación de cita,16,Presencial,Resuelta,True
+PQRS000282,2025-11-10,2025-11-22,Centro,Medicina general,Información insuficiente sobre el trámite,36,Telefónico,Resuelta,True
+PQRS000285,2025-11-10,2025-11-22,Centro,Medicina familiar,Falta de oportunidad en la asignación,19,Virtual,En trámite,True
+PQRS000288,2025-11-17,2025-11-22,Centro,Medicina interna,Información insuficiente sobre el trámite,8,Telefónico,Resuelta,True
+PQRS000291,2025-11-17,2025-11-22,Centro,Medicina interna,Falta de oportunidad en la asignación,29,Virtual,En trámite,True
+PQRS000668,2025-11-10,2025-11-22,Norte,Medicina general,Falta de oportunidad en la asignación,21,Presencial,En trámite,True
+PQRS000671,2025-11-17,2025-11-22,Norte,Medicina general,Información insuficiente sobre el trámite,15,Telefónico,En trámite,True
+PQRS000945,2025-11-17,2025-11-23,Occidente,Medicina interna,Demora en la asignación de cita,3,Presencial,Cerrada sin respuesta,False
+PQRS000292,2025-11-17,2025-11-24,Centro,Enfermería,Cancelación de cita por el prestador,11,Presencial,Resuelta,True
+PQRS000666,2025-11-10,2025-11-24,Norte,Medicina general,Información insuficiente sobre el trámite,22,Virtual,Resuelta,True
+PQRS000277,2025-11-10,2025-11-25,Centro,Enfermería,Falta de oportunidad en la asignación,62,Telefónico,Resuelta,True
+PQRS000674,2025-11-24,2025-11-25,Norte,Medicina familiar,Demora en la asignación de cita,12,Telefónico,En trámite,True
+PQRS001394,2025-11-24,2025-11-25,Sur,Enfermería,Cancelación de cita por el prestador,37,Virtual,Resuelta,True
+PQRS001387,2025-11-17,2025-11-26,Sur,Medicina general,Falta de oportunidad en la asignación,4,Presencial,Resuelta,True
+PQRS001402,2025-11-24,2025-11-26,Sur,Enfermería,Información insuficiente sobre el trámite,2,Telefónico,Resuelta,False
+PQRS000286,2025-11-17,2025-11-27,Centro,Medicina interna,Información insuficiente sobre el trámite,14,Telefónico,Resuelta,True
+PQRS000289,2025-11-17,2025-11-27,Centro,Medicina interna,Demora en la asignación de cita,19,Presencial,Resuelta,True
+PQRS000685,2025-11-24,2025-11-27,Norte,Medicina familiar,Cancelación de cita por el prestador,1,Presencial,Resuelta,False
+PQRS000294,2025-11-24,2025-11-28,Centro,Psicología,Falta de oportunidad en la asignación,22,Telefónico,Resuelta,True
+PQRS000295,2025-11-24,2025-11-28,Centro,Medicina general,Demora en la asignación de cita,27,Telefónico,Resuelta,False
+PQRS000670,2025-11-17,2025-11-28,Norte,Medicina interna,Demora en la asignación de cita,3,Telefónico,Resuelta,True
+PQRS000676,2025-11-24,2025-11-28,Norte,Odontología,Falta de oportunidad en la asignación,25,Virtual,Resuelta,True
+PQRS000678,2025-11-24,2025-11-28,Norte,Medicina general,Falta de oportunidad en la asignación,12,Telefónico,Resuelta,True
+PQRS001395,2025-11-24,2025-11-28,Sur,Medicina general,Cancelación de cita por el prestador,7,Telefónico,Resuelta,True
+PQRS000293,2025-11-24,2025-11-29,Centro,Medicina general,Falta de oportunidad en la asignación,59,Virtual,Resuelta,True
+PQRS000680,2025-11-24,2025-11-29,Norte,Ginecología,Demora en la asignación de cita,42,Telefónico,Resuelta,True
+PQRS000673,2025-11-24,2025-11-30,Norte,Laboratorio,Cancelación de cita por el prestador,28,Presencial,Resuelta,True
+PQRS000944,2025-11-17,2025-11-30,Occidente,Medicina general,Falta de oportunidad en la asignación,6,Presencial,Resuelta,True
+PQRS001388,2025-11-17,2025-11-30,Sur,Medicina general,Demora en la asignación de cita,27,Virtual,En trámite,True
+PQRS001391,2025-11-17,2025-11-30,Sur,Medicina general,Falta de oportunidad en la asignación,18,Presencial,Resuelta,True
+PQRS001399,2025-11-24,2025-11-30,Sur,Medicina general,Falta de oportunidad en la asignación,5,Virtual,Resuelta,True
+PQRS000684,2025-11-24,2025-12-01,Norte,Pediatría,Demora en la asignación de cita,6,Telefónico,Resuelta,False
+PQRS001392,2025-11-17,2025-12-01,Sur,Medicina general,Falta de oportunidad en la asignación,59,Virtual,En trámite,True
+PQRS001396,2025-11-24,2025-12-02,Sur,Medicina general,Falta de oportunidad en la asignación,34,Presencial,Resuelta,True
+PQRS000298,2025-12-01,2025-12-03,Centro,Laboratorio,Falta de oportunidad en la asignación,10,Telefónico,Resuelta,True
+PQRS000299,2025-12-01,2025-12-03,Centro,Medicina general,Cancelación de cita por el prestador,16,Virtual,Resuelta,True
+PQRS000675,2025-11-24,2025-12-03,Norte,Medicina general,Información insuficiente sobre el trámite,9,Telefónico,Resuelta,True
+PQRS001398,2025-11-24,2025-12-03,Sur,Medicina general,Cancelación de cita por el prestador,23,Virtual,Resuelta,True
+PQRS000681,2025-11-24,2025-12-04,Norte,Medicina general,Falta de oportunidad en la asignación,13,Telefónico,Resuelta,True
+PQRS001404,2025-12-01,2025-12-04,Sur,Medicina interna,Información insuficiente sobre el trámite,6,Presencial,En trámite,False
+PQRS000947,2025-12-01,2025-12-05,Occidente,Medicina general,Falta de oportunidad en la asignación,8,Telefónico,Resuelta,True
+PQRS001400,2025-11-24,2025-12-06,Sur,Medicina general,Falta de oportunidad en la asignación,19,Telefónico,Resuelta,True
+PQRS001401,2025-11-24,2025-12-06,Sur,Odontología,Falta de oportunidad en la asignación,10,Presencial,Resuelta,True
+PQRS001403,2025-11-24,2025-12-06,Sur,Medicina general,Cancelación de cita por el prestador,8,Telefónico,Resuelta,False
+PQRS000679,2025-11-24,2025-12-08,Norte,Medicina general,Falta de oportunidad en la asignación,22,Presencial,Cerrada sin respuesta,True
+PQRS000682,2025-11-24,2025-12-08,Norte,Odontología,Falta de oportunidad en la asignación,18,Telefónico,Resuelta,True
+PQRS000946,2025-11-24,2025-12-08,Occidente,Enfermería,Información insuficiente sobre el trámite,4,Presencial,Resuelta,False
+PQRS001397,2025-11-24,2025-12-08,Sur,Enfermería,Cancelación de cita por el prestador,12,Presencial,Resuelta,True
+PQRS000296,2025-12-01,2025-12-09,Centro,Laboratorio,Falta de oportunidad en la asignación,32,Telefónico,Resuelta,True
+PQRS000303,2025-12-08,2025-12-09,Centro,Odontología,Falta de oportunidad en la asignación,41,Presencial,Resuelta,True
+PQRS000677,2025-11-24,2025-12-09,Norte,Ginecología,Demora en la asignación de cita,23,Virtual,Resuelta,True
+PQRS000683,2025-11-24,2025-12-09,Norte,Medicina general,Falta de oportunidad en la asignación,12,Virtual,Resuelta,True
+PQRS000688,2025-12-08,2025-12-09,Norte,Pediatría,Demora en la asignación de cita,22,Telefónico,Resuelta,True
+PQRS000692,2025-12-08,2025-12-11,Norte,Medicina general,Cancelación de cita por el prestador,15,Presencial,Resuelta,True
+PQRS000949,2025-12-08,2025-12-11,Occidente,Laboratorio,Información insuficiente sobre el trámite,8,Telefónico,Resuelta,True
+PQRS000690,2025-12-08,2025-12-12,Norte,Pediatría,Falta de oportunidad en la asignación,25,Presencial,En trámite,True
+PQRS000694,2025-12-08,2025-12-12,Norte,Pediatría,Falta de oportunidad en la asignación,4,Presencial,Resuelta,True
+PQRS000948,2025-12-01,2025-12-12,Occidente,Medicina general,Falta de oportunidad en la asignación,33,Telefónico,En trámite,True
+PQRS000297,2025-12-01,2025-12-13,Centro,Medicina general,Falta de oportunidad en la asignación,23,Telefónico,Cerrada sin respuesta,True
+PQRS000302,2025-12-08,2025-12-13,Centro,Medicina general,Falta de oportunidad en la asignación,25,Virtual,Resuelta,True
+PQRS000689,2025-12-08,2025-12-13,Norte,Medicina general,Falta de oportunidad en la asignación,61,Virtual,Resuelta,True
+PQRS000304,2025-12-08,2025-12-14,Centro,Pediatría,Demora en la asignación de cita,25,Presencial,En trámite,True
+PQRS000686,2025-12-01,2025-12-16,Norte,Odontología,Demora en la asignación de cita,3,Presencial,Resuelta,False
+PQRS000691,2025-12-08,2025-12-16,Norte,Odontología,Cancelación de cita por el prestador,4,Virtual,Resuelta,True
+PQRS000301,2025-12-08,2025-12-21,Centro,Medicina familiar,Falta de oportunidad en la asignación,9,Presencial,Resuelta,True
+PQRS000693,2025-12-08,2025-12-21,Norte,Ginecología,Falta de oportunidad en la asignación,5,Telefónico,Resuelta,True
+PQRS000687,2025-12-08,2025-12-22,Norte,Medicina general,Falta de oportunidad en la asignación,5,Presencial,Resuelta,True
+PQRS000300,2025-12-08,2025-12-23,Centro,Medicina familiar,Demora en la asignación de cita,12,Virtual,Resuelta,True
+PQRS000696,2025-12-22,2025-12-25,Norte,Medicina familiar,Demora en la asignación de cita,8,Presencial,Resuelta,False
+PQRS000695,2025-12-22,2025-12-26,Norte,Medicina general,Demora en la asignación de cita,4,Telefónico,Cerrada sin respuesta,False
