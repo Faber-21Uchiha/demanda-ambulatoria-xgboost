@@ -8,9 +8,11 @@ El estudio se realiza sobre una entidad anonimizada, **Red Integrada de Servicio
 
 Video de 63 segundos, sin audio, que muestra el panel de pronóstico y capacidad construido con los resultados del repositorio. La narración corresponde al expositor.
 
-[<img src="03_resultados/demo/demo_preview.gif" width="720" alt="Demostración animada del panel de pronóstico y capacidad">](03_resultados/demo/demo_producto.mp4)
+[<img src="03_resultados/demo/demo_preview.gif" width="720" alt="Demostración animada del panel de pronóstico y capacidad">](https://faber-21uchiha.github.io/demanda-ambulatoria-xgboost/)
 
-[▶ Ver la demostración en video con controles](03_resultados/demo/demo_producto.mp4)
+[▶ Ver la demo en el reproductor (se reproduce sola)](https://faber-21uchiha.github.io/demanda-ambulatoria-xgboost/) · [Descargar el MP4](03_resultados/demo/demo_producto.mp4)
+
+GitHub no reproduce video dentro del repositorio, por eso el reproductor vive en la página del proyecto y aquí arriba queda la vista previa animada.
 
 ## Contenido
 
