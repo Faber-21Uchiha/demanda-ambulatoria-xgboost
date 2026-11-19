@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Demo · Panel de pronóstico y capacidad</title>
+<style>
+  :root {
+    --navy: #0C2340;
+    --navy-2: #0A1526;
+    --green: #7FB432;
+    --lime: #B9D97A;
+    --ink: #14212E;
+    --muted: #6B7C8F;
+    --line: #D9E2EC;
+    --bg: #F4F7FA;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    background: var(--bg);
+    color: var(--ink);
+    font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.55;
+  }
+  header {
+    background: linear-gradient(135deg, var(--navy) 0%, #12315A 100%);
+    color: #fff;
+    padding: 40px 24px 34px;
+  }
+  .wrap { max-width: 1060px; margin: 0 auto; }
+  .eyebrow {
+    font-size: 12px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: var(--lime);
+    font-weight: 700;
+    margin-bottom: 12px;
+  }
+  h1 {
+    font-size: clamp(24px, 3.4vw, 38px);
+    line-height: 1.15;
+    margin: 0 0 12px;
+    letter-spacing: -0.6px;
+  }
+  header p {
+    margin: 0;
+    max-width: 760px;
+    color: #C9D7E2;
+    font-size: 15px;
+  }
+  main { max-width: 1060px; margin: 0 auto; padding: 30px 24px 56px; }
+  .player {
+    background: var(--navy-2);
+    border-radius: 14px;
+    overflow: hidden;
+    box-shadow: 0 18px 45px rgba(12, 35, 64, .18);
+  }
+  video {
+    display: block;
+    width: 100%;
+    height: auto;
+    background: #000;
+  }
+  .bar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px 18px;
+    background: #0F1E33;
+    border-top: 1px solid #1D3355;
+    color: #C9D7E2;
+    font-size: 13px;
+  }
+  .bar a {
+    color: var(--lime);
+    text-decoration: none;
+    font-weight: 600;
+  }
+  .bar a:hover { text-decoration: underline; }
+  .meta {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+    gap: 16px;
+    margin-top: 24px;
+  }
+  .card {
+    background: #fff;
+    border: 1px solid var(--line);
+    border-top: 3px solid var(--green);
+    border-radius: 10px;
+    padding: 16px 18px;
+  }
+  .card h2 {
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 1.2px;
+    color: var(--muted);
+    margin: 0 0 6px;
+  }
+  .card p { margin: 0; font-size: 14px; }
+  .note {
+    margin-top: 24px;
+    font-size: 13px;
+    color: var(--muted);
+  }
+  footer {
+    border-top: 1px solid var(--line);
+    padding: 22px 24px 34px;
+    text-align: center;
+    font-size: 13px;
+    color: var(--muted);
+  }
+  footer a { color: var(--navy); }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div class="eyebrow">Especialización en Analítica de Datos · CUN</div>
+    <h1>Demo · Panel de pronóstico y capacidad</h1>
+    <p>Video de 63 segundos, sin audio, construido con los resultados del repositorio. La narración corresponde al expositor: muestra el pronóstico de las próximas 18 semanas por zona y el cruce con la capacidad instalada.</p>
+  </div>
+</header>
+
+<main>
+  <div class="player">
+    <video src="media/demo_producto.mp4"
+           poster="media/demo_poster.png"
+           autoplay muted loop playsinline controls preload="auto"></video>
+    <div class="bar">
+      <span>Demostración del producto · 63 s · datos sintéticos</span>
+      <a href="media/demo_producto.mp4" download>Descargar el video (MP4)</a>
+    </div>
+  </div>
+
+  <div class="meta">
+    <div class="card">
+      <h2>Qué muestra</h2>
+      <p>Pronóstico semanal por zona, nivel de capacidad y alertas de cupos para las próximas 18 semanas.</p>
+    </div>
+    <div class="card">
+      <h2>Con qué se construyó</h2>
+      <p>Panel zona-semana con XGBoost (MAPE 6,93 %, R² 0,965) y los escenarios de impacto del OE5.</p>
+    </div>
+    <div class="card">
+      <h2>Naturaleza de los datos</h2>
+      <p>Capa sintética de validación metodológica: no contiene información real ni identificable.</p>
+    </div>
+  </div>
+
+  <p class="note">La reproducción es automática y en bucle, sin sonido. Usa los controles del reproductor para pausar, adelantar o repetir.</p>
+</main>
+
+<footer>
+  Proyecto de grado · Faber Aleman Mendoza · Saidy Nayarith Alonso Ardila · Luis Fernando Estrada Pretelt<br>
+  <a href="https://github.com/Faber-21Uchiha/demanda-ambulatoria-xgboost">github.com/Faber-21Uchiha/demanda-ambulatoria-xgboost</a>
+</footer>
+</body>
+</html>
