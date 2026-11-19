@@ -44,6 +44,7 @@ El estudio se realiza sobre una entidad anonimizada, **Red Integrada de Servicio
 │   └── panel_features.py                                  # ingeniería de características del panel
 ├── 03_resultados/
 │   ├── figuras/                                           # figuras del documento (PNG, 200 ppp)
+│   ├── demo/                                              # video de demostración y su póster
 │   ├── tablas/                                            # tablas intermedias (CSV)
 │   ├── modelos/
 │   │   └── modelo_panel_xgboost.ubj                       # artefacto del modelo de panel (447,9 KB)
@@ -161,6 +162,41 @@ Simulación de impacto (OE5), ventana de 18 semanas del panel:
 | Oráculo: dirigido perfecto | — | 156,3 | 41,3 |
 
 El nivel de capacidad domina el impacto; la reasignación sola no aporta porque el error de composición del pronóstico (4,35 % en norma L1) es similar al de la capacidad vigente (4,20 %). La relación PQRS↔no atendidas se estimó con OLS-HC1: b = 0,2727 [0,2569; 0,2885], R² = 0,795, coherente con el parámetro 0,28 del generador. Los supuestos están en `03_resultados/supuestos_capa_oe5.json`.
+
+## Galería de resultados
+
+Figuras generadas por los scripts `07_figuras_oe2.py`, `08_figuras_fase3.py` y `13_figuras_oe4_oe5.py`. Todas se publican en `03_resultados/figuras/` a 200 ppp y corresponden a la capa sintética.
+
+### OE1–OE2 · Serie, estructura temporal y conducta prescriptiva
+
+| | |
+|---|---|
+| <img src="03_resultados/figuras/fig_serie_semanal.png" width="430"><br>**Serie semanal de demanda**<br>104 semanas completas, media de 840,8 registros. | <img src="03_resultados/figuras/fig_stl.png" width="430"><br>**Descomposición STL**<br>Tendencia, estacionalidad anual y residuo de la serie agregada. |
+| <img src="03_resultados/figuras/fig_acf_pacf.png" width="430"><br>**ACF y PACF**<br>Estructura de autocorrelación y memoria estacional. | <img src="03_resultados/figuras/fig_estabilidad.png" width="430"><br>**Estabilidad temporal**<br>Media y dispersión por bloques de semanas. |
+| <img src="03_resultados/figuras/fig_matriz_prescriptiva.png" width="430"><br>**Matriz prescriptiva**<br>Perfiles diagnósticos CIE-10 por servicio; V de Cramér de 0,014, sin asociación explotable. | |
+
+### OE3 · Modelo XGBoost
+
+| | |
+|---|---|
+| <img src="03_resultados/figuras/fig_arquitectura.png" width="430"><br>**Arquitectura del proceso**<br>Del dato bruto al pronóstico y al protocolo de operación. | <img src="03_resultados/figuras/fig_importancia.png" width="430"><br>**Importancia de variables**<br>Rezagos, estacionalidad y variables de capacidad. |
+| <img src="03_resultados/figuras/fig_prediccion.png" width="430"><br>**Demanda observada y predicha**<br>Conjunto de prueba de 18 semanas. | <img src="03_resultados/figuras/fig_residuos.png" width="430"><br>**Diagnóstico de residuos**<br>Error sin patrón sistemático apreciable. |
+| <img src="03_resultados/figuras/fig_panel_zonas.png" width="430"><br>**Panel zona-semana**<br>Pronóstico por zona; MAPE de 6,93 % y R² de 0,965. | <img src="03_resultados/figuras/fig_error_por_zona.png" width="430"><br>**Error por zona**<br>El modelo gana en Centro, Norte y Sur y pierde en Occidente. |
+
+### OE4–OE5 · Operación e impacto
+
+| | |
+|---|---|
+| <img src="03_resultados/figuras/fig_psi.png" width="430"><br>**Monitoreo PSI**<br>35 variables vigiladas; 12 en alerta y 2 en reentrenamiento. | <img src="03_resultados/figuras/fig_escenarios_oe5.png" width="430"><br>**Escenarios de capacidad**<br>No atendidas y PQRS esperadas por escenario. |
+| <img src="03_resultados/figuras/fig_sensibilidad_oe5.png" width="430"><br>**Sensibilidad del impacto**<br>Efecto del presupuesto adicional sobre PQRS y error de pronóstico. | |
+
+### Demo del producto
+
+Video de 63 segundos, sin audio, que muestra el panel de pronóstico y capacidad construido con los resultados del repositorio. La narración corresponde al expositor.
+
+[<img src="03_resultados/demo/demo_poster.png" width="640">](03_resultados/demo/demo_producto.mp4)
+
+[▶ Ver la demostración en video](03_resultados/demo/demo_producto.mp4)
 
 ## Privacidad y datos
 
