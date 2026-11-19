@@ -4,6 +4,14 @@ Repositorio de código, datos sintéticos y resultados del proyecto de grado **�
 
 El estudio se realiza sobre una entidad anonimizada, **Red Integrada de Servicios de Salud Metropolitana E.S.E.**, con cuatro zonas de operación (Norte, Sur, Centro y Occidente). Todos los registros publicados en este repositorio son **sintéticos**: no contienen información de personas reales ni datos institucionales.
 
+## Demo del producto
+
+Video de 63 segundos, sin audio, que muestra el panel de pronóstico y capacidad construido con los resultados del repositorio. La narración corresponde al expositor.
+
+[<img src="03_resultados/demo/demo_preview.gif" width="720" alt="Demostración animada del panel de pronóstico y capacidad">](03_resultados/demo/demo_producto.mp4)
+
+[▶ Ver la demostración en video con controles](03_resultados/demo/demo_producto.mp4)
+
 ## Contenido
 
 | Componente | Objetivo específico | Scripts |
@@ -189,14 +197,6 @@ Figuras generadas por los scripts `07_figuras_oe2.py`, `08_figuras_fase3.py` y `
 |---|---|
 | <img src="03_resultados/figuras/fig_psi.png" width="430"><br>**Monitoreo PSI**<br>35 variables vigiladas; 12 en alerta y 2 en reentrenamiento. | <img src="03_resultados/figuras/fig_escenarios_oe5.png" width="430"><br>**Escenarios de capacidad**<br>No atendidas y PQRS esperadas por escenario. |
 | <img src="03_resultados/figuras/fig_sensibilidad_oe5.png" width="430"><br>**Sensibilidad del impacto**<br>Efecto del presupuesto adicional sobre PQRS y error de pronóstico. | |
-
-### Demo del producto
-
-Video de 63 segundos, sin audio, que muestra el panel de pronóstico y capacidad construido con los resultados del repositorio. La narración corresponde al expositor.
-
-[<img src="03_resultados/demo/demo_poster.png" width="640">](03_resultados/demo/demo_producto.mp4)
-
-[▶ Ver la demostración en video](03_resultados/demo/demo_producto.mp4)
 
 ## Privacidad y datos
 
